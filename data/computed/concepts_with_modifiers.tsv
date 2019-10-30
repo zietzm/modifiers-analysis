@@ -1,0 +1,592 @@
+concept_id	concept_name	concept_code
+45765743	Severe dry skin	702757002
+45765900	Severe cognitive impairment	702956004
+45766192	Severe hypoxic ischemic encephalopathy	703303004
+40479642	Pneumonia due to Severe acute respiratory syndrome coronavirus	441590008
+42872411	Severe major depression, single episode	251000119105
+42872412	Severe mixed bipolar I disorder	271000119101
+42872413	Severe depressed bipolar I disorder	261000119107
+42872722	Severe major depression	450714000
+42873066	Severe dehydration	450316000
+43020451	Severe manic bipolar I disorder	23741000119105
+43021814	Severe receptive language delay	89391000119105
+43021823	Severe expressive language delay	62221000119105
+44783877	Severe achondrolasia with developmental delay and acanthosis nigricans	699870002
+44793476	Antenatal screening shows non significant carrier of sickle cell or thalassaemia	384511000000103
+44793499	Antenatal screening shows significant carrier of sickle cell or thalassaemia	384671000000109
+43531624	Severe recurrent major depression	281000119103
+44789633	TAG score: very severe	205711000000101
+44782720	Severe seasonal affective disorder	133121000119109
+44796728	[X]Severe vulvar dysplasia, not elsewhere classified	424811000000103
+44791725	Very severe chronic obstructive pulmonary disease	293991000000106
+44790677	TAG score: severe	205701000000103
+44791872	Non-significant carrier of disorder	302801000000107
+44791873	Significant carrier of disorder	302811000000109
+44791875	Non-significant homozygote	302841000000105
+44794775	[X]Recurrent depressive disorder, current episode severe without psychotic symptoms	402441000000102
+44793521	Severe chronic fatigue syndrome	377161000000108
+44794929	Patient suffering from severe mental impairment under Mental Health Act 1983	400581000000107
+44800999	[X]Other mental retardation, significant impairment of behaviour requiring attention or treatment	479801000000100
+44801053	[X]Severe mental retardation with the statement of no, or minimal, impairment of behaviour	466971000000101
+44800324	[X]Severe mental retardation, significant impairment of behaviour requiring attention or treatment	470851000000108
+44800377	[X]Severe cervical dysplasia, not elsewhere classified	477581000000103
+132685	Severe pre-eclampsia - not delivered	198985009
+44801788	[X]Severe learning disability	508171000000105
+44802020	Severe lymphoedema of limb	511221000000105
+44805371	Severe lower urinary tract symptoms	763101000000106
+44796187	[X]Unspecified severe protein-energy malnutrition	419491000000100
+44805540	Mixed bipolar affective disorder, severe	764591000000108
+44805542	Recurrent major depressive episodes, severe	764611000000100
+44805543	Recurrent manic episodes, severe	764621000000106
+44805545	Single manic episode, severe	764641000000104
+44795731	[X]Moderate mental retardation, significant impairment of behaviour requiring attention or treatment	412931000000103
+44798294	[X]Mild mental retardation, significant impairment of behaviour requiring attention or treatment	441311000000109
+44798442	[X]Recurrent depressive disorder, current episode severe with psychotic symptoms	444051000000108
+44805668	[X]Single major depressive episode, severe, with psychosis, psychosis in remission	755321000000106
+44805669	[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission	755331000000108
+44795861	[X]Severe mental retardation, other impairments of behaviour	414741000000101
+44797280	[X]Severe mental and behavioural disorders associated with the puerperium, not elsewhere classified	432081000000107
+44798574	[X]Profound mental retardation, significant impairment of behaviour requiring attention or treatment	442261000000105
+44800821	[X]Reaction to severe stress, unspecified	466091000000103
+44801236	[X]Severe mental retardation without mention of impairment of behaviour	468051000000105
+44798264	[X]Unspecified mental retardation, significant impairment of behaviour requiring attention or treatment	442361000000101
+44813514	[X]Bipolar affective disorder, current episode severe depression without psychotic symptoms	465911000000102
+44808886	Severe sensorineural hearing loss	860811000000106
+44809027	Severe hypertension	843841000000109
+44796366	[X]Other reactions to severe stress	415011000000100
+44805139	Antenatal screening shows non significant haemoglobinopathy carrier	750571000000106
+44805140	Antenatal screening shows carrier of significant haemoglobinopathy including sickle cell or thalassaemia	750601000000104
+44805730	[D]Severe wheeze	755601000000105
+44805731	[D]Very severe wheeze	755611000000107
+44795878	[X]Other severe and complicated plasmodium falciparum malaria	411841000000106
+44812417	[X]Severe vaginal dysplasia, not elsewhere classified	396371000000107
+44806788	Severe visual impairment, binocular	813871000000108
+44806789	Severe visual impairment, monocular	813881000000105
+44810468	Bilateral severe sensorineural hearing loss	898061000000101
+44810571	Severe cognitive impairment	888311000000101
+29783	Severe combined immunodeficiency disease	31323000
+381557	Impairment level: better eye: severe impairment: lesser eye: profound impairment	30272003
+433536	Severe pre-eclampsia	46764007
+372599	Severe mixed bipolar I disorder without psychotic features	46229002
+372909	Impairment level: better eye: severe impairment: lesser eye: not further specified	39914007
+374933	Impairment level: better eye: moderate impairment: lesser eye: severe impairment	29887003
+374934	Impairment level: one eye: severe impairment: other eye: near-normal vision	72020003
+376689	Impairment level: severe impairment of both eyes	86643000
+374038	Impairment level: one eye: severe impairment: other eye: normal vision	75000006
+374039	Impairment level: better eye: severe impairment: lesser eye: near-total impairment	1909000
+432427	Severe birth asphyxia	57284007
+320651	Severe acute respiratory syndrome	398447004
+380717	Impairment level: better eye: severe impairment: lesser eye: total impairment	58937003
+381013	Impairment level: one eye: severe impairment: other eye: not specified	31264007
+436386	Severe depressed bipolar I disorder with psychotic features	59617007
+442570	Severe depressed bipolar I disorder without psychotic features	61403008
+435220	Severe recurrent major depression without psychotic features	36474008
+439246	Mixed bipolar affective disorder, severe, with psychosis	191641004
+439256	Bipolar affective disorder, currently manic, severe, with psychosis	191623007
+439259	Single major depressive episode, severe, with psychosis	191604000
+439262	Single manic episode, severe, with psychosis	191586008
+439001	Severe mixed bipolar I disorder with psychotic features	10981006
+437522	Severe mood disorder without psychotic features	88939009
+437532	Recurrent manic episodes, severe, with psychosis	191595000
+438406	Severe major depression, single episode, with psychotic features	430852001
+438490	Severe pre-eclampsia - delivered	198983002
+441534	Severe major depression, single episode, without psychotic features	76441001
+438129	Severe manic bipolar I disorder with psychotic features, mood-congruent	78640000
+439772	Carcinoma in situ of trachea	92772005
+256716	Asthma with status asthmaticus	57546000
+376114	Severe nonproliferative diabetic retinopathy	312905005
+440370	Nutritional marasmus	29740003
+432872	Classical phenylketonuria	7573000
+378758	Impairment level: better eye: severe impairment: lesser eye: blind, not further specified	111518009
+4009170	Tay-Sachs disease	111385000
+4012965	Severely abnormal behavior	165312001
+4009791	SCID due to absent IL-2 receptor	111587007
+434895	Congenital neutropenia	89655007
+434911	Recurrent major depressive episodes, severe, with psychosis	191613003
+4011335	Severe vertigo, acute onset	103299002
+439077	Severe pre-eclampsia - delivered with postnatal complication	198984008
+444415	Carcinoma in situ of bronchus	92557009
+4034842	Severe recurrent major depression with psychotic features, mood-incongruent	15193003
+4029282	Severe systemic illness-induced cutaneous atrophy	238156001
+4030102	Severe bipolar I disorder, single manic episode with psychotic features, mood-congruent	13581000
+4029420	Diabetic severe hyperglycemia	237621004
+4006459	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND severe panic attacks	111490003
+4006469	Reticular dysgenesis	111584000
+4030856	Severe bipolar I disorder, single manic episode without psychotic features	14495005
+4031048	Severe chronic ulcerative colitis	14311001
+4034968	Recurrent severe hypoglycemia	237636001
+4012422	Severe vertigo	103298005
+4021466	Severe hereditary spherocytosis due to combined deficiency of spectrin AND ankyrin	10564005
+443797	Severe manic bipolar I disorder without psychotic features	162004
+4031170	Severe systemic illness tissue wasting	238153009
+4031171	Severe systemic illness-induced skeletal muscle wasting	238154003
+4031928	Severe mixed bipolar I disorder with psychotic features, mood-incongruent	10875004
+4000165	Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-congruent	19300006
+4045263	Severe bipolar II disorder, most recent episode major depressive, in full remission	12969000
+4054913	Panic disorder with agoraphobia, mild agoraphobic avoidance AND severe panic attacks	19766004
+4032345	Severe hyperemesis gravidarum	129598007
+4029879	Arylsulfatase A deficiency	238031009
+4030770	No significant change since previous mammogram	129723006
+4050225	Severe multi tissue damage lower arm	210557006
+4050230	Severe multi tissue damage hand	210574006
+4049502	Dengue hemorrhagic fever	20927009
+4047511	Severe bone marrow hyperplasia	123727000
+4053146	Severe multi tissue damage foot	210724006
+4031286	Severe systemic illness-induced intestinal villous atrophy	238155002
+4059358	Severe dyskaryosis on cervical smear cannot exclude invasive carcinoma	168406009
+4050527	Severe multi tissue damage lower leg	210704007
+4043550	Severe myoclonic epilepsy in infancy	230437002
+4052979	Severe multi tissue damage upper arm	210528007
+4051395	Severe steroid 21-hydroxylase deficiency	15991002
+4051448	Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-incongruent	20960007
+4056830	Severe hereditary factor VIII deficiency disease	16872008
+4067409	Severe major depression, single episode, with psychotic features, mood-incongruent	20250007
+4088744	Severe adrenal insufficiency	24867002
+4057976	Severe pre-eclampsia with postnatal complication	198986005
+4056306	Severe multi tissue damage hip or thigh	210679005
+4078430	Severe systemic illness-induced respiratory muscle wasting	276230003
+4058745	Cervical smear - severe inflammation	168416001
+4064990	Lung function significantly obstructed	165021009
+4059038	Disability - severe	161045001
+4062835	O/E - significantly deaf	164061000
+4096098	Lymphopenic agammaglobulinemia - short-limbed dwarfism syndrome	25109007
+4098948	Cervical intraepithelial neoplasia grade III with severe dysplasia	252991009
+4097998	Severe combined immunodeficiency with reticular dysgenesis	190996002
+4082315	Idiopathic infantile hypercalcemia - severe form	277481003
+4101448	Severe combined immunodeficiency with low or normal B-cell numbers	190998001
+4094507	Severe depressed bipolar I disorder with psychotic features, mood-incongruent	26203008
+4102603	Severe manic bipolar I disorder with psychotic features	28663008
+4109118	Better eye: severe visual impairment, Lesser eye: profound visual impairment	193716005
+4109126	Lesser eye: severe visual impairment, Better eye: near normal vision	193748009
+4109178	Dysplasias with significant membranous bone involvement	254094003
+4109188	Oculodento-osseous dysplasia - severe type	254138001
+4109559	Better eye: severe visual impairment, Lesser eye: severe visual impairment	193725004
+4109563	Lesser eye: severe visual impairment, Better eye: normal vision	193749001
+4127074	Androgen resistance - infertile male	236798003
+4127553	Chronic rejection of renal transplant - grade III	236581001
+4104390	Better eye: moderate visual impairment, Lesser eye: severe visual impairment	193727007
+4103738	Better eye: severe visual impairment, Lesser eye: total visual impairment	193714008
+4120635	Severe combined immunodeficiency with maternofetal engraftment	234570002
+4111328	Craniometaphyseal dysplasia - severe type	254134004
+4121417	Severe birth asphyxia, APGAR 0-3	287985008
+4109930	Panic disorder with agoraphobia, severe agoraphobic avoidance AND mild panic attacks	1816003
+4141603	Severe manic bipolar I disorder with psychotic features, mood-incongruent	33380008
+4100975	Autosomal recessive severe combined immunodeficiency	190993005
+4143602	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND severe panic attacks	34116005
+4146367	Sialic acid storage disease, severe infantile type	34566007
+4100976	Severe combined immunodeficiency with low T- and B-cell numbers	190997006
+4142350	SCID due to absent peripheral T cell maturation	3439009
+4143622	Severe myopia	34187009
+4113739	Severe ichthyoses	254159008
+4132144	Severe mood disorder with psychotic features	26516009
+4131027	Severe bipolar disorder with psychotic features, mood-incongruent	26530004
+4138164	Severely limited jaw protrusion	425896005
+4155798	Severe bipolar disorder	371600003
+4154283	Severe bipolar I disorder	371599001
+4161455	Significant coronary bypass graft disease	371805005
+4145356	Severe persistent asthma	426656000
+4144233	Severe major depression with psychotic features, mood-congruent	33736005
+4141292	Severe recurrent major depression with psychotic features, mood-congruent	33078009
+4147991	Severe bipolar II disorder, most recent episode major depressive with psychotic features	30520009
+4151556	Cervical smear - severe dyskaryosis	269960002
+4129184	Severe postnatal depression	237350002
+4146608	Panic disorder with agoraphobia, severe agoraphobic avoidance AND moderate panic attacks	30059008
+4155020	Mild intimal coronary irregularities without significant stenoses	371861004
+4129843	Severe postnatal psychosis	237352005
+4172671	Severe childhood autosomal recessive muscular dystrophy	277373000
+4161200	Severe bipolar II disorder	371604007
+4162095	Macular edema not clinically significant with diabetes mellitus	399864000
+4160791	Severe thrombus	373143004
+4149321	Severe depression	310497006
+4153452	Severe birth asphyxia - apgar score less than 4 at 1 minute	268829008
+4152913	Severe asthma	370221004
+4172871	Severe transient tachypnea of newborn	276532007
+4163402	SCID due to absent IL-2 production	45390000
+4154309	Severe recurrent major depression with psychotic features	28475009
+4164632	Very severe proliferative diabetic retinopathy	399865004
+4162728	Severe hypokinesis of cardiac wall	371870001
+4169261	Severe sinus bradycardia	49044005
+4205667	Severe biliary tract dysplasia	308864005
+4205668	Severe pancreatic duct dysplasia	308868008
+4174575	Vulval intraepithelial neoplasia grade 3	276875006
+4182998	Severe depressed bipolar I disorder with psychotic features, mood-congruent	54761006
+4177663	SCID due to absent T cell receptor	49555001
+4205664	Severe esophageal dysplasia	308860001
+4176571	Severe crushing injury of abdominal organs	48944001
+4182119	Panic disorder without agoraphobia with severe panic attacks	43150009
+4179989	Autosomal recessive SCID	362993009
+4195494	Visually significant corneal scar	314005007
+4183718	Pericarditis associated with severe chronic anemia	43742007
+4195158	Severe bipolar disorder with psychotic features	4441000
+4200385	Severe bipolar disorder without psychotic features	53049002
+4203915	Classical maple syrup urine disease	54064006
+4204027	Severe stomach dysplasia	308856004
+4204032	Severe dysplasia of rectum	308879003
+4204708	Panic disorder with agoraphobia AND severe panic attacks	5509004
+4202471	Severe dysplasia of colon	308873002
+4209097	Severe chronic obstructive pulmonary disease	313299006
+4209366	Severe hereditary factor IX deficiency disease with inhibitor	440866009
+4236296	GDS level 6 - severe cognitive decline	407634002
+4236297	GDS level 7 - very severe cognitive decline	407635001
+4195046	Clinically significant macular edema	312911008
+4188224	Severe x-linked myotubular myopathy	46804001
+4223035	Borg Breathlessness Score: 4 somewhat severe	401282007
+4223036	Borg Breathlessness Score: 5 severe	401284008
+4223037	Borg Breathlessness Score: 7 very severe	401290007
+4223038	Borg Breathlessness Score: 8 very severe	401291006
+4223217	Severe hypothyroidism	83986005
+4230765	Acute cellular graft rejection	40442005
+4221962	Very severe nonproliferative diabetic retinopathy with no macular edema	399863006
+4239453	Severe mood disorder with psychotic features, mood-congruent	58647003
+4238503	Maroteaux-Lamy syndrome, severe form	58263000
+4243153	Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in full remission	38328002
+4217940	Severe bipolar II disorder, most recent episode major depressive without psychotic features	81319007
+4216841	SCID due to absent class II HLA antigens	71904008
+4233045	GDS level 5 - moderately severe cognitive decline	407633008
+4233565	Severe protein-calorie malnutrition	360549009
+4217281	Curling's ulcers	39755000
+4259713	Severe hereditary factor VIII deficiency disease without inhibitor	440993008
+4214746	Severe anxiety	80583007
+4248125	Severe crushing injury of abdominal organs without open wound into cavity	72739001
+4220617	Severe bipolar I disorder, single manic episode with psychotic features	41832009
+4220640	Borg Breathlessness Score: 6 severe	401286005
+4220641	Borg Breathlessness Score: 9 very, very severe	401292004
+4252417	Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in partial remission	74010007
+4262272	Severe bipolar II disorder, most recent episode major depressive, in remission	35722002
+4263378	pT3: Significant invasion of the optic nerve and/or optic coats	396966001
+4247774	Hunter's syndrome, severe form	73146005
+4269870	Non-high-risk proliferative diabetic retinopathy with clinically significant macular edema	399875001
+4269871	Very severe nonproliferative diabetic retinopathy	399876000
+4242565	Anticipatory anxiety, severe	5874002
+4242734	Powerlessness, severe	59602008
+4246992	Panic disorder with agoraphobia, severe agoraphobic avoidance AND severe panic attacks	61212007
+4243822	Severe major depression with psychotic features, mood-incongruent	60099002
+4247409	Severe crushing injury of abdominal organs with open wound into cavity	60464005
+4230148	Severe hereditary factor VIII deficiency disease with inhibitor	438373005
+4248811	Healthcare associated severe acute respiratory syndrome	408688009
+4249551	Severe diarrhea	409587002
+4250023	Severe major depression with psychotic features	73867007
+4261944	Severe hereditary factor IX deficiency disease without inhibitor	441190003
+4288370	Severe visual impairment	397541004
+4266042	Proliferative diabetic retinopathy - high risk with clinically significant macular edema	399874002
+4268894	Acute megaloblastic anemia due to severe illness	62389006
+4276347	Mucopolysaccharidosis, MPS-I-H	65327002
+4276670	Severe mixed bipolar I disorder with psychotic features, mood-congruent	64731001
+4283219	Severe bipolar II disorder, most recent episode major depressive, in partial remission	67002003
+4288156	Ozena	69646003
+4290822	Severe nonproliferative diabetic retinopathy with clinically significant macular edema	399872003
+4290823	Very severe nonproliferative diabetic retinopathy with clinically significant macular edema	399877009
+4266637	Severe nonproliferative diabetic retinopathy with no macular edema	399873008
+4289831	SCID due to absent adenosine deaminase	36980009
+4309492	Severe multiple injuries	213389000
+4307510	Ehlers-Danlos syndrome, type 1	83470009
+4289751	Severe mood disorder with psychotic features, mood-incongruent	70043001
+4307664	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND severe panic attacks	83631006
+4312736	Severe bipolar I disorder, single manic episode with psychotic features, mood-incongruent	86058007
+4266511	Mannosidosis, type I	62311004
+4299785	Severe major depression, single episode, with psychotic features, mood-congruent	77911002
+4296746	Severe pain	76948002
+4298813	Severe hereditary spherocytosis due to spectrin deficiency	77413008
+4322477	Severe bipolar disorder with psychotic features, mood-congruent	70546001
+4330845	SCID due to absent lymphoid stem cells	22406001
+4327337	Severe major depression without psychotic features	75084000
+4344043	Severe autosomal recessive muscular dystrophy of childhood - North African type	240056002
+4048668	Severe cytopenia	123722006
+4347293	Severe systemic illness respiratory muscle fatigue	240130007
+4345565	Severe scapuloperoneal muscular dystrophy with cardiomyopathy	240077004
+4246981	No significant drug interactions	408358005
+40438556	Addisonian crisis	237757001
+40432390	X-linked severe combined immunodeficiency	234569003
+40426692	[X]Evidence of alcohol involvement determined by level of intoxication, severe alcohol intoxication	223347009
+40426693	[X]Evidence of alcohol involvement determined by level of intoxication, very severe alcohol intoxication	223348004
+40404993	White asphyxia	206276007
+40401443	Infantile malignant osteopetrosis	205502002
+40389580	[X]Unspecified severe protein-energy malnutrition	191078000
+40398219	Painful menstruation	198404001
+40390883	Congenital agranulocytosis NEC	191342002
+40389152	Morbid obesity	190967003
+40389237	[X]Unspecified mental retardation, significant impairment of behaviour requiring attention or treatment	192559006
+40390118	Metachromatic leukodystrophy	192784006
+40398180	[X]Severe vaginal dysplasia, not elsewhere classified	198370008
+40398208	[X]Severe vulvar dysplasia, not elsewhere classified	198395009
+40389182	Severe combined immunodeficiency	190994004
+40389198	Severe combined immunodeficiency with short-limbed dwarfism	191007006
+40389210	[X]Mild mental retardation, significant impairment of behaviour requiring attention or treatment	192534002
+40389215	[X]Moderate mental retardation, significant impairment of behaviour requiring attention or treatment	192539007
+40389219	Severe mental retardation, IQ in range 20-34	192542001
+40389220	[X]Severe mental retardation with the statement of no, or minimal, impairment of behavior	192543006
+40389221	[X]Severe mental retardation, significant impairment of behaviour requiring attention or treatment	192544000
+40389222	[X]Severe mental retardation, other impairments of behavior	192545004
+40389223	[X]Severe mental retardation without mention of impairment of behaviour	192546003
+40389226	[X]Profound mental retardation, significant impairment of behaviour requiring attention or treatment	192549005
+40389232	[X]Other mental retardation, significant impairment of behaviour requiring attention or treatment	192554001
+40387708	Marasmic kwashiorkor	190596005
+40387710	[X]Unspecified severe protein-energy malnutrition	190598006
+40394323	PET - Severe pre-eclamptic toxaemia	198981000
+40392486	[X]Severe vaginal dysplasia, not elsewhere classified	198601000
+40392487	[X]Severe vulvar dysplasia, not elsewhere classified	198602007
+40398152	[X]Severe cervical dysplasia, not elsewhere classified	198344007
+40388783	[X] Mental and behavioral disorders associated with the puerperium: [severe, not elsewhere classified] or [puerperal psychosis NOS]	192477004
+40380307	[X]Other severe and complicated plasmodium falciparum malaria	187503005
+40399170	[X]Severe cervical dysplasia, not elsewhere classified	198600004
+40388271	[X]Severe depressive episode without psychotic symptoms	192369004
+40388272	[X] Single episode of psychotic depression	192370003
+40370158	Ozaena	284185003
+40388260	[X]Bipolar affective disorder, current episode severe depression without psychotic symptoms	192359005
+40388263	Bipolar affective disorder, currently depressed, severe, with psychosis	192361001
+40386124	Better eye: severe visual impairment, Lesser eye: near total visual impairment	193715009
+40395887	Status asthmaticus NOS	195980003
+40395907	Severe chronic obstructive pulmonary disease	195998004
+40387315	Addisonian crisis	190522002
+40387319	Addisonian crisis	190526004
+40355721	Severe hyperemesis gravidarum	270539008
+40351326	Congenital neutropenia	267541006
+40388280	[X]Depression without psychotic symptoms: [recurrent: [major] or [manic-depressive psychosis, depressed type] or [vital] or [current severe episode]] or [endogenous]	192377000
+40388281	[X]Recurrent depressive disorder, current episode severe with psychotic symptoms	192378005
+40388325	[X]Other reactions to severe stress	192417008
+40388326	[X]Reaction to severe stress, unspecified	192418003
+40371867	Severe anxiety (panic)	286544004
+40335956	CIN III - severe dyskaryosis	168405008
+40353442	[EDTA] Severe nephrotic syndrome with focal sclerosis (paediatric patients only) associated with renal failure	274552005
+40356716	[X]Severe depressive episode without psychotic symptoms	268702009
+40356718	[X]Severe depressive episode with psychotic symptoms	268704005
+40356722	[X]Recurrent depressive disorder, current episode severe without psychotic symptoms	268708008
+40356723	[X]Recurrent depressive disorder, current episode severe with psychotic symptoms	268709000
+40356742	[X]Severe mental and behavioral disorders associated with the puerperium, not elsewhere classified	268726006
+40351261	Corticoadrenal insufficiency	267483004
+40351274	Dietary deficiency	267495004
+40337632	Recurrent severe hypos	170767002
+40361380	Severe mental retardation, IQ in range 20-34	276235008
+40322977	Severe birth asphyxia, APGAR 0-3	157104000
+40322279	Severe depression	154967000
+40321173	Addison's disease	154707007
+40321198	Kwashiokor	154730001
+40318659	Severe proteinuric hypertension of pregnancy	156110008
+40318665	Severe hyperemesis gravidarum	156115003
+40322290	Severe mental retardation, IQ in range 20-34	154977003
+40316554	Severe chronic obstructive pulmonary disease	155584009
+40313874	CIN III - severe dyskaryosis	145597000
+40313875	Cervical smear - severe dyskaryosis ? invasive carcinoma	145598005
+40313888	Cervical smear - severe inflammation	145609003
+40318188	Dysmenorrhoea	156030009
+40316546	Status asthmaticus	155577001
+40303988	O/E - significantly deaf	141259005
+40306231	Symptom severe	139737008
+40306232	Symptom very severe	139738003
+40300664	Severely abnormal behavior	142722008
+4101159	Other severe protein-calorie malnutrition (weight for age less than 60% of standard)	190600000
+4098907	Carcinoma in situ of esophagus NOS	189217007
+4104389	Better eye: severe visual impairment, Lesser eye: low vision unspecified	193724000
+4104393	Lesser eye: severe visual impairment, Better eye: unspecified	193747004
+4100376	Unspecified bipolar affective disorder, severe, without mention of psychosis	191650002
+4144104	Status asthmaticus NOS	266363006
+4102668	Unspecified bipolar affective disorder, severe, with psychosis	191651003
+4109117	Better eye: severe visual impairment, Lesser eye: blind, unspecified	193713002
+4062547	Severe pre-eclampsia NOS	198987001
+4058534	Severe pre-eclampsia unspecified	198982007
+432898	Severe intellectual disability	40700009
+40633330	Stress ulcer of stomach	77282005
+439257	Bipolar affective disorder, currently manic, severe, without mention of psychosis	191622002
+439258	Recurrent manic episodes, severe without mention of psychosis	191594001
+439263	Single manic episode, severe without mention of psychosis	191585007
+194201	Liver minor laceration without mention of open wound into cavity	210166002
+40631992	Junctional epidermolysis bullosa	76905008
+439244	Bipolar affective disorder, currently depressed, severe, without mention of psychosis	191631002
+439247	Mixed bipolar affective disorder, severe, without mention of psychosis	191640003
+439252	Recurrent major depressive episodes, severe, without mention of psychosis	191612008
+40612883	Infantile malignant osteopetrosis	63941000
+35622255	Severe combined immunodeficiency due to CTPS1 deficiency	763623001
+35622830	SURF1-related Charcot-Marie-Tooth disease type 4	765047006
+35622943	Severe combined immunodeficiency due to complete RAG1 and/or RAG2 deficiency	765188009
+40560611	Removed from severe mental illness register	390685005
+40560612	On severe mental illness register	390686006
+35625463	PURA syndrome	768473009
+35625535	5q31.3 microdeletion syndrome	768555009
+35626043	Severe nonproliferative diabetic retinopathy of right eye	769187006
+35626044	Severe nonproliferative diabetic retinopathy of left eye	769188001
+35626046	Very severe nonproliferative diabetic retinopathy of right eye	769190000
+35626047	Very severe nonproliferative diabetic retinopathy of left eye	769191001
+35626071	Clinically significant macular edema of right eye due to diabetes mellitus	769221001
+35626072	Clinically significant macular edema of left eye due to diabetes mellitus	769222008
+35626764	Clinically significant macular edema with diabetes mellitus	770097006
+45773067	Bilateral moderate to severe visual impairment	8771000119104
+45772124	Severe hearing loss	3561000119106
+45768912	Exacerbation of severe persistent asthma	707447008
+45769442	Acute severe exacerbation of allergic asthma	708095007
+45769443	Acute severe exacerbation of intrinsic asthma	708096008
+45770554	Significant intellectual development disorder	931001000000105
+45769350	Acute severe exacerbation of severe persistent asthma	707979007
+45769351	Acute severe exacerbation of moderate persistent asthma	707980005
+45769352	Acute severe exacerbation of mild persistent asthma	707981009
+45768730	Severe acute respiratory infection	707224005
+45768707	Abutment tooth condition severely compromised, 4 or more sextants	707195006
+45769833	Severe malnutrition due to type 1 diabetes mellitus	72031000119107
+45769835	Severe malnutrition due to type 2 diabetes mellitus	72051000119101
+45757686	Severe hyperstimulation of ovaries	32591000119103
+45768965	Uncomplicated severe persistent asthma	707513007
+45770280	Severe frailty	925861000000102
+40541325	Metachromatic leukodystrophy	3621006
+45773633	Severe alcohol dependence	928151000000102
+40565450	On severe mental illness register	389952009
+40547675	Dysmenorrhoea	367433008
+40565487	Morbid obesity	389986000
+40544275	Status asthmaticus	36979006
+40534112	Infantile malignant osteopetrosis	360504006
+40500115	Dysmenorrhea	29837005
+40515654	Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight)	30773007
+40503785	Patient suffering from severe ment impairment under MHA 1983	303003002
+40454931	Vulval intraepithelial neoplasia grade 3	252992002
+46273014	Spinal muscular atrophy with respiratory distress type 1	711483003
+46269944	Severe sepsis with acute organ dysfunction due to Chromobacterium	1092571000119109
+46269945	Severe sepsis with acute organ dysfunction due to coagulase negative Staphylococcus	1092581000119107
+46269946	Severe sepsis with acute organ dysfunction due to Enterococcus	1092591000119105
+46269947	Severe sepsis with acute organ dysfunction due to Group A streptococcus	1092631000119105
+46269948	Severe sepsis with acute organ dysfunction due to Group B streptococcus	1092641000119101
+46274059	Acute severe exacerbation of severe persistent allergic asthma	10675471000119109
+46274081	Severe sepsis with acute organ dysfunction due to Gram-positive bacteria	1092611000119100
+46274124	Acute severe exacerbation of mild persistent allergic asthma	10675911000119109
+46274129	Severe sepsis with acute organ dysfunction due to Gram-negative bacteria	127291000119107
+46273462	Acute severe exacerbation of moderate persistent allergic asthma	10676431000119103
+46269767	Acute severe exacerbation of asthma co-occurrent with allergic rhinitis	10674711000119105
+46269770	Severe persistent allergic asthma	10675431000119106
+46269771	Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis	10675551000119104
+46269772	Severe persistent allergic asthma controlled	10675591000119109
+46269773	Severe persistent asthma controlled co-occurrent with allergic rhinitis	10675631000119109
+46269774	Severe persistent allergic asthma uncontrolled	10675671000119107
+46269775	Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis	10675711000119106
+46269777	Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis	10675991000119100
+46269785	Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis	10676511000119109
+46273569	Completely dentate teeth condition severely compromised with 4 or more in all sextants	710095001
+46273607	MECP2-related severe neonatal encephalopathy	711487002
+46271664	Severely compromised location and extent of edentulous area	709849005
+46287068	At risk of severe asthma exacerbation	966011000000109
+46271747	Severely compromised dentate occlusal scheme	709989000
+46271749	Severely compromised partially dentate occlusal scheme	709992001
+46273811	Severely compromised occlusal scheme	709991008
+46274020	Severe sepsis with acute organ dysfunction due to methicillin resistant Staphylococcus aureus	127321000119104
+46274021	Severe sepsis with acute organ dysfunction due to Serratia	127381000119100
+46270028	Severe persistent asthma co-occurrent with allergic rhinitis	124991000119109
+46270049	Severe sepsis with acute organ dysfunction due to anaerobic bacteria	127271000119106
+46270050	Severe sepsis with acute organ dysfunction due to Haemophilus influenzae	127301000119108
+46270051	Severe sepsis with acute organ dysfunction due to Meningococcus	127311000119106
+46270052	Severe sepsis with acute organ dysfunction due to methicillin susceptible Staphylococcus aureus	127331000119101
+46270053	Severe sepsis with acute organ dysfunction due to Pneumococcus	127341000119105
+46270054	Severe sepsis with acute organ dysfunction due to Pseudomonas	127351000119107
+46270055	Severe sepsis with acute organ dysfunction due to Salmonella	127361000119109
+46270056	Severe sepsis with acute organ dysfunction due to Staphylococcus	127391000119102
+46270057	Severe sepsis with acute organ dysfunction due to Streptococcus	127401000119100
+37017563	Severe alcohol dependence	713862009
+37016131	Severe sepsis with acute organ dysfunction caused by Gonococcus	1092601000119103
+37018074	Severe gingivitis	714477000
+36674508	Severe intellectual disability and progressive spastic paraplegia	778011005
+36674871	Severe infantile axonal neuropathy with respiratory failure type 2	770727008
+36674894	Severe motor and intellectual disabilities, sensorineural deafness, dystonia syndrome	770751003
+36674945	Severe congenital neutropaenia type 3	770942003
+36674950	Autosomal dominant severe congenital neutropaenia	770947009
+36675039	Severe congenital encephalopathy due to methyl-CpG binding protein 2 mutation	771303004
+36675043	Severe early-onset axonal neuropathy due to light neurofilament subunit deficiency	771307003
+36675182	Severe combined immunodeficiency due to caspase recruitment domain family member 11 deficiency	771517009
+36676500	Severe feeding difficulties, failure to thrive, microcephaly due to ASXL transcriptional regulator 3 deficiency syndrome	773400009
+36676516	Severe intellectual disability, short stature, behavioural abnormalities, facial dysmorphism syndrome	773419004
+36676518	Infantile-onset mesial temporal lobe epilepsy with severe cognitive regression	773421009
+36676520	Severe neonatal lactic acidosis due to NFS1-ISD11 complex deficiency	773423007
+36676624	Severe intellectual disability, poor language, strabismus, grimacing face, long fingers syndrome	773551001
+36676628	Severe neurodegenerative syndrome due to BSCL2, seipin lipid droplet biogenesis associated deficiency	773555005
+36676676	Frontonasal dysplasia, severe microphthalmia, severe facial clefting syndrome	773628009
+36676682	Congenital cataract, hearing loss, severe developmental delay syndrome	773648002
+36676691	Hypogonadotropic hypogonadism, severe microcephaly, sensorineural hearing loss, dysmorphism syndrome	773665006
+36676854	Severe intellectual disability, progressive postnatal microcephaly, midline stereotypic hand movements syndrome	774149004
+36676897	Intellectual disability, severe speech delay, mild dysmorphism syndrome	774203000
+36683388	Acute gastric erosion associated with severe burn	781203005
+36684328	Acute severe exacerbation of allergic asthma	782513000
+37394658	Severe sepsis	1036671000000106
+37395946	Distal arthrogryposis type 4	715575001
+37396153	Localized severe aggressive periodontitis	715860003
+37396171	Severe acute respiratory syndrome of upper respiratory tract	715882005
+37396241	Severe combined immunodeficiency due to DCLRE1C deficiency	715982006
+37397461	T-cell negative B-cell positive severe combined immunodeficiency due to JAK3 deficiency	718107000
+37397428	Generalized severe chronic periodontitis	718061004
+37397431	Generalized severe aggressive periodontitis	718065008
+37395693	Neonatal severe primary hyperparathyroidism	715218009
+37395738	Localized severe chronic periodontitis	715287007
+37399018	Severe combined immunodeficiency due to deoxyribonucleic acid dependent protein kinase catalytic subunit deficiency	716871006
+37396748	Severe early childhood onset retinal dystrophy	716663009
+37399469	RAVINE syndrome	715794009
+36713453	Familial hypomagnesemia hypercalciuria nephrocalcinosis with severe ocular involvement	717787005
+36716314	Agammaglobulinemia, microcephaly, craniosynostosis, severe dermatitis syndrome	722281001
+36713480	Glycogen storage disease with severe cardiomyopathy due to glycogenin deficiency	717821004
+36717092	Moderately severe depression	719593009
+36717389	Moderately severe major depression single episode	720453001
+36714182	Spondylometaphyseal dysplasia Schmidt type	719304005
+36717427	Severe combined immunodeficiency, microcephaly, growth retardation, sensitivity to ionizing radiation syndrome	720853005
+36714389	Moderately severe major depression	719592004
+36716406	Severe fever with thrombocytopenia syndrome virus	722401001
+36714998	Moderately severe recurrent major depression	720452006
+36716264	Severe X-linked intellectual disability Gustavson type	722213009
+36713881	X-linked severe congenital neutropenia	718882006
+36713552	Severe nutritional wasting in infancy childhood and adolescence	717926005
+36717648	Severe nutritional stunting in infancy childhood and adolescence	717930008
+36713554	Severe acute malnutrition in infancy childhood and adolescence	717928006
+36714925	Severe T-cell immunodeficiency, congenital alopecia, nail dystrophy syndrome	720345008
+36716263	Severe X-linked mitochondrial encephalomyopathy	722212004
+36713570	BRESEK syndrome	717945001
+36716162	Severe combined immunodeficiency with hypereosinophilia	722067005
+37109054	Severe major depressive disorder co-occurrent with anxiety single episode	16266991000119108
+37116845	Acute severe refractory exacerbation of asthma	733858005
+37108580	Severe controlled persistent asthma	10675391000119101
+37108581	Severe uncontrolled persistent asthma	10675751000119107
+37118973	Severe intellectual disability, epilepsy, anal anomaly, distal phalangeal hypoplasia syndrome	723676007
+42537570	Severe acquired hearing loss	737049003
+42536648	Acute severe exacerbation of asthma co-occurrent and due to allergic asthma	735587000
+761947	Recurrent severe manic episodes	22981000119106
+761053	Severe nonproliferative retinopathy due to diabetes mellitus type 2	138941000119105
+765373	Severe nonproliferative retinopathy due to diabetes mellitus type 1	138901000119108
+765653	Severe dementia	428351000124105
+762805	Severe myoclonic epilepsy in infancy, non-refractory	432161000124109
+762806	Severe myoclonic epilepsy in infancy, refractory	432171000124102
+765829	Severe medical complication	432631000124108
+764982	Severe left ventricular systolic dysfunction	991000124109
+45769438	Acute severe exacerbation of asthma	708090002
+37109055	Severe pediatric obstructive sleep apnea	16275741000119100
+37110923	Severe congenital hypochromic anemia with ringed sideroblasts	725463007
+37110117	Laminopathy type Decaudain Vigouroux	724205009
+37110712	Familial primary hypomagnesemia with hypercalciuria and nephrocalcinosis without severe ocular involvement	725033008
+37109841	Severe generalized recessive dystrophic epidermolysis bullosa	723716009
+37110772	Temple Baraitser syndrome	725140007
+42538695	Hemodynamically insignificant ventricular septal defect	762460002
+42535006	Severe hypoxic ischemic encephalopathy of newborn	134811000119108
+37018860	Severe obesity	83911000119104
+42539192	Severe obesity complicating pregnancy	15750121000119108
+35608121	T cell negative B cell positive severe combined immunodeficiency due to gamma chain deficiency	765145001
+35609824	Recurrent reactive depressive episodes, severe, with psychosis	1086471000000103
+35610097	Recurrent depression with current severe episode and psychotic features	1089511000000100
+35610108	Recurrent depression with current severe episode without psychotic features	1089631000000109
+35610115	Profound intellectual development disorder with significant impairment of behaviour	1089711000000107
+35610118	Severe intellectual development disorder without significant impairment of behaviour	1089741000000108
+35610119	Severe intellectual development disorder with significant impairment of behaviour	1089751000000106
+35610120	Severe intellectual development disorder with minimal impairment of behaviour	1089761000000109
+35610121	Severe intellectual development disorder with impairment of behaviour	1089771000000102
+35610122	Moderate intellectual development disorder without significant impairment of behaviour	1089781000000100
+35610123	Moderate intellectual development disorder with significant impairment of behaviour	1089791000000103
+35610126	Mild intellectual development disorder without significant impairment of behaviour	1089831000000105
+35610127	Mild intellectual development disorder with significant impairment of behaviour	1089841000000101
+35610517	Intellectual development disorder without significant impairment of behaviour	1094001000000106
+35610518	Intellectual development disorder with significant impairment of behaviour	1094011000000108
+35615152	Recurrent severe major depressive disorder co-occurrent with anxiety	16264821000119108
+35622315	Hypotonia, speech impairment, severe cognitive delay syndrome	763722004
+35622408	Multiple epiphyseal dysplasia with severe proximal femoral dysplasia	763893008
+35622667	Severe bodily distress disorder	764785006
+35622934	Psychosis and severe depression co-occurrent and due to bipolar affective disorder	765176007
+35624205	Severe lateral tibial bowing with short stature	766819001
+35624312	Severe early-onset axonal neuropathy due to mitofusin 2 deficiency	766977007
+35625988	Severe midline deviation of maxillary tooth position to left	769114005
+35626013	Severe midline deviation of maxillary tooth position to right	769143002
+439260	Single major depressive episode, severe, without mention of psychosis	191603006
+44805544	Single major depressive episode, severe	764631000000108
+44794370	[X]Severe depressive episode without psychotic symptoms	397701000000102
+44794371	[X]Severe depressive episode with psychotic symptoms	397711000000100
+44802263	Severe acquired hearing loss	525781000000108
+439243	Bipolar affective disorder, currently depressed, severe, with psychosis	191632009
+4068240	X-linked severe combined immunodeficiency	203592006
+4186542	O/E - right eye clinically significant macular edema	414908005
+4212435	O/E - left eye clinically significant macular edema	414892004
