@@ -31,6 +31,7 @@ modified_concept_id	modified_concept_name	modified_concept_code	parent_concept_i
 44782720	Severe seasonal affective disorder	133121000119109	4092239	Seasonal affective disorder	247803002
 44796728	[X]Severe vulvar dysplasia, not elsewhere classified	424811000000103	4174575	Vulval intraepithelial neoplasia grade 3	276875006
 44791725	Very severe chronic obstructive pulmonary disease	293991000000106	255573	Chronic obstructive lung disease	13645005
+44791983	Amber traffic light - intermediate risk of serious illness	307631000000100	4085075	At risk - finding	281694009
 44790677	TAG score: severe	205701000000103	44788874	TAG score observations	199021000000107
 44791872	Non-significant carrier of disorder	302801000000107	4106092	Carrier of disorder	29679002
 44791873	Significant carrier of disorder	302811000000109	4106092	Carrier of disorder	29679002
@@ -60,6 +61,7 @@ modified_concept_id	modified_concept_name	modified_concept_code	parent_concept_i
 44795861	[X]Severe mental retardation, other impairments of behaviour	414741000000101	432898	Severe intellectual disability	40700009
 44797280	[X]Severe mental and behavioural disorders associated with the puerperium, not elsewhere classified	432081000000107	44799915	[X]Mental and behavioural disorders associated with the puerperium, not elsewhere classified	454031000000104
 44798574	[X]Profound mental retardation, significant impairment of behaviour requiring attention or treatment	442261000000105	438733	Profound intellectual disability	31216003
+44796992	Green traffic light - low risk of serious illness	306321000000105	4085075	At risk - finding	281694009
 44800821	[X]Reaction to severe stress, unspecified	466091000000103	4152371	Stress and adjustment reaction	271952001
 44801236	[X]Severe mental retardation without mention of impairment of behaviour	468051000000105	432898	Severe intellectual disability	40700009
 44798264	[X]Unspecified mental retardation, significant impairment of behaviour requiring attention or treatment	442361000000101	44795872	[X]Unspecified mental retardation	410331000000103
@@ -69,6 +71,7 @@ modified_concept_id	modified_concept_name	modified_concept_code	parent_concept_i
 44796366	[X]Other reactions to severe stress	415011000000100	4152371	Stress and adjustment reaction	271952001
 44805139	Antenatal screening shows non significant haemoglobinopathy carrier	750571000000106	4168318	Genetic disorder carrier	47461006
 44805140	Antenatal screening shows carrier of significant haemoglobinopathy including sickle cell or thalassaemia	750601000000104	4168318	Genetic disorder carrier	47461006
+44797041	Red traffic light - high risk of serious illness	307661000000105	4085075	At risk - finding	281694009
 44805730	[D]Severe wheeze	755601000000105	4084392	Wheeze - rhonchi	24612001
 44805731	[D]Very severe wheeze	755611000000107	4084392	Wheeze - rhonchi	24612001
 44795878	[X]Other severe and complicated plasmodium falciparum malaria	411841000000106	438067	Malaria	61462000
@@ -444,6 +447,7 @@ modified_concept_id	modified_concept_name	modified_concept_code	parent_concept_i
 40394323	PET - Severe pre-eclamptic toxaemia	198981000	NA	NA	NA
 40392486	[X]Severe vaginal dysplasia, not elsewhere classified	198601000	NA	NA	NA
 40392487	[X]Severe vulvar dysplasia, not elsewhere classified	198602007	NA	NA	NA
+40378464	Unborn child at risk from physical or mental abnormalities as to be seriously handicapped	185024009	NA	NA	NA
 40398152	[X]Severe cervical dysplasia, not elsewhere classified	198344007	NA	NA	NA
 40388783	[X] Mental and behavioral disorders associated with the puerperium: [severe, not elsewhere classified] or [puerperal psychosis NOS]	192477004	NA	NA	NA
 40380307	[X]Other severe and complicated plasmodium falciparum malaria	187503005	NA	NA	NA
@@ -619,6 +623,7 @@ modified_concept_id	modified_concept_name	modified_concept_code	parent_concept_i
 46287068	At risk of severe asthma exacerbation	966011000000109	4085075	At risk - finding	281694009
 46271747	Severely compromised dentate occlusal scheme	709989000	46273811	Severely compromised occlusal scheme	709991008
 46271749	Severely compromised partially dentate occlusal scheme	709992001	46273811	Severely compromised occlusal scheme	709991008
+46286480	Serious physical health problem	986381000000102	4136193	Physical health problems	413320001
 46273811	Severely compromised occlusal scheme	709991008	443219	Dental occlusion finding	278656008
 46274020	Severe sepsis with acute organ dysfunction due to methicillin resistant Staphylococcus aureus	127321000119104	4031168	Sepsis-associated organ dysfunction	238151006
 46274021	Severe sepsis with acute organ dysfunction due to Serratia	127381000119100	4031168	Sepsis-associated organ dysfunction	238151006
@@ -745,6 +750,7 @@ modified_concept_id	modified_concept_name	modified_concept_code	parent_concept_i
 37396748	Severe early childhood onset retinal dystrophy	716663009	377270	Hereditary retinal dystrophy	41799005
 37396748	Severe early childhood onset retinal dystrophy	716663009	4312226	Autosomal recessive hereditary disorder	85995004
 37399469	RAVINE syndrome	715794009	374912	Leukodystrophy	192781003
+37399484	Serious physical health problem	715949008	4136193	Physical health problems	413320001
 36713453	Familial hypomagnesemia hypercalciuria nephrocalcinosis with severe ocular involvement	717787005	4178116	Familial hypomagnesemia-hypercalciuria	50029007
 36713453	Familial hypomagnesemia hypercalciuria nephrocalcinosis with severe ocular involvement	717787005	4178955	Hereditary disorder of the urinary system	363338001
 36713453	Familial hypomagnesemia hypercalciuria nephrocalcinosis with severe ocular involvement	717787005	4312226	Autosomal recessive hereditary disorder	85995004

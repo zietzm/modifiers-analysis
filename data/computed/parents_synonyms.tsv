@@ -109,6 +109,11 @@ parent_concept_id	parent_concept_name	parent_concept_code	concept_synonym_name
 255573	Chronic obstructive lung disease	13645005	Chronic airway disease
 255573	Chronic obstructive lung disease	13645005	Chronic irreversible airway obstruction
 255573	Chronic obstructive lung disease	13645005	CAO - Chronic airflow obstruction
+4085075	At risk - finding	281694009	Finding of at risk (finding)
+4085075	At risk - finding	281694009	Finding of at risk
+4085075	At risk - finding	281694009	Finding related to risk factor
+4085075	At risk - finding	281694009	At risk state
+4085075	At risk - finding	281694009	At risk - finding
 44788874	TAG score observations	199021000000107	TAG score observations
 4106092	Carrier of disorder	29679002	Carrier
 4106092	Carrier of disorder	29679002	Carrier of disorder (finding)
@@ -215,6 +220,11 @@ parent_concept_id	parent_concept_name	parent_concept_code	concept_synonym_name
 438733	Profound intellectual disability	31216003	Profound intellectual disability
 438733	Profound intellectual disability	31216003	Profound mental handicap
 438733	Profound intellectual disability	31216003	Profound mental retardation (Intelligence Quotient below 20)
+4085075	At risk - finding	281694009	Finding of at risk (finding)
+4085075	At risk - finding	281694009	Finding of at risk
+4085075	At risk - finding	281694009	Finding related to risk factor
+4085075	At risk - finding	281694009	At risk state
+4085075	At risk - finding	281694009	At risk - finding
 4152371	Stress and adjustment reaction	271952001	Stress and adjustment reaction
 4152371	Stress and adjustment reaction	271952001	Stress and adjustment reaction (disorder)
 432898	Severe intellectual disability	40700009	Severe mental retardation (Intelligence Quotient 20-34)
@@ -263,6 +273,11 @@ parent_concept_id	parent_concept_name	parent_concept_code	concept_synonym_name
 4168318	Genetic disorder carrier	47461006	Genetic disorder carrier
 4168318	Genetic disorder carrier	47461006	Carrier of genetic disease
 4168318	Genetic disorder carrier	47461006	Genetic disorder carrier (finding)
+4085075	At risk - finding	281694009	Finding of at risk (finding)
+4085075	At risk - finding	281694009	Finding of at risk
+4085075	At risk - finding	281694009	Finding related to risk factor
+4085075	At risk - finding	281694009	At risk state
+4085075	At risk - finding	281694009	At risk - finding
 4084392	Wheeze - rhonchi	24612001	Wheeze - rhonchi
 4084392	Wheeze - rhonchi	24612001	Rhonchus
 4084392	Wheeze - rhonchi	24612001	Wheeze - rhonchi (finding)
@@ -1528,6 +1543,7 @@ NA	NA	NA	NA
 NA	NA	NA	NA
 NA	NA	NA	NA
 NA	NA	NA	NA
+NA	NA	NA	NA
 440389	Mental retardation	91138005	MR - Mental retardation
 440389	Mental retardation	91138005	Mental retardation
 440389	Mental retardation	91138005	Mental retardation (disorder)
@@ -1839,6 +1855,8 @@ NA	NA	NA	NA
 46273811	Severely compromised occlusal scheme	709991008	Severely compromised occlusal scheme
 46273811	Severely compromised occlusal scheme	709991008	Severely compromised occlusal scheme (finding)
 46273811	Severely compromised occlusal scheme	709991008	Severely compromised occlusal scheme
+4136193	Physical health problems	413320001	Physical health problems (finding)
+4136193	Physical health problems	413320001	Physical health problems
 443219	Dental occlusion finding	278656008	Dental occlusion finding (finding)
 443219	Dental occlusion finding	278656008	Dental occlusion finding
 443219	Dental occlusion finding	278656008	Dental occlusion observation
@@ -2237,6 +2255,8 @@ NA	NA	NA	NA
 374912	Leukodystrophy	192781003	Leukodystrophy
 374912	Leukodystrophy	192781003	Leucodystrophy
 374912	Leukodystrophy	192781003	Leukodystrophy (disorder)
+4136193	Physical health problems	413320001	Physical health problems (finding)
+4136193	Physical health problems	413320001	Physical health problems
 4178116	Familial hypomagnesemia-hypercalciuria	50029007	Familial hypomagnesemia-hypercalciuria (disorder)
 4178116	Familial hypomagnesemia-hypercalciuria	50029007	Familial hypomagnesemia-hypercalciuria
 4178116	Familial hypomagnesemia-hypercalciuria	50029007	Familial hypomagnesaemia-hypercalciuria
