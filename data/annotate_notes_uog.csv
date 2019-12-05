@@ -1,0 +1,2751 @@
+NCT_id,matched_string,manual_string,criteria_string,parent_concept_id,parent_concept_name,w.mod,severity_modifier,severity_term,pre_post,snomed_id,snomed_name,
+NCT03937804,scoliosis,kyphoscoliosis,"ve pulmonary disease, chronic obstructive airway disease, emphysema, chronic bronchitis, lung transplant, kyphoscoliosis, sarcoidosis, bronchopulmonary dysplasia, cystic fibr",72418,Scoliosis deformity of spine,FALSE,unmarked,,,405773007,Kyphoscoliosis deformity of spine (disorder),
+NCT00252252,scoliosis,scoliosis,"ar disease (eg. old polio, bilateral diaphragm
+             paralysis) or chest wall disease (eg. idiopathic scoliosis, thoracoplasty)
+
+          -  Recruited from 1300 patients attending Royal Brompt",72418,Scoliosis deformity of spine,FALSE,unmarked,,,203639008,Idiopathic scoliosis (disorder),
+NCT03329716,scoliosis,scoliosis,"en wearing underarm (Boston) bracing, and who have reached
+             skeletal maturity based on the Scoliosis Research Society (SRS) standardized criteria:
+             Risser stage ≥4, >2 years po",72418,Scoliosis deformity of spine,FALSE,N/A,,,N/A,N/A,
+NCT03090971,scoliosis,scoliosis,"a distinct osseous lesion, such as sphenoid wing dysplasia, pseudoarthrosis of the
+             tibia, macrocephaly, or scoliosis
+
+          -  a first-degree relative with NF1
+
+          -  Presen",72418,Scoliosis deformity of spine,FALSE,unmarked,,,298382003,Scoliosis deformity of spine (disorder),
+NCT03404232,scoliosis,scoliosis,"pine
+
+          -  Relevant peripheral neuropathy
+
+          -  Acute denervation subsequent to a radiculopathy
+
+          -  Scoliosis with Cobb angle greater than 25°
+
+          -  Spondylolisthesis",72418,Scoliosis deformity of spine,FALSE,unmarked,,,298382003,Scoliosis deformity of spine (disorder),
+NCT01467882,scoliosis,severe scoliosis," or other study endpoints (e.g. chronic steroid use [except mild topical steroids],
+             renal failure, diabetes, moderate to severe scoliosis, previously treated intracranial
+             tum",72418,Scoliosis deformity of spine,TRUE,severe,severe,post,37394658,Severe sepsis,
+NCT03581084,scoliosis,severe scoliosis,"tis, vocal cord dysfunction
+             (that is the sole cause of respiratory symptoms and at the PI's discretion), severe
+             scoliosis or chest wall deformities that affect lung function,",72418,Scoliosis deformity of spine,TRUE,severe,severe,post,37394658,Severe sepsis,
+NCT01926275,scoliosis,severe kyphoscoliosis,"nced
+             bronchiectases, active tuberculosis, post tuberculosis syndrome, pneumonia, severe
+             kyphoscoliosis, tracheostoma, neuromuscular diseases, or any other disorder, which
+   ",72418,Scoliosis deformity of spine,TRUE,severe,severe,post,443531,Kyphoscoliosis deformity of spine (disorder),
+NCT01784094,scoliosis,scoliosis,":
+
+          -  previous severe back or lower extremity injury or surgery
+
+          -  major structural spinal deformity (scoliosis, kyphosis, stenosis)
+
+          -  ankylosing spondylitis or rheuma",72418,Scoliosis deformity of spine,TRUE,unmarked,,,298382003,Scoliosis deformity of spine (disorder),
+NCT02131090,scoliosis,scoliosis,"men
+
+          -  BMI < 50
+
+        Exclusion Criteria:
+
+          -  BMI >50
+
+          -  Documented diagnosis of scoliosis and/or other significant lumbar spinal pathology
+
+          -  Previous lu",72418,Scoliosis deformity of spine,TRUE,unmarked,,,298382003,Scoliosis deformity of spine (disorder),
+NCT02081430,muscle wasting,muscle wasting,"nce of central nervous system involvement such as exaggerated reflexes, changes
+             in sensation in the hands, muscle wasting in the hands, impaired sensation of the
+             face, altere",78236,Muscle atrophy,FALSE,unmarked,,,88092000,Muscle atrophy (disorder),
+NCT01571674,muscle wasting,muscle wasting," of central nervous system involvement, to include hyperreflexia, sensory
+             disturbances in the hand, intrinsic muscle wasting of the hands, unsteadiness during
+             walking, nystag",78236,Muscle atrophy,FALSE,unmarked,,,88092000,Muscle atrophy (disorder),
+NCT03078543,muscular atrophy,muscular atrophy,"ct has conditions that may interfere with the TKA survival or outcome (e.g.
+             Paget's or Charcot's disease, vascular insufficiency, muscular atrophy, uncontrolled
+             diabetes mell",78236,Muscle atrophy,FALSE,unmarked,,,88092000,Muscle atrophy (disorder),
+NCT02668835,muscular atrophy,progressive muscular atrophy,"e - Multiple sclerosis, amyotrophic lateral sclerosis, motor
+             neuritis, progressive bulbar palsy, progressive muscular atrophy, spinal muscular
+             atrophy
+
+          -  Significa",78236,Muscle atrophy,FALSE,unmarked,,,88923002,Progressive muscular atrophy (disorder),
+NCT03981575,muscle wasting,muscle wasting,"udy:
+
+          -  Known CTG repeat expansion size less than 100 repeats, unless there are clear cut
+             signs of limb weakness and muscle wasting. This is in order to obtain a muscle tissue
+",78236,Muscle atrophy,FALSE,unmarked,,,88092000,Muscle atrophy (disorder),
+NCT00394043,muscle atrophy,muscle atrophy,"atency greater than
+             0.2 ms
+
+        Exclusion Criteria:
+
+          -  severe CTS that has progressed to muscle atrophy
+
+          -  pregnancy
+
+          -  previous wrist surgery on the ",78236,Muscle atrophy,TRUE,unmarked,,,88092000,Muscle atrophy (disorder),
+NCT03424707,muscular atrophy,muscular atrophy,"g confirmed
+             degenerative spondylosis, severe arthritis or severe osteoporosis) (2) myositis,
+             muscular atrophy, myotonia, myasthenia (3) peptic ulcer or duodenal ulcer (4)
+   ",78236,Muscle atrophy,TRUE,unmarked,,,88092000,Muscle atrophy (disorder),
+NCT02741076,amyotrophy,diabetic amyotrophy,"on, severe or progressive lower extremity weakness or numbness, bowel or
+             bladder dysfunction as a result of cauda equina compression, diabetic amyotrophy,
+             meningitis, diskiti",78236,Muscle atrophy,TRUE,unmarked,,,39058009,Lumbosacral radiculoplexus neuropathy co-occurrent and due to diabetes mellitus (disorder),
+NCT03517319,muscle atrophy,muscle atrophy,"fore screening
+
+          -  history or plan for tendon lengthening surgery
+
+          -  significant contracture or muscle atrophy at the target joint or muscle
+
+          -  concurrent treatment with",78236,Muscle atrophy,TRUE,unmarked,,,88092000,Muscle atrophy (disorder),
+NCT01427361,muscular atrophy,muscular atrophy," Exclusion Criteria:
+
+          1. Patient with infection or sepsis.
+
+          2. Patient with any vascular insufficiency, muscular atrophy, or neuromuscular disease
+             severe enough to com",78236,Muscle atrophy,TRUE,unmarked,,,88092000,Muscle atrophy (disorder),
+NCT00692172,systemic infection,systemic infection,"al hematology values or history of an immunosuppressive
+             disorder
+
+          -  Serious local infection or systemic infection within 3 months prior to the first dose
+             of alefac",132797,Sepsis,FALSE,unmarked,,,91302008,Sepsis (disorder),
+NCT01865708,sepsis,urosepsis,"n applicable) consent for enrollment.
+
+        Exclusion Criteria:
+
+          -  18 yo or older.
+
+          -  Urosepsis at time of study enrollment
+
+          -  Known bladder or genitourinary abnorm",132797,Sepsis,FALSE,unmarked,,,721104000,Sepsis due to urinary tract infection (disorder),
+NCT02370160,systemic infection,systemic infection,"r infectious pulmonary parenchymal disease
+
+          -  Presence of active CNS leukemia
+
+          -  Presence of any uncontrolled systemic infection
+
+          -  Documented uncontrolled seizure dis",132797,Sepsis,FALSE,unmarked,,,91302008,Sepsis (disorder),
+NCT03737929,sepsis,sepsis,"    -  Contra-indication to transoesophageal echocardiogram (TEE)
+
+          -  Carotid stenosis > 80%,
+
+          -  Active infection or sepsis
+
+          -  Pleural adhesions,
+
+          -  Elevated",132797,Sepsis,FALSE,unmarked,,,91302008,Sepsis (disorder),
+NCT02304978,sepsis,severe sepsis,"able angina or myocardial infarction in the acute phase (not older
+             than two months)
+
+          -  Severe sepsis (hospitalization)
+
+          -  Cirrhosis stage Child C
+
+          -  Chron",132797,Sepsis,FALSE,severe,severe,pre,1036671000000100,Severe sepsis,
+NCT01543022,systemic infection,systemic infection," that will preclude insertion of the Symphony
+             device.
+
+         10. Moderate to severe aortic insufficiency (2+ or more).
+
+         11. Ongoing systemic infection defined as two of the fo",132797,Sepsis,TRUE,unmarked,,,91302008,Sepsis (disorder),
+NCT00758862,systemic infection,systemic infection,"        Exclusion Criteria:
+
+          -  Immunosuppressed state or other serious systemic disease
+
+          -  Signs and/or symptoms of systemic infection, such as malaise and fever or local
+       ",132797,Sepsis,TRUE,unmarked,,,91302008,Sepsis (disorder),
+NCT03230916,sepsis,severe sepsis," been discontinued, or has received
+             REL for any other reason.
+
+          -  Has a current diagnosis of cystic fibrosis, meningitis, or severe sepsis.
+
+          -  Is expected to survive ",132797,Sepsis,TRUE,severe,severe,pre,1036671000000100,Severe sepsis,
+NCT01687166,sepsis,sepsis,"nths) prior to enrollment
+
+          -  Left atrial appendage closure device
+
+          -  Any other significant uncontrolled or unstable medical condition (e.g. sepsis, acute
+             metabolic i",132797,Sepsis,TRUE,unmarked,,,91302008,Sepsis (disorder),
+NCT01078610,sepsis,sepsis," the drug or one of the other ingredients
+
+          -  Active tuberculosis or other severe infections (e.g. sepsis and opportunistic
+             infections)
+
+          -  Moderate to severe cardiac ",132797,Sepsis,TRUE,unmarked,,,91302008,Sepsis (disorder),
+NCT02432638,cleft palate,cleft palate,"will include all infants regardless of syndromic diagnosis, other organ
+             system abnormalities, cleft palate diagnosis or the presence of other concurrent
+             craniofacial anomalie",135923,Cleft palate,FALSE,unmarked,,,87979003,Cleft palate (disorder),
+NCT03366740,cleft palate,cleft lip and cleft palate,"     ICU support during the admission
+
+          -  Birth defect like complex congenital heart diseases, cleft lip and cleft palate, Down
+             syndrome and cerebral palsy and others that may i",135923,Cleft palate,FALSE,unmarked,,,66948001,Cleft palate with cleft lip (disorder),
+NCT02858388,cleft palate,cleft lip and cleft palate,"sion Criteria:
+
+          1. Outcomes of adenotonsillectomy
+
+          2. Velo-palatal insufficiencies, cleft lip and cleft palate.
+
+          3. Hearing loss of perceptual, and mixed type.
+
+         ",135923,Cleft palate,FALSE,unmarked,,,66948001,Cleft palate with cleft lip (disorder),
+NCT00422981,cleft palate,cleft palate,"harynx, except for surgical correction of the nasal septum or a ""broken
+             nose"" at least 2 years previously, or surgical repair of cleft palate when <30 years
+             of age.
+
+        ",135923,Cleft palate,FALSE,N/A,,,N/A,N/A,
+NCT04023825,cleft palate,cleft palate,"-  children between 5 months and 12 years old
+
+          -  weight >5kg
+
+          -  children undergoing cleft palate repair surgery with or without upper lip surgery
+
+        Exclusion Criteria:
+
+  ",135923,Cleft palate,FALSE,N/A,,,N/A,N/A,
+NCT02435407,cleft palate,cleft palate,"ly significant)
+
+        Exclusion Criteria:
+
+          -  •A child who has an anatomical cause for feeding problems such as cleft palate or
+             significant oromotor abnormality
+
+            ",135923,Cleft palate,TRUE,unmarked,,,87979003,Cleft palate (disorder),
+NCT01021397,cleft palate,cleft palate,"d
+             topical antifungal agents are not excluded.
+
+          -  Major congenital malformations, including congenital cleft palate, cytogenetic
+             abnormalities, or serious chronic d",135923,Cleft palate,TRUE,unmarked,,,87979003,Cleft palate (disorder),
+NCT02975310,cleft palate,cleft palate," not be able to complete the follow-up appointments/evaluations
+
+          6. Have significant oral structural abnormalities, e.g. unrepaired cleft palate
+
+          7. Septal deviation requiring corr",135923,Cleft palate,TRUE,unmarked,,,87979003,Cleft palate (disorder),
+NCT03236194,cleft palate,cleft palate," a congenital anomaly or neonatal condition that significantly affects a
+             newborn's feeding (e.g. cleft lip, cleft palate, metabolic disease)
+
+          4. any major maternal morbidities a",135923,Cleft palate,TRUE,unmarked,,,87979003,Cleft palate (disorder),
+NCT01623310,cleft palate,cleft palate,"onths before the screening visit
+
+          -  Current, ongoing rhinitis medicamentosa (rebound rhinitis)
+
+          -  Have significant oral structural abnormalities, eg, a cleft palate
+
+          - ",135923,Cleft palate,TRUE,unmarked,,,87979003,Cleft palate (disorder),
+NCT00766818,hypothyroidism,hypothyroidism,"tra® component
+
+          -  Chronic hepatitis B and/or C virus infection
+
+          -  Cushing's Syndrome
+
+          -  Untreated hypothyroidism or hyperthyroidism
+
+          -  Serum Creatinine > 1.",140673,Hypothyroidism,FALSE,unmarked,,,40930008,Hypothyroidism (disorder),
+NCT02607254,hypothyroidism,hypothyroidism,"             symptomatic peripheral vascular disease including intermittent claudication,
+             pernicious anemia, untreated hypothyroidism, venous insufficiency, or spinal stenosis.
+
+         ",140673,Hypothyroidism,FALSE,unmarked,,,40930008,Hypothyroidism (disorder),
+NCT02895087,hypothyroid,hypothyroidism," sleep disorder, Addison's disease, diabetes or thyroid/pituitary/adrenal/splenic
+             disorder (note: corrected hypothyroid disorder may be allowed if recent Thyroid
+             Stimulating ",140673,Hypothyroidism,FALSE,unmarked,,,40930008,Hypothyroidism (disorder),
+NCT02023554,hypothyroidism,hypothyroidism,"h renal or hepatic dysfunction;
+
+          -  patients with congestive heart failure;
+
+          -  patients with hypothyroidism or hyperthyroidism;
+
+          -  patients taking drugs likely to affec",140673,Hypothyroidism,FALSE,unmarked,,,40930008,Hypothyroidism (disorder),
+NCT03817125,hypothyroidism,hypothyroidism,"trictive procedures such as
+             banding, are permitted).
+
+          7. Any diagnosis of autoimmune disease. Participants with Type I diabetes mellitus,
+             hypothyroidism only requir",140673,Hypothyroidism,FALSE,unmarked,,,40930008,Hypothyroidism (disorder),
+NCT02532335,hypothyroidism,hypothyroidism,"el surgery
+
+        Inflammatory bowel disease
+
+        Uncontrolled diabetes mellitus (fasting blood glucose >6.7 mmol/L), hypothyroidism or
+        hyperthyroidism, or other significant endocrine di",140673,Hypothyroidism,TRUE,unmarked,,,40930008,Hypothyroidism (disorder),
+NCT00796783,hypothyroidism,signficant hypothyroidism,"           as those with severe obesity, major depression or a history of alcoholism.
+
+          -  Uncontrolled, clinically significant hypothyroidism or hyperthyroidism.
+
+          -  Have renal fai",140673,Hypothyroidism,TRUE,severe,significant,,40930008,Hypothyroidism (disorder),
+NCT01140997,hypothyroidism,,"rocess, history of
+             significant pulmonary disease or any history of interstitial lung disease.
+
+          -  History of hypothyroidism or current treatment for thyroid disease.
+
+          ",140673,Hypothyroidism,TRUE,,,,,,
+NCT03379012,hypothyroidism,,"er; 5. Normal PSA level
+
+        Exclusion Criteria:
+
+          1. Prostate and other cancers history
+
+          2. Hypothyroidism
+
+          3. History of serious cardiac arrhythmia, congestive heart",140673,Hypothyroidism,TRUE,,,,40930008,Hypothyroidism (disorder),
+NCT01167127,hypothyroidism,,"th hypoxia and/or hypercapnia, severe obstructive pulmonary disease, cor
+             pulmonale, severe bronchial asthma, paralytic ileus.
+
+         15. Patients with myxodema, hypothyroidism, Addison",140673,Hypothyroidism,TRUE,,,,40930008,Hypothyroidism (disorder),
+NCT03595553,diarrhea,," of age, at the time of signing the informed consent.
+
+          2. Signs and symptoms of CDI including diarrhea such that in the Investigator's opinion
+             CDI antimicrobial therapy is requi",196523,Diarrhea,FALSE,,,,5.891E+12,Clostridium difficile diarrhea (disorder),
+NCT00998296,diarrhoea,,"   1. Active infectious disease
+
+          2. Recent surgery within the last 4 weeks prior visit 1.
+
+          3. Chronic diarrhoea or gastrointestinal tract disease resulting in an inability to take
+",196523,Diarrhea,FALSE,,,,236071009,Chronic diarrhea (disorder),
+NCT03833700,diarrhea,,"      6. Inability to take oral medication, or malabsorption syndrome or any other uncontrolled
+             gastrointestinal condition (example: nausea, diarrhea, or vomiting) that might impair
+     ",196523,Diarrhea,FALSE,,,,62315008,Diarrhea (finding),
+NCT00275704,diarrhea,,"levels and might have additive effects
+             when used with antidiabetic drugs).
+
+          -  Diagnosis of/problems with chronic diarrhea or history of bowel obstruction or
+             esopha",196523,Diarrhea,FALSE,,,,236071009,Chronic diarrhea (disorder),
+NCT00563823,diarrhea,," limited to, any of the following
+             conditions:
+
+               -  Ulcerative disease
+
+               -  Uncontrolled nausea
+
+               -  Vomiting
+
+               -  Diarrhea which mi",196523,Diarrhea,FALSE,,,,62315008,Diarrhea (finding),
+NCT03739931,diarrhea,,"ongestive heart failure, uncontrolled hypertension, unstable
+             angina pectoris, cardiac arrhythmia, ILD, serious chronic gastrointestinal conditions
+             associated with diarrhea, o",196523,Diarrhea,TRUE,,,,62315008,Diarrhea (finding),
+NCT00295607,diarrhoea,,"ngoing corticosteroid therapy.
+
+          -  Patient has significant, uncontrolled concomitant infections and/or severe diarrhoea,
+             vomiting, active upper gastro-intestinal tract malabsorp",196523,Diarrhea,TRUE,,,,409587002,Severe diarrhea (finding),
+NCT03111511,diarrhea,,"             Disease [MDRD] formula12), significant cardiac, vascular, pulmonary, gastrointestinal
+             (such as significant diarrhea, gastric stasis, or constipation that in the
+             ",196523,Diarrhea,TRUE,,,,62315008,Diarrhea (finding),
+NCT00183248,diarrhea,,"     3 times the upper value of the normal range within 28 days prior to study entry
+
+          -  Uncontrolled concomitant infections, severe diarrhea, vomiting, active upper
+             gastrointes",196523,Diarrhea,TRUE,,,,409587002,Severe diarrhea (finding),
+NCT00540592,diarrhoea,," a
+             moderate or severe illness with or without fever. All vaccines can be administered to
+             persons with a minor illness such as diarrhoea, mild upper respiratory infection with",196523,Diarrhea,TRUE,,,,62315008,Diarrhea (finding),
+NCT03378999,chronic obstructive pulmonary disease,,"al conditions that might interfere with the study, such as epilepsy,
+             asthma, kidney failure or renal insufficiency, chronic obstructive pulmonary disease,
+             inflammatory bowel ",255573,Chronic obstructive lung disease,FALSE,,,,13645005,Chronic obstructive lung disease (disorder),
+NCT03131752,chronic obstructive lung disease,,"h genders, who are in a an exacerbation of the
+             disease according to Global Initiative for Chronic Obstructive Lung Disease
+             (GOLD,2015) refered by the doctors, hospitalized or",255573,Chronic obstructive lung disease,FALSE,,,,N/A,N/A,
+NCT00605891,chronic obstructive lung disease,,"ional Heart Lung and Blood Institute/World Health Organization (NHLBI/WHO) Global
+             Initiative for Chronic Obstructive Lung Disease (GOLD)
+
+          -  Patient meets the following requirem",255573,Chronic obstructive lung disease,FALSE,,,,N/A,N/A,
+NCT00137007,chronic obstructive pulmonary disease,,"         -  Bronchiectasis, bronchial obstruction or history of post-obstructive pneumonia
+                  (this does not exclude patients with chronic obstructive pulmonary disease);
+
+             ",255573,Chronic obstructive lung disease,FALSE,,,,N/A,N/A,
+NCT02671942,chronic obstructive pulmonary disease,,"   .(postbronchodilator ≤0.7,，and a postbronchodilator FEV1≤50% predicted);
+
+          3. Has a history of chronic obstructive pulmonary disease (COPD) (according to Global
+             Initiative for",255573,Chronic obstructive lung disease,FALSE,,,,N/A,N/A,
+NCT03794856,chronic obstructive pulmonary disease,," cord dysfunction (identified by abnormalities in spirometric
+             flow-volume curves), clinically significant chronic obstructive pulmonary disease, or
+             emphysema.
+
+          -  P",255573,Chronic obstructive lung disease,TRUE,,,,13645005,Chronic obstructive lung disease (disorder),
+NCT03919422,chronic obstructive pulmonary disease,,"nerve injury or phrenic nerve injury
+
+          5. Multiple trauma
+
+          6. Uncontrolled respiratory disease (severe chronic obstructive pulmonary disease,
+             asthma, pulmonary infectio",255573,Chronic obstructive lung disease,TRUE,,,,313299006,Severe chronic obstructive pulmonary disease (disorder),
+NCT00642694,chronic obstructive pulmonary disease,,"         information, or evidence at examination; this includes severe sleep apnea, seizure
+             disorder, or chronic obstructive pulmonary disease (COPD).
+
+          -  Patient report or evid",255573,Chronic obstructive lung disease,TRUE,,,,13645005,Chronic obstructive lung disease (disorder),
+NCT02807675,chronic obstructive pulmonary disease,,"medications to treat orthostatic hypotension (for example droxidopa, fludrocortisone),
+             if they have severe dysautonomia
+
+          -  have chronic obstructive pulmonary disease (COPD), as",255573,Chronic obstructive lung disease,TRUE,,,,13645005,Chronic obstructive lung disease (disorder),
+NCT02532647,chronic obstructive pulmonary disease,,"               Examples may include poorly controlled diabetes or hypertension, moderate to
+                  severe chronic obstructive pulmonary disease, active hepatitis, heart failure or
+         ",255573,Chronic obstructive lung disease,TRUE,,,,313299006,Severe chronic obstructive pulmonary disease (disorder),
+NCT00671892,allergic rhinitis,,"   -  not an employee working for,or a student under the authority of the PI's
+
+        Exclusion Criteria:
+
+          -  allergic rhinitis past or present
+
+          -  chronic illness resulting in a",257007,Allergic rhinitis,FALSE,,,,61582004,Allergic rhinitis (disorder),
+NCT00682643,allergic rhinitis,,"cific IgE (such as RAST, PRIST) will not be allowed for the diagnosis
+        of PAR.
+
+        NOTE: Subjects who meet the above criteria and who also may have seasonal allergic rhinitis
+        (SAR)",257007,Allergic rhinitis,FALSE,,,,367498001,Seasonal allergic rhinitis (disorder),
+NCT00521040,allergic rhinitis,,"ion Criteria:
+
+          -  male or female subjects ≥ 12 years
+
+          -  2 year history of seasonal allergic rhinitis
+
+          -  documented hypersensitivity to local seasonal allergens (grass p",257007,Allergic rhinitis,FALSE,,,,367498001,Seasonal allergic rhinitis (disorder),
+NCT02727205,allergic rhinitis,,"        of Day 1 patch application.
+
+         20. Reported a history of anaphylactic reaction to drugs. At the discretion of the
+             Investigator, subjects with seasonal allergic rhinitis wit",257007,Allergic rhinitis,FALSE,,,,61582004,Allergic rhinitis (disorder),
+NCT04103086,allergic rhinitis,,"   3. Prior history of heart failure.
+
+          4. Prior history of atrial fibrillation.
+
+          5. Prior history of allergic rhinitis, sinusitis, asthma and COPD.
+
+          6. Deafness, mental i",257007,Allergic rhinitis,FALSE,,,,61582004,Allergic rhinitis (disorder),
+NCT00239499,allergic rhinitis,,"a:
+
+          -  Patients with significant diseases other than COPD.
+
+          -  Patients with a history of asthma, allergic rhinitis or atopy or who have a total
+             blood eosinophil count",257007,Allergic rhinitis,TRUE,,,,61582004,Allergic rhinitis (disorder),
+NCT01529229,allergic rhinitis,,"sent of the patient or legal guardian;
+
+          -  Clinical diagnosis of moderate - severe persistent allergic rhinitis according to the
+             classification of ARIA (Allergic Rhinitis and It",257007,Allergic rhinitis,TRUE,,,,61582004,Allergic rhinitis (disorder),
+NCT02953366,allergic rhinitis,,"     -  Signed Consent of the patient;
+
+          -  Clinical diagnosis of moderate - severe persistent allergic rhinitis according to ARIA
+             classification(Allergic Rhinitis and Its Impact",257007,Allergic rhinitis,TRUE,,,,61582004,Allergic rhinitis (disorder),
+NCT01101022,allergic rhinitis,,"     ideation.
+
+          3. The subject has a body mass index (BMI) of <18.5 or ≥40.
+
+          4. Subject has a concurrent chronic or acute illness (such as severe allergic rhinitis or
+             ",257007,Allergic rhinitis,TRUE,,,,61582004,Allergic rhinitis (disorder),
+NCT02746042,allergic rhinitis,,"ate to severe co-morbid asthma, including allergic asthma
+
+          5. Cystic fibrosis
+
+          6. Perennial (e.g. patients with clinical symptoms of allergic rhinitis against house
+             du",257007,Allergic rhinitis,TRUE,,,,61582004,Allergic rhinitis (disorder),
+NCT01848769,exacerbation of asthma,,"ses of cardiovascular, renal or liver disease
+
+          -  Known hypersensitivity to the active treatments
+
+          -  Exacerbation of asthma symptoms within the previous 4 weeks
+
+          -  Inab",257581,Exacerbation of asthma,FALSE,,,,281239006,Exacerbation of asthma (disorder),
+NCT00521040,exacerbation of asthma,,"l allergens (grass pollen)
+
+          -  documented pollen-induced asthma
+
+          -  without acute ongoing exacerbation of asthma or allergic rhinitis
+
+          -  no continuous ongoing treatment ",257581,Exacerbation of asthma,FALSE,,,,708038006,Acute exacerbation of asthma (disorder),
+NCT01087515,exacerbation of asthma,,"thin the range 19-32 kg/m²
+
+        Exclusion Criteria:
+
+          -  History of lower respiratory tract infection and /or exacerbation of asthma within
+             four weeks prior to the informed c",257581,Exacerbation of asthma,FALSE,,,,281239006,Exacerbation of asthma (disorder),
+NCT00493090,exacerbation of asthma,,"         -  Using in excess of twelve beta2 agonists during a twelve month period and/or
+             experiencing an acute exacerbation of asthma requiring oral steroids in the last 12
+             m",257581,Exacerbation of asthma,FALSE,,,,708038006,Acute exacerbation of asthma (disorder),
+NCT00748306,exacerbation of asthma,,"          Hypertension at screening is defined as persistent systolic BP >150 mmHg or diastolic
+             BP > 90mmHg.
+
+          4. Respiratory tract infection and/or exacerbation of asthma within",257581,Exacerbation of asthma,FALSE,,,,281239006,Exacerbation of asthma (disorder),
+NCT01290874,exacerbation of asthma,,"         5. Pregnancy or lactation or an unwillingness to maintain effective birth control.
+
+          6. History of a significant exacerbation of asthma or respiratory tract infection in the
+        ",257581,Exacerbation of asthma,TRUE,,,,281239006,Exacerbation of asthma (disorder),
+NCT00839124,exacerbation of asthma,,"     a person of moderate or severe persistent asthma as outlined in the current NHLBI
+             guidelines for diagnosis and management of asthma.
+
+          -  Exacerbation of asthma more than 2x",257581,Exacerbation of asthma,TRUE,,,,281239006,Exacerbation of asthma (disorder),
+NCT00448851,exacerbation of asthma,," a person of moderate or severe persistent asthma as outlined in the current NHLBI
+             guidelines for diagnosis and management of asthma.
+
+         15. Exacerbation of asthma more than 2x/wee",257581,Exacerbation of asthma,TRUE,,,,281239006,Exacerbation of asthma (disorder),
+NCT00839189,exacerbation of asthma,,"son of moderate or severe persistent asthma as outlined in the current NHLBI
+             guidelines for diagnosis and management of asthma.
+
+          -  Exacerbation of asthma more than 2x/week whic",257581,Exacerbation of asthma,TRUE,,,,281239006,Exacerbation of asthma (disorder),
+NCT00287378,exacerbation of asthma,,"           a person of moderate or severe persistent asthma as outlined in the current NHLBI
+             guidelines for diagnosis and management of asthma.
+
+          -  Exacerbation of asthma more t",257581,Exacerbation of asthma,TRUE,,,,281239006,Exacerbation of asthma (disorder),
+NCT03032757,hypertension,,"s such as: heart disease , metabolic disease such as phenylketonuria,
+        rheumatoid arthritis, uncontrolled hypertension, poor lung function, or any health
+        condition that might put the pa",316866,Hypertensive disorder,FALSE,,,,38341003,"Hypertensive disorder, systemic arterial (disorder)",
+NCT02047656,hypertension,," to 80 years of age
+             inclusive.
+
+          -  Patients with mild-to-moderate uncomplicated essential hypertension
+
+        Exclusion Criteria:
+
+        Part 1
+
+          -  History of hype",316866,Hypertensive disorder,FALSE,,,,38341003,"Hypertensive disorder, systemic arterial (disorder)",
+NCT00375401,hypertension,," or = 30 kg/m2; > or = to 27 kg/m2 for those with
+             obesity-related comorbidities including hypertension and dyslipidemia
+
+        Exclusion Criteria:
+
+          -  Pregnancy
+
+          -  ",316866,Hypertensive disorder,FALSE,,,,38341003,"Hypertensive disorder, systemic arterial (disorder)",
+NCT03865615,high blood pressure,,"ory, and/or physical exam performed
+             or reviewed by the study physician.
+
+          -  Severely low blood (< 90/50) pressure or uncontrolled high blood pressure (>160/100).
+
+          -  S",316866,Hypertensive disorder,FALSE,,,,38341003,"Hypertensive disorder, systemic arterial (disorder)",
+NCT00003928,hypertension,,"ine no greater than 1.5 mg/dL OR
+
+          -  Creatinine clearance at least 60 mL/min
+
+        Cardiovascular:
+
+          -  No uncontrolled hypertension
+
+          -  No myocardial infarction within",316866,Hypertensive disorder,FALSE,,,,38341003,"Hypertensive disorder, systemic arterial (disorder)",
+NCT03650933,hypertension,,"of grade Ⅲ of Ⅳ
+             according to the New York Heart Association(NYHA) system, or occurrence of myocardial
+             infarction, unstable arrhythmia, unstable angina or severe hypertension ",316866,Hypertensive disorder,TRUE,,,,843841000000109,Severe hypertension,
+NCT00655798,high blood pressure,,"significantly affect the study outcome, including
+             diabetes (type 1 or 2) cardiovascular disease and hypothyroidemy
+
+          4. High blood pressure (age <55 y: DBP > 100 or SBP >160 mm H",316866,Hypertensive disorder,TRUE,,,,38341003,"Hypertensive disorder, systemic arterial (disorder)",
+NCT02801201,hypertension,,"gic contraindications:
+
+          -  infection at the puncture site, systemic infection or severe sepsis
+
+          -  intracranial hypertension
+
+          -  uncompensated heart failure
+
+          - ",316866,Hypertensive disorder,TRUE,,,,68267002,Benign intracranial hypertension (disorder),
+NCT03882424,hypertension,,"pants on anticoagulant drugs, anemic or with known bleeding diatheses.
+
+          -  Participants with a history of severe, uncontrolled hypertension, heart disease,
+             cerebrovascular incid",316866,Hypertensive disorder,TRUE,,,,38341003,"Hypertensive disorder, systemic arterial (disorder)",
+NCT03197623,hypertension,,"       ability to participate for the duration of the study, such as clinically significant
+             cardiovascular disease, uncontrollable hypertension, uncontrolled asthma, symptomatic
+         ",316866,Hypertensive disorder,TRUE,,,,38341003,"Hypertensive disorder, systemic arterial (disorder)",
+NCT01779895,asthma,,"consent
+
+        Exclusion Criteria:
+
+          -  Anemia
+
+          -  Allergy to any food or medication
+
+          -  Asthma
+
+          -  Family history of congenital immunodeficiency or chronic co",317009,Asthma,FALSE,,,,195967001,Asthma (disorder),
+NCT00584636,asthma,,"teria:
+
+        Patient is between the ages of 2 and 8
+
+          -  Has previously been diagnosed with asthma by any physician
+
+          -  Has presented to the ED with an asthma exacerbation judged",317009,Asthma,FALSE,,,,195967001,Asthma (disorder),
+NCT03895411,bronchial asthma,,"tive in conventional treatment;
+
+          2. Left ventricular ejection fraction (LVEF) ≤ 50%;
+
+          3. Suffering from bronchial asthma;
+
+          4. Resting sinus heart rate (HR) in newborns <9",317009,Asthma,FALSE,,,,195967001,Asthma (disorder),
+NCT03396445,asthma,,"             (i.e., with use of disease-modifying agents, corticosteroids, or immunosuppressive
+             drugs) except vitiligo or resolved childhood asthma/atopy.
+
+          -  Known human immuno",317009,Asthma,FALSE,,,,233678006,Childhood asthma (disorder),
+NCT02936817,asthma,,"ect who has undergone major surgery within 12 weeks of Visit 1 or has planned to
+             undergo a major surgery before the end of the study.
+
+         22. Subject with diagnosis of asthma.
+
+    ",317009,Asthma,FALSE,,,,195967001,Asthma (disorder),
+NCT00075569,asthma,,"standard therapy
+
+        Pulmonary
+
+          -  No significant respiratory disease that is uncontrolled with standard therapy
+
+          -  No history of asthma
+
+        Immunologic
+
+          -  HI",317009,Asthma,TRUE,,,,195967001,Asthma (disorder),
+NCT00895102,asthma,,"cancer (except basal cell carcinoma);
+
+          -  clinically significant cardiovascular, respiratory (except mild asthma), renal,
+             gastrointestinal, hematologic, neurologic, thyroid, or ",317009,Asthma,TRUE,,,,370218001,Mild asthma (disorder),
+NCT01425281,asthma,," and/or has known immunosuppressive or
+             autoimmune disease (e.g. human immunodeficiency virus, systemic lupus erythematosus,
+             rheumatoid arthritis, severe asthma requiring immu",317009,Asthma,TRUE,,,,370221004,Severe asthma,
+NCT00463567,asthma,,"ry disease, pulmonary tuberculosis, or clinically
+             significant bronchiectasis
+
+          -  Patients with a history of asthma (with further criteria)
+
+          -  Patients with Type I or ",317009,Asthma,TRUE,,,,195967001,Asthma (disorder),
+NCT02614274,asthma,,"had a significant injury to the target joint within the past 12 months.
+
+          4. Subject plans to have knee surgery in the next 2 months.
+
+          5. Subject has had an asthma attack, hives, or",317009,Asthma,TRUE,,,,708038006,Asthma attack,
+NCT00548184,cardiomyopathy,,"traceptive method in women of
+             child-bearing potential.
+
+          -  Severe underlying chronic illness or disease.
+
+          -  Cardiomyopathy or baseline LVEF less than 50%.
+
+          ",321319,Cardiomyopathy,FALSE,,,,85898001,Cardiomyopathy (disorder),
+NCT01031290,cardiomyopathy,,"er, schizophrenia, bipolar disorder, mania,
+        or hypomania
+
+        vii) History of myocardial infarction, angina, congestive heart failure, cardiomyopathy,
+        stroke or transient ischemic ",321319,Cardiomyopathy,FALSE,,,,85898001,Cardiomyopathy (disorder),
+NCT03057548,cardiomyopathy,,"tients with any corrected or uncorrected congenital heart disease
+
+          -  Patients with a history of hypertrophic cardiomyopathy
+
+          -  Patients with cardiomyopathy and a left ventricular",321319,Cardiomyopathy,FALSE,,,,233873004,Hypertrophic cardiomyopathy (disorder),
+NCT01212094,cardiomyopathy,," risk of harm or
+        prevent the patient from completing the study (such as, but not limited to cerebrovascular
+        disease, ischemic cardiomyopathy, clotting disorder, brittle diabetes, neuro",321319,Cardiomyopathy,FALSE,,,,194849004,Ischemic cardiomyopathy,
+NCT01092325,cardiomyopathy,," and 85
+             years of age
+
+          -  Have chronic Systolic HF due to primary/idiopathic dilated cardiomyopathy, coronary
+             artery disease or hypertension, and stable for at least",321319,Cardiomyopathy,FALSE,,,,53043001,Primary idiopathic dilated cardiomyopathy (disorder),
+NCT03065140,cardiomyopathy,,"    -  Presence of other significant concomitant heart diseases such as ischaemic, valvular,
+             pericardial heart disease or cardiomyopathy, skeletal muscle disorders
+
+          -  Healthy v",321319,Cardiomyopathy,TRUE,,,,85898001,Cardiomyopathy (disorder),
+NCT00230230,cardiomyopathy,,"s
+             participation in the study. In particular, diabetics, uncontrolled hypertensives, and
+             subjects with clinically significant cardiomyopathy, prostatic hypertrophy, glaucoma,
+",321319,Cardiomyopathy,TRUE,,,,85898001,Cardiomyopathy (disorder),
+NCT02508623,cardiomyopathy,,"          -  significant coronary artery disease (angina NYHA III/IV), congestive heart failure
+             (NYHA III/IV), relevant cardiomyopathy, history of myocardial infarct within the last
+     ",321319,Cardiomyopathy,TRUE,,,,85898001,Cardiomyopathy (disorder),
+NCT01416974,cardiomyopathy,,"hmia or unexplained syncope, not
+             believed to be vasovagal in nature or due to dehydration
+
+          -  History of severe non-ischemic cardiomyopathy with EF ≤20%
+
+          -  Patients w",321319,Cardiomyopathy,TRUE,,,,85898001,Cardiomyopathy (disorder),
+NCT00079443,cardiomyopathy,,"tributed to agents used in the study
+
+          -  Impaired cardiac function: history of life threatening arrhythmias, MI within the
+             preceding 6 months, severe CAD, cardiomyopathy, conges",321319,Cardiomyopathy,TRUE,,,,85898001,Cardiomyopathy (disorder),
+NCT01718600,encephalopathy,,"tion.
+
+          -  Patient has acute illness or unstable chronic illness (e.g. uncontrolled hypertension,
+             hepatic encephalopathy, portal hypertension, ascites, and esophageal varices,
+  ",372887,Disorder of brain,FALSE,,,,13920009,Hepatic encephalopathy (disorder),
+NCT02564198,encephalopathy,,"lcers, fistulas or
+             abscesses
+
+          -  Active or recent history of hypertensive crisis or hypertensive encephalopathy
+
+          -  Active non-healing wound or bone fracture
+
+        ",372887,Disorder of brain,FALSE,,,,50490005,Hypertensive encephalopathy (disorder),
+NCT02990312,encephalopathy,,"     2. The following active opportunistic infections: Ongoing chronic infections such as
+             progressive multifocal leukoencephalopathy (PML), disseminated cryptococcosis, chronic
+          ",372887,Disorder of brain,FALSE,,,,22255007,Progressive multifocal leukoencephalopathy (disorder),
+NCT01143246,encephalopathy,,"           an NSAID within the prior month (prescription or over the counter) is acceptable Note:
+             Use of short-term (< 2 weeks) oral neomycin for acute encephalopathy is acceptable.
+
+    ",372887,Disorder of brain,FALSE,,,,16561007,Acute anoxic encephalopathy (disorder),
+NCT01546909,encephalopathy,,"vaccine components or to a vaccine
+             containing the same substances
+
+          -  Known personal history of encephalopathy, seizure disorder or progressive, evolving or
+             unstabl",372887,Disorder of brain,FALSE,,,,81308009,Disorder of brain (disorder),
+NCT03079167,encephalopathy,,"s than 7.00 OR base deficit greater than or equal to 12.0
+                  mmol/L
+
+          -  Moderate to severe encephalopathy, defined between one and six hours after birth by
+             one or",372887,Disorder of brain,TRUE,,,,81308009,Disorder of brain (disorder),
+NCT04045210,encephalopathy,,"s such as schizophrenia
+
+          -  acute alcohol/substance intoxication or withdrawal
+
+          -  severe metabolic encephalopathy
+
+          -  patients on comfort care
+
+          -  Patients not",372887,Disorder of brain,TRUE,,,,472916000,Toxic and/or metabolic encephalopathy,
+NCT00147030,encephalopathy,,"r they meet the neurological
+        abnormality entry criteria (B) by trained personnel:
+
+        B. Moderate to severe encephalopathy, consisting of altered state of consciousness
+        (lethargy,",372887,Disorder of brain,TRUE,,,,81308009,Disorder of brain (disorder),
+NCT01059461,encephalopathy,," of moderate or severe
+        HIE collected from his NICU's file. Criteria of neonatal asphyxia and encephalopathy
+        according to the American College of Obstetricians and Gynecologist and Amer",372887,Disorder of brain,TRUE,,,,81308009,Disorder of brain (disorder),
+NCT02640040,encephalopathy,,"    -  Patients are complicated with mental, neurological disorders (such as hypoxic-ischemic
+             encephalopathy, epilepsy and dementia) or significant barriers to growth.
+
+          -  Patie",372887,Disorder of brain,TRUE,,,,703300001,Hypoxic ischemic encephalopathy (disorder),
+NCT02612337,sensorineural hearing loss,,"t has experienced active vertigo during the lead-in period.
+
+          -  Subject has documented asymmetric sensorineural hearing loss.
+
+          -  Subject agrees to maintain their current treatment",374366,Sensorineural hearing loss,FALSE,,,,428887009,Asymmetrical sensorineural hearing loss (disorder),
+NCT03664674,sensorineural hearing loss,,"t has experienced active vertigo during the lead-in period.
+
+          -  Subject has documented asymmetric sensorineural hearing loss.
+
+          -  Subject agrees to maintain their current treatment",374366,Sensorineural hearing loss,FALSE,,,,428887009,Asymmetrical sensorineural hearing loss (disorder),
+NCT03897634,sensorineural hearing loss,,"2. Speak English as their primary language
+
+          3. Normal or corrected to normal vision
+
+          4. Sensorineural hearing loss with pure-tone thresholds 20-85 dB HL at octave frequencies
+     ",374366,Sensorineural hearing loss,FALSE,,,,60700002,Sensorineural hearing loss (disorder),
+NCT04041700,sensorineural hearing loss,,"onduction thresholds with pure tone average (PTA4; mean of 0.5, 1, 2 and 4 kHz)
+             of ≤ 55 dB sensorineural hearing loss.
+
+        OR Subject with single-sided sensorineural deafness who is ",374366,Sensorineural hearing loss,FALSE,,,,60700002,Sensorineural hearing loss (disorder),
+NCT01481662,sensorineural hearing loss,,"         -  Age older than 18
+
+          -  Two clinical features of the triad present: encephalopathy, sensorineural hearing loss
+             assessed by audiogram, retinal artery occlusion assessed",374366,Sensorineural hearing loss,FALSE,,,,60700002,Sensorineural hearing loss (disorder),
+NCT01072409,sensorineural hearing loss,,"e or older at the time of the study.
+
+          -  Postlinguistic onset of bilateral severe-to-profound sensorineural hearing loss
+
+          -  Bilateral severe-to-profound hearing loss that meets cu",374366,Sensorineural hearing loss,TRUE,,,,194424005,"Sensorineural hearing loss, bilateral (disorder)",
+NCT00589511,sensorineural hearing loss,,"riteria:
+
+          -  1 year to 17 years, 11 months of age.
+
+          -  Bilateral severe to profound sensorineural hearing loss for those 1 to 2 years of age.
+             Severe hearing loss for t",374366,Sensorineural hearing loss,TRUE,,,,194424005,"Sensorineural hearing loss, bilateral (disorder)",
+NCT01092910,sensorineural hearing loss,,"tands the audiological test procedures and use of the Esteem System.
+
+          -  Subject has mild to severe sensorineural hearing loss between 500 and 4000 Hz in the
+             ear to be implanted",374366,Sensorineural hearing loss,TRUE,,,,898061000000101,Bilateral severe sensorineural hearing loss,
+NCT00205881,sensorineural hearing loss,,"rience.
+
+          2. Age 18 years or older.
+
+          3. Postlingual onset of hearing loss.
+
+          4. Sensorineural hearing loss of a severe or greater degree in both ears.
+
+          5. Normal/",374366,Sensorineural hearing loss,TRUE,,,,60700002,Sensorineural hearing loss (disorder),
+NCT01975571,sensorineural hearing loss,,"    Criterion for selection will be subject interest in preservation of residual hearing;
+        severe sensorineural hearing loss; lack of benefit from appropriately fit binaural hearing
+        aid",374366,Sensorineural hearing loss,TRUE,,,,898061000000101,Bilateral severe sensorineural hearing loss,
+NCT00107055,eye disorder,," and/or regarding which an ophthalmologist has recommended cataract
+                  surgery);
+
+               -  Other vision-impairing disorders (if a subject is aware of any eye disorder that
+    ",375252,Disorder of eye,FALSE,,,,371405004,Disorder of eye proper (disorder),
+NCT02565537,eye disorder,,"thin corneas.
+
+          -  Patients with topographic evidence of keratoconus.
+
+          -  Patients with ectatic eye disorders.
+
+          -  Patients with autoimmune diseases.
+
+          -  Patient",375252,Disorder of eye,FALSE,,,,371405004,Disorder of eye proper (disorder),
+NCT03475147,eye disorder,,"Control
+
+          -  Age matched 18-80 years of age.
+
+          -  Healthy normal controls with no known eye disorders.
+
+        Exclusion Criteria:
+
+          -  Scotoma or any other ocular disorder",375252,Disorder of eye,FALSE,,,,371405004,Disorder of eye proper (disorder),
+NCT00861484,eye disorder,,"evant abnormality
+
+          -  History of psychiatric illness or suicidal attempts or behaviours
+
+          -  History of any eye disorder or colour blind, excluding myopia and presbyopia
+
+          ",375252,Disorder of eye,FALSE,,,,371405004,Disorder of eye proper (disorder),
+NCT03751202,eye disorder,,"             with the absorption, distribution, metabolism or excretion of the drug.
+
+         17. Use of oral or parenteral corticosteroids in the previous four 4 weeks
+
+         18. Eye disorders es",375252,Disorder of eye,FALSE,,,,371405004,Disorder of eye proper (disorder),
+NCT02193217,eye disorder,," significant endocrine, thyroid, hepatic, respiratory, gastrointestinal,
+             renal, cardiovascular disease, eye disorder or history of psychiatric/psychotic
+             disorder.
+
+          ",375252,Disorder of eye,TRUE,,,,371405004,Disorder of eye proper (disorder),
+NCT00170729,eye disorder,,"ye.
+
+          -  Clinically significant trichiasis or other clinically relevant concurrent
+             inflammatory/ infective eye disorders (e.g. conjunctivitis, episcleritis) except mild
+         ",375252,Disorder of eye,TRUE,,,,128295000,Inflammatory disorder of the eye (disorder),
+NCT04045496,eye disorder,,"     5. History or evidence of active infections (Grade ≥2).
+
+          6. History or evidence of significant inflammatory or vascular eye disorder.
+
+          7. History of an allogeneic bone marrow ",375252,Disorder of eye,TRUE,,,,128295000,Inflammatory disorder of the eye (disorder),
+NCT01919996,eye disorder,,"itive rapid antigen detection test.
+
+        Exclusion Criteria:
+
+          -  History of clinically significant eye disorder that would interfere with protocol test
+             procedures.
+
+        ",375252,Disorder of eye,TRUE,,,,371405004,Disorder of eye proper (disorder),
+NCT00892918,eye disorder,,"pterygium or clinical suspected conjunctival tumor.
+
+          3. eye surgery in the last 6 months.
+
+          4. eye disorders: severe dry eye syndrome, ocular surface diseases, glaucoma, recurrent
+ ",375252,Disorder of eye,TRUE,,,,371405004,Disorder of eye proper (disorder),
+NCT02334683,dystonia,,"on Criteria:
+
+          -  18 years or older
+
+          -  Confirmed diagnosis of focal upper extremity dystonia (FHD) or upper limb spasticity
+
+          -  Stable onabotulinumtoxinA dose regimen wit",375800,Dystonia,FALSE,,,,445006008,Focal dystonia (disorder),
+NCT02347579,dystonia,,"otor / Trophic: Reports of decreased range of motion and/or motor
+                       dysfunction (weakness, tremor, dystonia) and/or trophic changes (hair, nail,
+                       skin)
+
+    ",375800,Dystonia,FALSE,,,,15802004,Dystonia (disorder),
+NCT01592110,dystonia,,"nce or history of renal or hepatic insufficiency.
+
+          -  Have known history, hypersensitivity or idiosyncratic reaction (including dystonias)
+             to risperidone, paliperidone, and/or a",375800,Dystonia,FALSE,,,,15802004,Dystonia (disorder),
+NCT00530790,dystonia,,"ndex,in which case to
+             implement polysomnography), etc.
+
+          -  Patients with complication of movement disorder (e.g. Parkinson's disease, dyskinesia,
+             dystonia, etc.).
+
+",375800,Dystonia,FALSE,,,,15802004,Dystonia (disorder),
+NCT00580658,dystonia,,"
+          -  Patients who are diagnosed with chronic, intractable (drug refractory)primary
+             dystonia, including generalized and or segmental dystonia, hemidystonia, and cervical
+         ",375800,Dystonia,FALSE,,,,15802004,Dystonia (disorder),
+NCT03620279,dystonia,,"e spasticity or fixed contracture in the more affected limb that limits
+             functional arm and hand use
+
+          -  dystonia
+
+          -  severe visual or auditory disorders that prevent l",375800,Dystonia,TRUE,,,,15802004,Dystonia (disorder),
+NCT02671604,dystonia,,"         -  Patients with comorbid diseases that can cause increased muscular activity such as
+             severe dystonia or status asthmaticus,
+
+          -  Patients with renal or hepatic failure ",375800,Dystonia,TRUE,,,,15802004,Dystonia (disorder),
+NCT01588574,dystonia,,"r female aged 18~75
+
+          -  Have no clinically significant medical condition
+
+          -  Cervical dystonia
+
+        Exclusion Criteria:
+
+          -  Pregnant or lactation
+
+          -  Subjec",375800,Dystonia,TRUE,,,,230322000,Isolated cervical dystonia (disorder),
+NCT03921450,dystonia,,"associated with impaired or aberrant
+             movement, such as brain tumors, stroke, M. Parkinson, M. Huntington, dystonia, or
+             severe head trauma with subsequent loss of consciousnes",375800,Dystonia,TRUE,,,,15802004,Dystonia (disorder),
+NCT03704168,dystonia,,"coagulopathies, life threatening
+             arrhythmias
+
+          3. Upper respiratory airway obstruction, e.g: severe dystonia
+
+          4. History of previous local surgery
+
+          5. Any con",375800,Dystonia,TRUE,,,,15802004,Dystonia (disorder),
+NCT02204839,background diabetic retinopathy,," 50 years.
+
+          -  Suffering from, or diagnosed with a diabetes related complication (apart from mild
+             background diabetic retinopathy).
+
+          -  HbA1c >8.5%.
+
+          -  Curr",376683,Nonproliferative diabetic retinopathy,FALSE,,,,390834004,Nonproliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT02444767,background diabetic retinopathy,,"ion, ocular
+             infection, corneal edema). Patients may have mild blepharitis, mild dry eye,
+             cataracts, age-related macular degeneration or background diabetic retinopathy if, in",376683,Nonproliferative diabetic retinopathy,FALSE,,,,390834004,Nonproliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT02208115,background diabetic retinopathy,," 50 years.
+
+          -  Suffering from, or diagnosed with a diabetes related complication (apart from mild
+             background diabetic retinopathy).
+
+          -  HbA1c >8.5%.
+
+          -  Curr",376683,Nonproliferative diabetic retinopathy,FALSE,,,,390834004,Nonproliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT02639507,background diabetic retinopathy,,"sed and
+             treated by an endocrinologist, internist or family medicine physician
+
+          -  Background diabetic retinopathy
+
+          -  DME with central subfield thickness (CST) > 325 µ",376683,Nonproliferative diabetic retinopathy,FALSE,,,,390834004,Nonproliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT00664183,non proliferative diabetic retinopathy,,"s with a history of systemic diabetes (type I or II)
+
+          -  Subject with a documented history of Non Proliferative Diabetic Retinopathy (NPDR)
+
+          -  Subjects with no PVD at baseline exa",376683,Nonproliferative diabetic retinopathy,FALSE,,,,390834004,Nonproliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT01698749,non proliferative diabetic retinopathy,,"following inclusion
+             criteria shall be enrolled in the study:
+
+               1. Patients of Non Proliferative Diabetic retinopathy (NPDR)with clinicaly
+                  significant macul",376683,Nonproliferative diabetic retinopathy,TRUE,,,,390834004,Nonproliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT03475407,non proliferative diabetic retinopathy,,"lling the following inclusion
+        criteria shall be enrolled in the study:
+
+          -  Patients of Non Proliferative Diabetic Retinopathy(NPDR) with clinically significant
+             macular e",376683,Nonproliferative diabetic retinopathy,TRUE,,,,390834004,Nonproliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT00352807,background diabetic retinopathy,,"                 severe dry eye). Patients with mild chronic blepharitis, age-related macular
+                  degeneration, background diabetic retinopathy may be enrolled at the discretion
+        ",376683,Nonproliferative diabetic retinopathy,TRUE,,,,390834004,Nonproliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT00355446,background diabetic retinopathy,,"on, or severe
+             dry eye). Patients with mild chronic blepharitis, age-related macular degeneration,
+             background diabetic retinopathy may be enrolled at the discretion of the inv",376683,Nonproliferative diabetic retinopathy,TRUE,,,,390834004,Nonproliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT01319487,non proliferative diabetic retinopathy,," in at least one eye (""study eye"")
+             involving the center of the macula:
+
+          5. Mild to severe non proliferative diabetic retinopathy (Early Treatment Diabetic
+             Retinopat",376683,Nonproliferative diabetic retinopathy,TRUE,,,,390834004,Nonproliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT00382083,hearing impairment,,"or read English or who are unable to complete the consent process or
+             questionnaire for reasons such as hearing impairment or other physical or mental
+             disabilities
+
+          ",377889,Hearing loss,FALSE,,,,15188001,Hearing loss (disorder),
+NCT02901548,hearing loss,,"otential participants with irreversible toxicity that is not reasonably expected to
+             be exacerbated by the investigational product may be included (e.g., hearing loss,
+             periphe",377889,Hearing loss,FALSE,,,,15188001,Hearing loss (disorder),
+NCT03825627,hearing impairment,," implants inside the brain or any electrical medical device (e.g. pacemaker)
+             in the body
+
+          -  Visual or hearing impairment, to the extent that it interferes with task instruction",377889,Hearing loss,FALSE,,,,15188001,Hearing loss (disorder),
+NCT01332656,hearing impairment,,"t urine) or
+             proteinuria >500 mg/24h
+
+          9. Pre-existing peripheral neuropathy > grade 1 according to the NCI CTCAE V.4.03
+
+         10. Pre-existing hearing impairment > grade 1
+
+ ",377889,Hearing loss,FALSE,,,,15188001,Hearing loss (disorder),
+NCT02500589,impaired hearing,,"l be excluded:
+
+          -  1.Active diagnosis of psychosis or dementia in their medical records
+
+          -  2.Severely impaired hearing or speech
+
+          -  3.Lack of telephone access
+
+        ",377889,Hearing loss,FALSE,,,,15188001,Hearing loss (disorder),
+NCT01499628,hearing impairment,,"      -  Patients who are not fluent in English or are cognitively impaired
+
+          -  Patients with serious hearing impairment
+
+          -  Patients who are hospital inpatients, who are living in",377889,Hearing loss,TRUE,,,,15188001,Hearing loss (disorder),
+NCT03907748,hearing impairment,,"riteria:
+
+          -  Dyads where either or both the caregiver or person with dementia have significant
+             hearing impairments that are not resolved through the use of a hearing aid device ",377889,Hearing loss,TRUE,,,,15188001,Hearing loss (disorder),
+NCT02862379,hearing impairment,,"          -  Persons who gave consent to participate in the study
+
+          -  Persons with severe visual or hearing impairment
+
+        Exclusion Criteria:
+
+          -  Patients with severe disease",377889,Hearing loss,TRUE,,,,15188001,Hearing loss (disorder),
+NCT03162328,hearing loss,,"n lesion).
+
+          -  Individuals who self-report severe contact dermatitis or allergy to silicone, nickel
+             or silver.
+
+          -  Individuals who self-report moderate hearing loss.
+
+",377889,Hearing loss,TRUE,,,,21451000119101,Mild to moderate hearing loss (disorder),
+NCT02590796,hearing impairment,,":
+
+          -  General Wards
+
+               -  Unable to understand spoken task instructions
+
+               -  Vision or hearing impairment severe enough to preclude testing or interview
+
+         ",377889,Hearing loss,TRUE,,,,15188001,Hearing loss (disorder),
+NCT03777254,myopia,,"rization (CNV) for any reason other than
+             AMD (such as fundus angioid streaks, ocular histoplasmosis, pathologic myopia,
+             trauma);
+
+          5. Afferent pupillary defect(APD);",379805,Myopia,FALSE,,,,57190000,Myopia (disorder),
+NCT01284309,myopia,,"s (LASIK) or photorefractive keratectomy (PRK) in any eye
+
+          -  Ocular trauma within the past six months
+
+          -  Severe myopia
+
+          -  Diabetes, Type I or Type 2, with or without m",379805,Myopia,FALSE,,,,34187009,Severe myopia (disorder),
+NCT02590692,myopia,,"previous 3 months in any clinical trial of a drug by ocular or
+             systemic administration (within previous 18 months for sustained release products)
+
+         16. Axial myopia of greater tha",379805,Myopia,FALSE,,,,408757002,Axial myopia (disorder),
+NCT03025399,myopia,,"terfere the fundus examination、Non - diabetic
+             retinopathy、uveitis、amotio retinae、optic nerve diseases and high myopia with fundus
+             lesions et al.)
+
+          2. Combined with ",379805,Myopia,FALSE,,,,34187009,Severe myopia (disorder),
+NCT03329638,myopia,,"blyopia or manifest strabismus including intermittent tropia
+
+          -  Ocular disorders that potentially affect myopia or refractive power
+
+          -  Previous or current use of contact lenses, ",379805,Myopia,FALSE,,,,57190000,Myopia (disorder),
+NCT03713268,myopia,,"      1. Healthy controls: Healthy eyes without known disease: refractive error including
+             myopia and non-significant cataract is allowed. For selected testing pseudophakia is
+            ",379805,Myopia,TRUE,,,,57190000,Myopia (disorder),
+NCT01335867,myopia,,"reatment with drugs with known retinotoxicity
+
+          8. History of visual field defects or predisposing factors, including glaucoma, severe
+             myopia, retinal disorders, cataracts, diabe",379805,Myopia,TRUE,,,,34187009,Severe myopia (disorder),
+NCT01705236,myopia,,"            optic neuropathy, active advanced glaucoma, injury of the optic nerve based on the
+             ophthalmologist's clinical judgment
+
+         11. history or presence of severe myopia
+
+    ",379805,Myopia,TRUE,,,,34187009,Severe myopia (disorder),
+NCT02040298,myopia,,"thalmologic disease / Concomitant ophthalmologic disorders (e.g. diabetes,
+             macular degeneration, glaucoma, severe myopia , etc).
+
+          -  Myopia > -7 Diopters (Severe myopia)
+
+      ",379805,Myopia,TRUE,,,,34187009,Severe myopia (disorder),
+NCT04063644,myopia,high myopia,"that have not undergone cataract surgery.
+
+          -  Cases that do not accept surgery (weak corneas, high degree of myopia, sensitivity to
+             light, severe dryness of the eyes or by their",379805,Myopia,TRUE,severe,high,pre,34187009,Severe myopia (disorder),
+NCT02281292,proliferative diabetic retinopathy,," of the study.
+
+          -  Other protocol-defined inclusion criteria may apply.
+
+        Exclusion Criteria:
+
+          -  Proliferative diabetic retinopathy in the study eye, with the exception of ",380096,Proliferative retinopathy with diabetes mellitus,FALSE,,,,59276001,Proliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT00970723,proliferative diabetic retinopathy,,"DRD, patient under dialysis
+
+          -  Other causes for macular edema (uveitis, epiretinal membrane)
+
+          -  Proliferative diabetic retinopathy requiring panretinal photocoagulation at inclus",380096,Proliferative retinopathy with diabetes mellitus,FALSE,,,,59276001,Proliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT02294474,proliferative diabetic retinopathy,,"ening visit.
+
+          -  Hospitalization for diabetic ketoacidosis in the last 6 months before screening visit.
+
+          -  Unstable proliferative diabetic retinopathy or any other rapidly progres",380096,Proliferative retinopathy with diabetes mellitus,FALSE,,,,59276001,Proliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT03547206,proliferative diabetic retinopathy,,"dition that appears consistent with a
+             reduction in visual acuity to <20/25, diabetic retinopathy beyond mild
+             non-proliferative diabetic retinopathy not involving the macula, ",380096,Proliferative retinopathy with diabetes mellitus,FALSE,,,,390834004,Nonproliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT03635814,proliferative diabetic retinopathy,,"esolved (e.g., foveal atrophy,
+                  abnormal pigmentation, dense subfoveal hard exudate)
+
+               3. Subject who has proliferative diabetic retinopathy.
+
+               4. Subject ",380096,Proliferative retinopathy with diabetes mellitus,FALSE,,,,59276001,Proliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT02461771,proliferative diabetic retinopathy,,"e study eye including amblyopia, anterior ischemic
+             optic neuropathy, clinically significant diabetic macular edema, severe non
+             proliferative diabetic retinopathy, or prolifer",380096,Proliferative retinopathy with diabetes mellitus,TRUE,,,,312905005,Severe nonproliferative diabetic retinopathy,
+NCT00717457,proliferative diabetic retinopathy,,"ithin the previous 6 months;
+
+          -  evidence of clinically significant diabetic complications;
+
+          -  known proliferative diabetic retinopathy;
+
+          -  myocardial infarction (MI), ",380096,Proliferative retinopathy with diabetes mellitus,TRUE,,,,59276001,Proliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT01310166,proliferative diabetic retinopathy,," History or presence of malignancy in the last 5 years
+
+          -  Diabetic patients with moderate or severe non-proliferative diabetic retinopathy or
+             proliferative diabetic retinopathy",380096,Proliferative retinopathy with diabetes mellitus,TRUE,,,,312905005,Severe nonproliferative diabetic retinopathy,
+NCT00060892,proliferative diabetic retinopathy,,"y of malignant neoplasm (clinical, laboratory or imaging), except
+             for basal cell carcinoma of the skin.
+
+          -  Subjects who have proliferative diabetic retinopathy or severe, non-p",380096,Proliferative retinopathy with diabetes mellitus,TRUE,,,,59276001,Proliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT03272451,proliferative diabetic retinopathy,,"ctive bleeding or significant increased risk of bleeding, severe hepatic
+             insufficiency, current peptic ulceration, proliferative diabetic retinopathy
+
+          -  Uncontrolled hypertensi",380096,Proliferative retinopathy with diabetes mellitus,TRUE,,,,59276001,Proliferative retinopathy co-occurrent and due to diabetes mellitus (disorder),
+NCT01487044,diabetic macular edema,,"ics, with an age of 18 years of older
+
+          -  Vision of 20/40-20/400 in the Study Eye
+
+          -  Diabetic Macular Edema as documented by SD-OCT and Fluorescein Angiogram.
+
+        Exclusion C",380097,Diabetic macular edema,FALSE,,,,312912001,Macular edema due to diabetes mellitus (disorder),
+NCT02193945,diabetic macular edema,,"d to:
+
+               -  Neovascular age-related macular degeneration;
+
+               -  Fibrovascular scar;
+
+               -  Diabetic macular edema; and
+
+               -  Proliferative diabetic r",380097,Diabetic macular edema,FALSE,,,,312912001,Macular edema due to diabetes mellitus (disorder),
+NCT00050479,diabetic macular edema,,"rimary outcome (artificial tears are permitted).
+
+          9. History of cancer and prognosis of survival of less than 3 years.
+
+         10. Participants whose diabetic macular edema, in the opinion",380097,Diabetic macular edema,FALSE,,,,312912001,Macular edema due to diabetes mellitus (disorder),
+NCT02862938,diabetic macular edema,,"is or other ocular inflammatory disease.
+
+         11. Participant is receiving systemic steroids or other immunosuppressive medications.
+
+         12. Participant has diabetic macular edema and/or di",380097,Diabetic macular edema,FALSE,,,,312912001,Macular edema due to diabetes mellitus (disorder),
+NCT03505567,diabetic macular edema,,"sease study eye(s)
+             at the study visit; and
+
+          -  Subjects diagnosed with retinal pathology including but not limited to: Macular
+             Degeneration, Diabetic Macular Edema,",380097,Diabetic macular edema,FALSE,,,,312912001,Macular edema due to diabetes mellitus (disorder),
+NCT00656903,diabetic macular edema,,"ely compromise the visual acuity of the study eye including amblyopia,
+             anterior ischemic optic neuropathy, clinically significant diabetic macular edema,
+             severe non prolifera",380097,Diabetic macular edema,TRUE,severe,significant,pre,312911008,Clinically significant diabetic macular edema,
+NCT00473928,diabetic macular edema,,"        compromise the VA of the study eye including amblyopia, anterior ischemic optic
+             neuropathy, clinically significant diabetic macular edema, severe non proliferative
+             di",380097,Diabetic macular edema,TRUE,severe,significant,pre,312911008,Clinically significant diabetic macular edema,
+NCT00387582,diabetic macular edema,," Subjects will be eligible if the following criteria are met:
+
+               -  Clinically significant diabetic macular edema (CSME) or clinically significant
+                  diabetic macular edema",380097,Diabetic macular edema,TRUE,severe,significant,pre,312911008,Clinically significant diabetic macular edema,
+NCT00403156,diabetic macular edema,,"     could likely compromise the visual acuity of the study eye including amblyopia,
+             anterior ischemic optic neuropathy, clinically significant diabetic macular edema,
+             severe",380097,Diabetic macular edema,TRUE,severe,significant,pre,312911008,Clinically significant diabetic macular edema,
+NCT00815360,diabetic macular edema,,"I or Type II diabetes
+
+        Disease related considerations:
+
+          -  Study eye with clinically significant diabetic macular edema characterized by macular
+             edema, peripheral nonper",380097,Diabetic macular edema,TRUE,severe,significant,pre,312911008,Clinically significant diabetic macular edema,
+NCT03452475,epilepsy,,"          7. Known hypersensitivity or contraindication to arterolane-piperaquine, DHA-piperaquine,
+             artemisinin, mefloquine (epilepsy, major psychiatric illness) or primaquine
+
+          ",380378,Epilepsy,FALSE,,,,84757009,Epilepsy (disorder),
+NCT00672659,epilepsy,,"        -  Significant physical illness which would interfere with trial assessments
+
+          -  Reduced hepatic function
+
+          -  Epilepsy
+
+          -  History of cardiac dysrhythmia
+
+       ",380378,Epilepsy,FALSE,,,,84757009,Epilepsy (disorder),
+NCT00061399,epilepsy,,"     15 or 3 to 8
+
+          -  No evidence of hypoxic injury
+
+        Exclusion Criteria
+
+          -  History of epilepsy, mental retardation, or documented evidence of developmental
+             dy",380378,Epilepsy,FALSE,,,,84757009,Epilepsy (disorder),
+NCT01866397,epilepsy,,"ir or probenecid.
+
+          -  An expected survival of less than three days.
+
+          -  Known alcohol dependency, epilepsy, pregnancy or liver failure.
+
+          -  Infection with a ganciclovir o",380378,Epilepsy,FALSE,,,,84757009,Epilepsy (disorder),
+NCT02276625,epilepsy,,"     study
+
+          -  (hydroxy)chloroquine or mefloquine use
+
+          -  History of any neurological disorder including epilepsy or febrile seizures
+
+          -  Pregnancy or breastfeeding
+
+    ",380378,Epilepsy,FALSE,,,,84757009,Epilepsy (disorder),
+NCT01489267,epilepsy,," impaired individuals
+
+          2. Schizophrenics
+
+          3. Patients with severe kidney and liver disease, epilepsy, heart disease, pulmonary
+             disease, cardiac arrhythmia, diabetes in",380378,Epilepsy,TRUE,,,,84757009,Epilepsy (disorder),
+NCT01050231,epilepsy,,"ical clips or mechanical devices
+
+          -  Metallic hardware on scalp region
+
+          -  prior diagnosis of seizure and epilepsy
+
+          -  severe migraine headache
+
+          -  currently pr",380378,Epilepsy,TRUE,,,,84757009,Epilepsy (disorder),
+NCT01777048,epilepsy,,"992)
+
+          4. Those without written parental consent
+
+          5. Those with brain pathology such as serious head injury, epilepsy, and intellectual
+             disability (IQ < 70)
+
+          ",380378,Epilepsy,TRUE,,,,84757009,Epilepsy (disorder),
+NCT01319344,epilepsy,," Patients with known cerebrovacular disease
+
+          -  Patients with peripheral occlusive artery disease
+
+          -  Patients with history of epilepsy
+
+          -  Patients with severe hepatic d",380378,Epilepsy,TRUE,,,,84757009,Epilepsy (disorder),
+NCT00981383,epilepsy,,"ination < 24)
+
+          -  Other neurologic conditions (Parkinson's disease, Huntington's chorea, history of
+             epilepsy, birth trauma, significant traumatic brain injury, clinical stroke,
+",380378,Epilepsy,TRUE,,,,84757009,Epilepsy (disorder),
+NCT03005704,thrombocytopenia,,"     -  Not taking antiplatelet therapy prior to participation
+
+        Exclusion Criteria:
+
+          -  Known thrombocytopenia, other coagulation disorder such as von Willebrand's disease,
+         ",432870,Thrombocytopenic disorder,FALSE,,,,302215000,Thrombocytopenic disorder (disorder),
+NCT00923013,thrombocytopenia,,"       -  Neutropenia (ANC less than 1000 cells/microl).
+
+          -  Anemia (Hgb less than 10g/dL).
+
+          -  Thrombocytopenia (Plt less than 100,000/microl).
+
+          -  Absolute lymphocyte c",432870,Thrombocytopenic disorder,FALSE,,,,302215000,Thrombocytopenic disorder (disorder),
+NCT00829439,thrombocytopenia,,"Stomach or intestinal ulcers - Kidney disease - Hematological problems, including anemia, leucopenia, and thrombocytopenia - Used investigational drugs/intervent",,Thrombocytopenic disorder,FALSE,,,,302215000,Thrombocytopenic disorder (disorder),
+NCT00740090,thrombocytopenia,,"o: systemic lupus
+        erythematosus, rheumatoid arthritis, multiple sclerosis, Sjogren's syndrome, or autoimmune
+        thrombocytopenia.
+
+        Laboratory evidence of possible autoimmune disea",432870,Thrombocytopenic disorder,FALSE,,,,128091003,Autoimmune thrombocytopenia,
+NCT01998789,thrombocytopenia,,"olesterolemia (> 350 mg/dL) or hypertriglyceridemia (> 500 mg/dL) within
+             30 days prior to baseline.
+
+          -  Thrombocytopenia (platelets < 50,000/mm3)
+
+          -  Absolute neutroph",432870,Thrombocytopenic disorder,FALSE,,,,302215000,Thrombocytopenic disorder (disorder),
+NCT03980548,thrombocytopenia,,"urs.
+
+        -
+
+        Exclusion Criteria:
+
+          1. General exclusion criteria will be a known history of leucopenia, thrombocytopenia, or
+             severe hepatic or renal dysfunction, as w",432870,Thrombocytopenic disorder,TRUE,,,,302215000,Thrombocytopenic disorder (disorder),
+NCT02074358,thrombocytopenia,," 2 weeks prior to dosing
+
+          -  History of any severe drug allergy including allergy to Heparin or history of
+             Heparin-induced thrombocytopenia, hypersensitivity to PCCs or Factor X",432870,Thrombocytopenic disorder,TRUE,,,,73397007,Heparin-induced thrombocytopenia (disorder),
+NCT03786757,thrombocytopenia,,"Clinically significant gastrointestinal bleeding within 12 months before
+                  randomization;
+
+               4. Thrombocytopenia, unknown severe anemia at screening or pre-randomization;
+",432870,Thrombocytopenic disorder,TRUE,,,,302215000,Thrombocytopenic disorder (disorder),
+NCT03887026,thrombocytopenia,,"BV), or hepatitis C (HCV)
+             antibody screen
+
+          -  Any clinically significant abnormal laboratory or ECG test. Presence of
+             thrombocytopenia at screening is exclusionary
+",432870,Thrombocytopenic disorder,TRUE,,,,302215000,Thrombocytopenic disorder (disorder),
+NCT02387723,thrombocytopenia,,"1 L/min, moderate to
+             severe claudication or morbid obesity
+
+          6. Clinical significant anaemia, leukopenia, leukocytosis or thrombocytopenia
+
+          7. Clinically significant ab",432870,Thrombocytopenic disorder,TRUE,,,,302215000,Thrombocytopenic disorder (disorder),
+NCT03014908,obesity,obesity,"riteria:
+
+          -  aged between 8 and 18
+
+          -  normal-weight according to the International Obesity Task Force (IOTF) BMI criteria
+
+          -  fasted for at least 8 hours.
+
+        Exclu",433736,Obesity,FALSE,,,,414916001,Obesity (disorder),
+NCT00800852,obesity,,"nclusion Criteria:
+
+          -  children with Prader-willi syndrome
+
+          -  children with simple obesity
+
+        Exclusion Criteria:
+
+          -  subjects with diabetes mellitus (fasting plas",433736,Obesity,FALSE,,,,415530009,Simple obesity (disorder),
+NCT01920672,obesity,,"mal pressure hydrocephalus, Parkinson's disease, advanced
+             heart failure (New York Heart Stage 3-4), morbid obesity (BMI > 35), and indications
+             of restless legs syndrome or pe",433736,Obesity,FALSE,,,,238136002,Morbid obesity (disorder),
+NCT03136835,obesity,,"/ comfort care
+
+          -  Normal exclusions for MRI (e.g. claustrophobia, cardiac pacemaker, etc.)
+
+          -  Obesity
+
+          -  Infections/ anemia
+
+          -  Smoker
+
+          -  Serious ",433736,Obesity,FALSE,,,,414916001,Obesity (disorder),
+NCT01814735,adiposity,,"t circumference ≥ 90cm if male and ≥ 80cm if female (India-specific cutpoints for
+             abdominal adiposity)
+
+          3. Daily rice consumption (≥200grams/day, > ~2cups/day) as determined by ",433736,Obesity,FALSE,,,,414916001,Obesity (disorder),
+NCT04050969,obesity,," lipids unachievable with diet and
+                  maximum doses of lipid lowering medications).
+
+               -  Obesity-induced cardiomyopathy.
+
+               -  Clinically significant obstruct",433736,Obesity,TRUE,,,,414916001,Obesity (disorder),
+NCT00654381,obesity,,"patic function
+
+          3. History of severe allergy/hypersensitivity
+
+          4. Treatment with anti-diabetic, anti obesity drugs, etc 3 months before Visit 1
+
+          5. Fasting blood glucose ",433736,Obesity,TRUE,,,,414916001,Obesity (disorder),
+NCT01872754,obesity,,"atient considered ""full stomach"": Diabetes with
+                  autonomic dysfunction, severe gastroesophageal reflux, severe obesity and morbid
+                  hiatal hernia and any other situati",433736,Obesity,TRUE,,,,83911000119104,Severe obesity (disorder),
+NCT02430558,obesity,,"ul symptoms (subjective IKDC < 65,
+                  no improvement for 3 months)
+
+               -  No significant obesity (BMI < 30)
+
+               -  Accompanying ligamentous and meniscal lesions,",433736,Obesity,TRUE,,,,414916001,Obesity (disorder),
+NCT02116335,obesity,," than 16 kg/m2 (severely and very severely underweight) or that is
+             greater than 40 kg/m2 (Class III obesity)
+
+          -  Having evidence of cardiovascular, pulmonary, renal, hepatic, ce",433736,Obesity,TRUE,,,,414916001,Obesity (disorder),
+NCT02345018,hemophilia a,,"on
+
+          9. Coagulant disorders or increased risk for thrombo-embolic complications: known
+             coagulant disorders such as hemophilia A, hemophilia B, Von Willebrand disease,
+           ",434007,Hereditary factor VIII deficiency disease,FALSE,,,,28293008,Hereditary factor VIII deficiency disease (disorder),
+NCT02718677,hemophilia a,,"clinically documented during a 6 months period] and
+             without inhibitors) male subjects with hemophilia A receiving routine prophylaxis
+             treatment.
+
+          2. Age:
+
+         ",434007,Hereditary factor VIII deficiency disease,FALSE,,,,28293008,Hereditary factor VIII deficiency disease (disorder),
+NCT01891461,hemophilia a,,"          -  Participation in any other pharmaceutical or clinical investigation
+
+               -  Bleeding disorders (Hemophilia A, Hemophilia B, Von Willebrand disease, factor
+                  VII",434007,Hereditary factor VIII deficiency disease,FALSE,,,,28293008,Hereditary factor VIII deficiency disease (disorder),
+NCT02585635,haemophilia a,,"sion Criteria:
+
+          -  People will be eligible to participate in the family survey if they have haemophilia A
+             or B and are aged between 14 and 17 years, or if they are the parent of",434007,Hereditary factor VIII deficiency disease,FALSE,,,,28293008,Hereditary factor VIII deficiency disease (disorder),
+NCT04055051,hemophilia a,,"ollowing inclusion criteria are eligible for
+        enrollment into the study:
+
+          1. Congenital hemophilia A or B of any severity, who have and have not undergone a liver
+             transpl",434007,Hereditary factor VIII deficiency disease,FALSE,,,,28293008,Hereditary factor VIII deficiency disease (disorder),
+NCT00916032,hemophilia a,,"ening
+
+          -  Participant has provided signed informed consent
+
+          -  Participant has severe hemophilia A, defined by a baseline FVIII level < 1% of normal,
+             as tested at scre",434007,Hereditary factor VIII deficiency disease,TRUE,,,,16872008,Severe hemophilia A,
+NCT03741881,haemophilia a,," time of signing informed consent.
+
+          -  Severe (FVIII [factor 8] activity less than 1%) congenital haemophilia A or severe
+             (FIX [factor 9] activity less than 1%) congenital haemo",434007,Hereditary factor VIII deficiency disease,TRUE,,,,16872008,Severe hemophilia A,
+NCT02615691,hemophilia a,,"855 or
+             plasma transfusion at any time prior to screening
+
+          3. Participant has severe hemophilia A (Factor VIII (FVIII) < 1%) as determined by the
+             central laboratory,",434007,Hereditary factor VIII deficiency disease,TRUE,,,,16872008,Severe hemophilia A,
+NCT00759655,hemophilia a,,"usion Criteria:
+
+          -  Male patients less than 6 years of age with moderately severe to severe hemophilia A
+             (FVIII less than or equal to 2%).
+
+          -  Treatment history of les",434007,Hereditary factor VIII deficiency disease,TRUE,,,,16872008,Severe hemophilia A,
+NCT02137850,haemophilia a,,"-  Male, age below 6 years of age at the time of signing informed consent
+
+          -  Diagnosis of severe haemophilia A (FVIII activity level 1%) based on medical records
+             or central lab",434007,Hereditary factor VIII deficiency disease,TRUE,,,,16872008,Severe hemophilia A,
+NCT02216630,alcohol dependence,," study results
+
+          -  Subjects on chronic immunosuppressive or chemotherapeutic therapy
+
+          -  Known drug or alcohol dependence or any other factors which will interfere with the
+       ",435243,Alcohol dependence,FALSE,,,,66590003,Alcohol dependence (disorder),
+NCT03659305,alcohol dependence,,"urgical procedures including appendectomy in the last 12 weeks prior to the
+             signing of the informed consent.
+
+          -  History of drug or alcohol dependence - regular intake of more t",435243,Alcohol dependence,FALSE,,,,66590003,Alcohol dependence (disorder),
+NCT02623205,alcohol dependence,,"ppliances, or presence of shrapnel.
+
+          9. Bipolar Disorder
+
+         10. Lifetime history of psychosis
+
+         11. Current drug or alcohol dependence or abuse (excluding nicotine) - within 6",435243,Alcohol dependence,FALSE,,,,66590003,Alcohol dependence (disorder),
+NCT00592254,alcohol dependence,,"actation
+
+          5. Subjects with a known recent history (within the past 6 months) of illicit drug or
+             alcohol dependence
+
+          6. Sensory difficulties such as deafness or blindne",435243,Alcohol dependence,FALSE,,,,66590003,Alcohol dependence (disorder),
+NCT02643264,alcohol dependence,,"        1. Age 18 - 65
+
+          2. Current Diagnostic and Statistical Manual (DSM-IV-TR) diagnosis of alcohol dependence
+
+          3. Alcohol use in the past month
+
+          4. Right handed (self-",435243,Alcohol dependence,FALSE,,,,66590003,Alcohol dependence (disorder),
+NCT03595293,alcohol dependence,,"ment Center residential patients with alcohol use disorder, moderate to
+             severe (equivalent to Alcohol Dependence in DSM-IV-TR), or prescription opioid use
+             disorder (pOUD)
+
+  ",435243,Alcohol dependence,TRUE,,,,66590003,Alcohol dependence (disorder),
+NCT01420211,alcohol dependence,,"diseases which could affect drug metabolism or elimination
+
+          -  history of any serious psychological disorder
+
+          -  drug or alcohol dependence
+
+          -  positive drug or alcohol s",435243,Alcohol dependence,TRUE,,,,66590003,Alcohol dependence (disorder),
+NCT00535002,alcohol dependence,,"    dependence, this would seriously compromise the feasibility of recruitment.
+             Individuals with alcohol dependence will be excluded. However because of the high
+             comorbidity ",435243,Alcohol dependence,TRUE,,,,66590003,Alcohol dependence (disorder),
+NCT02836067,alcohol dependence,,". Spirometry criteria FEV1/FVC < 0.7 (definition of COPD) and GOLD (severe-very severe)
+             Stage 3 or 4 within past 12 months
+
+          9. A history of alcohol dependence within the 6 month",435243,Alcohol dependence,TRUE,,,,66590003,Alcohol dependence (disorder),
+NCT02728063,chronic alcoholism,,"c, pulmonary,
+             hepatic, renal, hematologic, neoplastic, or infectious);
+
+          -  With acute or severe chronic disease (chronic alcoholism, drug addiction) found
+             incompati",435243,Alcohol dependence,TRUE,,,,66590003,Alcohol dependence (disorder),
+NCT02410720,dehydration,," clearance <30 mL/minute)
+
+          -  Severe congestive heart failure (New York Heart Association [NYHA] class III or IV)
+
+          -  Dehydration
+
+          -  Laxative use or dependency
+
+        ",435796,Dehydration,FALSE,,,,34095006,Dehydration (disorder),
+NCT01724801,dehydration,," of liver metastases,
+        or < 5 x ULN in case of liver metastases.
+
+        The symptoms of increased intracranial pressure are uncontrolled after dehydration and
+        cortisone treatment.
+
+  ",435796,Dehydration,FALSE,,,,34095006,Dehydration (disorder),
+NCT00683982,dehydration,,"le for rotavirus test
+
+        Exclusion Criteria:
+
+          -  Severe malnourishment
+
+          -  Severe dehydration
+
+          -  History of diarrhea more than 3 days previous hospitalization
+
+   ",435796,Dehydration,FALSE,,,,450316000,Severe dehydration (disorder),
+NCT00120744,dehydration,,"ious and non-bloody vomiting within 4 hours of triage
+
+          -  Diarrhea
+
+          -  Mild to moderate dehydration
+
+        Exclusion Criteria:
+
+          -  Weight less than 8 kilograms
+
+       ",435796,Dehydration,FALSE,,,,34095006,Dehydration (disorder),
+NCT01992900,dehydration,," height <70% of the median National Center
+             for Health Statistics(NCHS)/WHO reference).
+
+          -  Severe vomiting or dehydration.
+
+          -  Presence of jaundice.
+
+          -  Know",435796,Dehydration,FALSE,,,,450316000,Severe dehydration (disorder),
+NCT03452306,dehydration,,"orm.
+
+          -  ECG or vital signs abnormalities (clinically significant).
+
+          -  Positive testing for alcohol, drugs, pregnancy.
+
+          -  Dehydration due to diarrhea, vomiting, or othe",435796,Dehydration,TRUE,,,,34095006,Dehydration (disorder),
+NCT00267293,dehydration,,"ellitis, renal dysfunction, hepatic dysfunction, or
+             thrombocytopenia.
+
+          -  Presence of moderate or severe dehydration.
+
+          -  Inclusion in the trial on 3 previous occasion",435796,Dehydration,TRUE,,,,450316000,Severe dehydration (disorder),
+NCT01755559,dehydration,," (i.e. measles,
+             acute lower respiratory tract infection, otitis media, tonsillitis, abscess, severe
+             diarrhoea with dehydration, etc.)
+
+          -  History of a full treatmen",435796,Dehydration,TRUE,,,,34095006,Dehydration (disorder),
+NCT01715207,dehydration,,"cipients
+
+          8. Elevation of serum creatinine during follow-up (> 30% than baseline)
+
+          9. Diarrhea, resulting severe dehydration
+
+         10. Development of gout or ureter stone
+
+    ",435796,Dehydration,TRUE,,,,450316000,Severe dehydration (disorder),
+NCT04041791,dehydration,," first-line antibiotics
+             for severe pneumonia such as readmission or meningitis
+
+          -  Shock due to dehydration or severe dehydration (based on WHO definitions (5))
+             req",435796,Dehydration,TRUE,,,,450316000,Severe dehydration (disorder),
+NCT03304392,psychosis,,"gh suicide risk
+
+          -  suicide attempt or hospitalization in the last year
+
+          -  primary problems with psychosis, alcohol or drug problems, mania
+
+          -  currently receiving activ",436073,Psychotic disorder,FALSE,,,,69322001,Psychotic disorder (disorder),
+NCT02793856,psychosis,,"anticoagulation
+
+          -  Blood-borne infectious disease, e.g. hepatitis B
+
+          -  History of mandatory custody because of psychosis or other psychological disease
+             inappropriate",436073,Psychotic disorder,FALSE,,,,69322001,Psychotic disorder (disorder),
+NCT03567356,psychosis,,"usion Criteria:
+
+          -  LFTs > 5x ULN
+
+          -  Psychiatric or medical instability (eg suicidality, psychosis. Sickle Cell disease
+             with frequent crises, etc) that would preclude",436073,Psychotic disorder,FALSE,,,,69322001,Psychotic disorder (disorder),
+NCT03661125,psychosis,,"         clinical assessments.
+
+          -  Refuses to be withdrawn from quetiapine (see section 4.7).
+
+          -  Has a family history of psychosis in a first degree relative
+
+          -  Has poo",436073,Psychotic disorder,FALSE,,,,69322001,Psychotic disorder (disorder),
+NCT02293057,psychosis,,"rovider (as determined through referral partner);
+
+          3. observable cognitive or developmental delays or active psychosis that would interfere
+             with completing consent, assessment o",436073,Psychotic disorder,FALSE,,,,69322001,Psychotic disorder (disorder),
+NCT03396367,psychotic disorder,," communicate in English
+
+        Exclusion Criteria:
+
+          -  Unstable, serious psychiatric symptoms (assessed by the Psychotic Disorder subsection
+             of the Structured Clinical Intervi",436073,Psychotic disorder,TRUE,,,,69322001,Psychotic disorder (disorder),
+NCT04094922,psychotic disorder,,"one able to run PTSD Coach app
+
+        Exclusion Criteria:
+
+          -  Positive screening for bipolar disorder, psychotic disorder, ongoing substance
+             disorder, or severe suicidality ac",436073,Psychotic disorder,TRUE,,,,69322001,Psychotic disorder (disorder),
+NCT02641028,psychotic disorder,,", assessment or
+             treatment in any significant fashion
+
+          3. Any lifetime history of bipolar I, II; schizophrenia or any other psychotic disorders;
+             personality disorder",436073,Psychotic disorder,TRUE,,,,69322001,Psychotic disorder (disorder),
+NCT03509844,psychotic disorder,,"   PTSD in International Classification of Diseases (ICD-11)
+
+        Exclusion Criteria:
+
+          -  severe psychotic disorder
+
+          -  dissociative identity disorder (DID)
+
+          -  activ",436073,Psychotic disorder,TRUE,,,,69322001,Psychotic disorder (disorder),
+NCT01716325,psychosis,,"bile phone
+
+          -  No internet access
+
+          -  Known hospitalization for severe psychiatric disorders (schizophrenia, psychosis)
+
+          -  Known history of eating disorders (anorexia, b",436073,Psychotic disorder,TRUE,,,,69322001,Psychotic disorder (disorder),
+NCT01948908,developmental delay,,"blood) that cannot be readily
+             cleared
+
+          -  Inability to speak English or Spanish
+
+          -  Developmental delay, psychiatric illness, neurologic impairment, or altered mental
+",436077,Developmental delay,FALSE,,,,248290002,Developmental delay (disorder),
+NCT01354028,developmental delay,,"le and/or unable to be moved from the infant warmer
+
+          -  Severe congenital anomalies likely to be associated with developmental delay
+
+          -  Apgar score of ≤ 3 at 5 minutes of age
+
+   ",436077,Developmental delay,FALSE,,,,248290002,Developmental delay (disorder),
+NCT03675321,developmental delay,,"ition that may explain symptoms
+
+          -  Taking a medication that may explain symptoms
+
+          -  Significant developmental delays
+
+          -  Patients treated with a new drug affecting the ",436077,Developmental delay,FALSE,,,,248290002,Developmental delay (disorder),
+NCT01267136,developmental delay,," consistency.
+
+        Exclusion Criteria:
+
+          -  Child cannot self-assess pain due to conditions such as developmental delays,
+             chromosomal abnormalities, and other syndromes.
+
+   ",436077,Developmental delay,FALSE,,,,248290002,Developmental delay (disorder),
+NCT02344784,developmental delay,,"eriment.
+
+        Exclusion Criteria:
+
+          1. Autism.
+
+          2. Chronic neurological diseases.
+
+          3. Developmental delay.
+
+          4. Psychotic or major effective disorder (psychot",436077,Developmental delay,FALSE,,,,248290002,Developmental delay (disorder),
+NCT02515383,developmental delay,,"physician, that would preclude
+             participation in the study.
+
+          2. Diagnosis of active psychosis, developmental delay, or severe cognitive impairment as
+             determined by p",436077,Developmental delay,TRUE,,,,248290002,Developmental delay (disorder),
+NCT00763243,developmental delay,,"and language competence to complete basic word and
+             sentence repetition tasks,
+
+          -  no significant developmental delay or neurological condition that, in the opinion of
+          ",436077,Developmental delay,TRUE,,,,248290002,Developmental delay (disorder),
+NCT02223650,developmental delay,,"s, or central retina
+
+          -  Gestational age ≥ 32 weeks
+
+          -  Birth weight > 1500 grams
+
+          -  No Down syndrome or cerebral palsy
+
+          -  No severe developmental delay which",436077,Developmental delay,TRUE,,,,248290002,Developmental delay (disorder),
+NCT03786224,developmental delay,," for outpatient level of
+             care, in the opinion of the investigator.
+
+        Exclusion Criteria:
+
+        - Any severe developmental delays (including, but not limited to, Autism Spectrum ",436077,Developmental delay,TRUE,,,,248290002,Developmental delay (disorder),
+NCT03134950,developmental delay,,"           Inflammatory Bowel Diseases such as Ulcerative Colitis and Chron's Disease)
+
+          -  documented developmental delay, severe cognitive impairment, or a thought disorder
+
+          -  ev",436077,Developmental delay,TRUE,,,,248290002,Developmental delay (disorder),
+NCT00940693,bipolar disorder,,"aceptive methods
+
+          -  Suicide or homicide risk
+
+          -  Organic brain syndrome
+
+          -  Any diagnosis of lifetime bipolar disorder or psychotic disorder, and any actual
+            ",436665,Bipolar disorder,FALSE,,,,13746004,Bipolar disorder (disorder),
+NCT03406702,bipolar disorder,,"r myoclonic seizures are eligible for the study.
+
+          3. Inadequately treated psychotic or mood disorder (e.g., schizophrenia, major
+             depression, bipolar disorder).
+
+          4. Pre",436665,Bipolar disorder,FALSE,,,,13746004,Bipolar disorder (disorder),
+NCT03913975,bipolar disorder,,"thy female athlete
+
+        Exclusion Criteria:
+
+          -  Any psychiatric disorder, e.g., depression, bipolar disorder, schizophrenic disorder,
+             etc. as determined by clinical evaluati",436665,Bipolar disorder,FALSE,,,,13746004,Bipolar disorder (disorder),
+NCT02358343,bipolar disorder,,"depressant drugs;
+
+          3. Evidence of cognitive impairment on Mini-Cog;
+
+          4. Present or past psychosis or bipolar disorder I or II on the MINI;
+
+          5. Alcohol or substance abuse ",436665,Bipolar disorder,FALSE,,,,13746004,Bipolar disorder (disorder),
+NCT00223639,bipolar disorder,,"c interview using the Structured Clinical Interview for DSM-IV.
+
+          -  Acute or chronic organic brain syndrome, schizophrenia, bipolar disorder, or any
+             psychotic disorder.
+
+       ",436665,Bipolar disorder,FALSE,,,,13746004,Bipolar disorder (disorder),
+NCT03884933,bipolar disorder,,"ed on Deslespaul's
+        conceptualisation of SMI:
+
+          1. meets criteria for (and presence of) bipolar disorder, severe major depression,
+             schizophrenia, schizophreniform, and sch",436665,Bipolar disorder,TRUE,,,,13746004,Bipolar disorder (disorder),
+NCT03043261,bipolar disorder,,"dy
+             participation (assessment, online interactive learning)
+
+          -  History or presence of psychoses, bipolar disorder, and/or severe personality
+             disorders as evaluated ",436665,Bipolar disorder,TRUE,,,,13746004,Bipolar disorder (disorder),
+NCT00926588,bipolar disorder,," do not speak English;
+
+          -  have moderately severe cognitive impairment;
+
+          -  have schizophrenia, bipolar disorder, or other psychosis;
+
+          -  are actively suicidal;
+
+        ",436665,Bipolar disorder,TRUE,,,,13746004,Bipolar disorder (disorder),
+NCT03706001,bipolar disorder,,"     -  Combine with any type of malignant tumor;
+
+          -  Combine with other serious mental illnesses such as bipolar disorder, schizophrenia,
+             schizophrenia-like illness, severe dem",436665,Bipolar disorder,TRUE,,,,13746004,Bipolar disorder (disorder),
+NCT02037022,bipolar disorder,," of age or older
+
+        Exclusion Criteria:
+
+          -  Current or lifetime diagnosis of severe psychiatric disorder, such as bipolar disorder
+
+          -  Receiving in-home Applied Behavior Anal",436665,Bipolar disorder,TRUE,,,,13746004,Bipolar disorder (disorder),
+NCT04139876,bleeding,,"usion Criteria:
+
+          -  The patient has Grade III-IV haemorrhoids or Grade II haemorrhoids with bleeding
+             resistant to rubber band ligation or sclerotherapy
+
+          -  The patient",437312,Bleeding,FALSE,,,,51551000,Bleeding hemorrhoids (disorder),
+NCT01994902,bleeding,,"rtical hormone) systemically or locally in the peristomal area.
+
+          5. Currently suffering from peristomal skin problems i.e. bleeding or broken (weeping)
+             skin.
+
+          6. Are c",437312,Bleeding,FALSE,,,,50960005,Hemorrhage (morphologic abnormality),
+NCT00563758,bleeding,,"een performed
+             within the past 5 years. In addition, there should not be history or evidence of
+             weight loss, anemia or rectal bleeding since the evaluation was performed.
+
+   ",437312,Bleeding,FALSE,,,,12063002,Rectal hemorrhage (disorder),
+NCT00396292,bleeding,,"ion to oral or IV iron (VIT-45)
+
+          -  Documented history of discontinuing oral iron
+
+          -  Significant bleeding
+
+          -  History of anemia other that iron deficiency anemia
+
+      ",437312,Bleeding,FALSE,,,,50960005,Hemorrhage (morphologic abnormality),
+NCT03707639,bleeding,," ≥3 months. With normal electrocardiogram results and no history of
+        congestive heart failure.
+
+        Without bleeding and thrombosis disease. With normal coagulation function: activated
+    ",437312,Bleeding,FALSE,,,,50960005,Hemorrhage (morphologic abnormality),
+NCT00502086,bleeding,," related to severe
+             liver failure (hepatic encephalopathy, hepatorenal syndrome, gastrointestinal
+             bleeding, serum bilirubin level greater than 5 mg/dL, international normalize",437312,Bleeding,TRUE,,,,74474003,Gastrointestinal hemorrhage (disorder),
+NCT00597402,bleeding,,"infarction within 6 months
+
+          -  History of stroke within 6 months
+
+          -  Clinically significant peripheral vascular disease
+
+          -  Evidence of bleeding diathesis
+
+          -  C",437312,Bleeding,TRUE,,,,64779008,Blood coagulation disorder (disorder),
+NCT00003107,hemorrhage,,"ed hyper or hypothyroidism No Cushing's disease
+        Gastrointestinal: No clinically significant gastrointestinal hemorrhages No uncontrolled
+        peptic ulcer disease No history of inflammatory",437312,Bleeding,TRUE,,,,74474003,Gastrointestinal hemorrhage (disorder),
+NCT01100879,bleeding,," g/L.
+
+          -  Known chronic renal failure, glomerular filtration rate <30 mL/min/m2.
+
+          -  Recent (within last 4 weeks) significant bleeding/surgery, defined as drop in Hb of ≥2
+        ",437312,Bleeding,TRUE,,,,50960005,Hemorrhage (morphologic abnormality),
+NCT01800240,bleeding,,"          -  History of significant blood loss due to any reason, including blood donation in the
+             past 3 months.
+
+          -  History of pre-existing bleeding disorder.
+
+          -  Exi",437312,Bleeding,TRUE,,,,50960005,Hemorrhage (morphologic abnormality),
+NCT00962845,malaria,,"systemic lupus erythematosus
+
+          -  No concurrent disease-modifying anti-rheumatic drugs
+
+          -  No concurrent hydroxychloroquine for treatment or prophylaxis of malaria
+
+          -  No ",438067,Malaria,FALSE,,,,61462000,Malaria (disorder),
+NCT02511353,malaria,,"iteria:
+
+          -  Symptomatic, uncomplicated Plasmodium falciparum infection
+
+          -  Positive malaria microscopy or malaria RDT (pLDH)
+
+          -  Age: 18-50 years
+
+          -  Provide wr",438067,Malaria,FALSE,,,,61462000,Malaria (disorder),
+NCT02859350,malaria,,"lunteers, parents or legal representatives and relevant assent for children
+             participants as applicable.
+
+          -  Free from malaria parasitemia by blood smear at enrollment and by PCR",438067,Malaria,FALSE,,,,61462000,Malaria (disorder),
+NCT01107145,malaria,," or mixed infection/ parasitemia (P. vivax and
+             another species of Plasmodium, i.e. P. vivax, P. ovale, or P. malariae)
+
+          -  History of allergy or hypersensitivity to intervention",438067,Malaria,FALSE,,,,61462000,Malaria (disorder),
+NCT02004574,malaria,,"tus on
+             the treatment area
+
+         19. Planned initiation of, or changes to, concomitant medication that could affect
+             psoriasis vulgaris (e.g. beta blockers, anti-malarials,",438067,Malaria,FALSE,,,,61462000,Malaria (disorder),
+NCT02535767,malaria,,"R2000 G6PD qualitative test
+
+        Exclusion Criteria:
+
+          -  Moderate to severe anemia (Hb < 10 g/dL)
+
+          -  Malaria infection by blood smear
+
+          -  Individuals with known posi",438067,Malaria,TRUE,,,,61462000,Malaria (disorder),
+NCT01758159,malaria,," last 4 months
+
+        Exclusion Criteria:
+
+          -  With severe anemia (Hemoglobin < 50g/L)
+
+          -  Malaria test positive with Immuno-chromatographic test (ICT)
+
+          -  Mothers/ Care",438067,Malaria,TRUE,,,,61462000,Malaria (disorder),
+NCT00386750,malaria,,"f fever (temperature ≥ 37.5°C)
+
+        Exclusion Criteria
+
+          -  Signs/symptoms of severe/complicated malaria
+
+          -  Ingestion of various antimalarial drugs, or antibiotics in the previ",438067,Malaria,TRUE,,,,61462000,Malaria (disorder),
+NCT01052584,malaria,,"blood draws and return visits.
+
+        Exclusion Criteria:
+
+          -  General danger signs or symptoms of severe malaria
+
+          -  Signs or symptoms of severe malnutrition, defined as weight-f",438067,Malaria,TRUE,,,,61462000,Malaria (disorder),
+NCT01156896,malaria,,";
+
+          -  body weight <65 kg.
+
+        Exclusion Criteria:
+
+          -  presence of severe or complicated malaria as defined by WHO criteria;
+
+          -  clinical evidence of ill health or a ",438067,Malaria,TRUE,,,,61462000,Malaria (disorder),
+NCT01973114,vertigo,,"and 70dB
+
+          -  Speech discrimination score in silence: No better than 85%
+
+          -  At least three vertigo attacks (lasting ≥ 20 minutes) during the last three months
+             prior to",439383,Vertigo,FALSE,,,,399153001,Vertigo (finding),
+NCT03089021,vertigo,,"   -  Fibromyalgia pain syndrome.
+
+               -  Previous neck surgery.
+
+               -  Neck pain associate with vertigo caused by vertebrobasilar insufficiency or
+                  chronic hea",439383,Vertigo,FALSE,,,,399153001,Vertigo (finding),
+NCT00765336,vertigo,,"dietary supplements containing aluminum, calcium, iron, or
+             magnesium
+
+          -  History of vestibular incidents including vertigo, lightheadedness, nausea, or
+             vomiting wit",439383,Vertigo,FALSE,,,,399153001,Vertigo (finding),
+NCT01698086,vertigo,,"us),
+             peripheral vestibular disorders (unilateral/bilateral vestibular hypofunction: benign
+             positional paroxysmal vertigo, Meniere's disease, acoustic neuroma)
+
+          -  d",439383,Vertigo,FALSE,,,,111541001,Benign paroxysmal positional vertigo (disorder),
+NCT00581659,vertigo,,"er implanted within last 6 months
+
+          -  known seizure disorder or epilepsy
+
+          -  Meniere's disease or any inner ear, vertigo, hearing, or balance conditions
+
+          -  known narcole",439383,Vertigo,FALSE,,,,399153001,Vertigo (finding),
+NCT00938145,vertigo,,"f this trial.
+
+          -  Patients who exhibit noticeable anxiety and/or claustrophobia or who exhibit severe
+             vertigo when they are moved into the MR.
+
+          -  Patients with sickle",439383,Vertigo,TRUE,,,,103298005,Severe vertigo (finding),
+NCT02252874,vertigo,,"ing them from
+             training
+
+          -  Having self reported vestibular or cerebellar dysfunction, history of vertigo or
+             severe hearing loss
+
+          -  Suffering from crippli",439383,Vertigo,TRUE,,,,399153001,Vertigo (finding),
+NCT00802893,vertigo,,"eart failure, atrial fibrillation, aortic valve disease,
+             bleeding disorders, history of repeated syncope or vertigo, severe GERD, GI ulcer,
+             symptomatic coronary or peripheral",439383,Vertigo,TRUE,,,,399153001,Vertigo (finding),
+NCT01950312,vertigo,,"n the past three
+             years
+
+          -  Hearing loss that coincides with significant, disabling episodes of vertigo
+
+          -  History of allergic or anaphylactic reactions to monoclonal ",439383,Vertigo,TRUE,,,,399153001,Vertigo (finding),
+NCT01604408,vertigo,,"the investigator.
+
+        Exclusion Criteria:
+
+          -  Major lower limb pain or neurologic impairment or vestibular vertigo or visual
+             impairment that could severely confound measure",439383,Vertigo,TRUE,,,,50438001,Peripheral vertigo (disorder),
+NCT02046148,pre-eclampsia,,"
+                  College of Obstetricians and Gynecologists guidelines (ACOG Practice Bulletin
+                  2013)
+
+               -  Pre-eclampsia or eclampsia as defined by American College of",439393,Pre-eclampsia,FALSE,,,,398254007,Pre-eclampsia (disorder),
+NCT01487980,pre-eclampsia,," pregnancy
+
+          2. history of postpartum haemorrhage (PPH)
+
+          3. (gestational) diabetes
+
+          4. pre-eclampsia
+
+          5. abruptio placentae
+
+          6. caesarian section
+
+    ",439393,Pre-eclampsia,FALSE,,,,398254007,Pre-eclampsia (disorder),
+NCT02411916,preeclampsia,,"e is polyhydramnios (amniotic fluid index >22 cm).
+
+          -  Presence of acute or chronic renal disease
+
+          -  Presence of preeclampsia
+
+        Of subjects who enter the study, the develop",439393,Pre-eclampsia,FALSE,,,,398254007,Pre-eclampsia (disorder),
+NCT01135758,preeclampsia,,"-  Treatment during the last 2 weeks with thyroid hormones and sympathicomimetic drug.
+
+          -  Present or past diagnosis of eclampsia or preeclampsia.
+
+          -  Untreated or insufficiently t",439393,Pre-eclampsia,FALSE,,,,398254007,Pre-eclampsia (disorder),
+NCT03055390,preeclampsia,,"     4. Patients with indications of elective caesarean section.
+
+          5. Medical conditions associated with pregnancy e.g. preeclampsia, diabetes mellitus.
+
+          6. Contraindications for hy",439393,Pre-eclampsia,FALSE,,,,398254007,Pre-eclampsia (disorder),
+NCT03070795,pre-eclampsia,,"n who require a Cesarean hysterectomy. Women who require a Post-partum hysterectomy.
+        Mothers with severe pre-eclampsia. Mothers with sickle cell disease. Mothers with
+        pregestational or",439393,Pre-eclampsia,TRUE,,,,398254007,Pre-eclampsia (disorder),
+NCT01112891,pre-eclampsia,,"    -  History of previous adverse pregnancy outcome [preterm delivery <37; weeks GA,
+             stillbirth, severe pre-eclampsia, eclampsia, HELLP syndrome (hemolytic anemia,
+             elevated ",439393,Pre-eclampsia,TRUE,,,,398254007,Pre-eclampsia (disorder),
+NCT03793153,preeclampsia,,"   -  Abruptio placenta, and placental abnormalities or accrete syndromes.
+
+          -  Polyhydraminos, macrosomia, or preeclampsia.
+
+          -  History of thromboembolic disorders, or severe anemi",439393,Pre-eclampsia,TRUE,,,,398254007,Pre-eclampsia (disorder),
+NCT03360240,preeclampsia,,"r inclusion cases: Patients with pregnancy that starts before the age of 19
+             that develops preeclampsia (mild), severe preeclampsia, gestational hypertension and
+             eclampsia, th",439393,Pre-eclampsia,TRUE,,,,46764007,Severe pre-eclampsia (disorder),
+NCT03824119,preeclampsia,," 20 weeks gestation
+
+          -  Diagnosis of antenatal hypertensive disorder: gestational hypertension, preeclampsia
+             without severe features, preeclampsia with severe features, superimp",439393,Pre-eclampsia,TRUE,,,,398254007,Pre-eclampsia (disorder),
+NCT03238365,recurrent disease,,"y/paranasal sinuses, 6) unknown primary considered to have resectable
+             disease; patients with recurrent disease that is amenable to surgery are eligible
+
+          -  Eastern Cooperative O",440059,Recurrent disease,FALSE,,,,58184002,Recurrent disease (disorder),
+NCT03967379,recurrent disease,,"using distress based on the NCCN
+             survivorship guidelines
+
+        Exclusion Criteria:
+
+          -  Recurrent disease requiring treatment
+
+          -  Significant uncontrolled psychiatri",440059,Recurrent disease,FALSE,,,,58184002,Recurrent disease (disorder),
+NCT03370276,recurrent disease,,"          the first-line therapy. Additionally, patients with persistent disease or
+             platinum-refractory recurrent disease may enroll in this study as a first-line
+             therapy.
+
+ ",440059,Recurrent disease,FALSE,,,,58184002,Recurrent disease (disorder),
+NCT02010606,recurrent disease,,"nd pathology from the resection that qualifies
+             the patient for the trial must be consistent with recurrent disease (ie, patients with
+             predominantly pseudoprogression or radia",440059,Recurrent disease,FALSE,,,,58184002,Recurrent disease (disorder),
+NCT00093626,recurrent disease,,"logically confirmed ovarian epithelial or primary peritoneal carcinoma
+
+               -  Persistent or recurrent disease
+
+          -  Measurable or evaluable disease
+
+               -  Measurable di",440059,Recurrent disease,FALSE,,,,58184002,Recurrent disease (disorder),
+NCT01701752,recurrent disease,," for the study.
+
+          -  Women of child-bearing potential
+
+          -  Clinically significant , uncontrolled, current, chronic or recurrent disease, as
+             deemed by the Investigator, (",440059,Recurrent disease,TRUE,,,,58184002,Recurrent disease (disorder),
+NCT02385630,recurrent disease,,"    7. History of significant food allergy, certain dietary restrictions
+
+          8. Confirmed or suspected residual or recurrent disease after surgery, synchronous or
+             metachronous mali",440059,Recurrent disease,TRUE,,,,58184002,Recurrent disease (disorder),
+NCT00446849,recurrent disease,,"or severe renal impairment are contra-indicated for treatment
+             with mesalamine compounds and are excluded from the study.
+
+         14. Subjects with current or recurrent disease that coul",440059,Recurrent disease,TRUE,,,,58184002,Recurrent disease (disorder),
+NCT00585377,recurrent disease,,"        elements are present, in which case the patient is ineligible.
+
+          -  Stage wet IIIB-IV or recurrent disease
+
+          -  No significant hemoptysis (bright red blood< 1/2 teaspoon or m",440059,Recurrent disease,TRUE,,,,58184002,Recurrent disease (disorder),
+NCT01754285,recurrent disease,,"ally significant or relevant abnormal medical history, vital sign, physical
+             examination, ECG, or laboratory evaluation finding
+
+          8. Current or recurrent disease that could affect",440059,Recurrent disease,TRUE,,,,58184002,Recurrent disease (disorder),
+NCT03474276,severe malnutrition,,"         -  Child able to be followed up during at least three months.
+
+        Exclusion Criteria:
+
+          -  Severe malnutrition defined by a mid upper arm circumference < 115 mm OR Weight/Height",440370,Nutritional marasmus,FALSE,,,pre,29740003,Nutritional marasmus (disorder),
+NCT02835157,severe malnutrition,,"chronic kidney disease with baseline deranged renal function (eGFR
+             < 90 ml/1.73 m2/min)
+
+          -  Severe malnutrition
+
+          -  Children whose parents refuse to give an informed c",440370,Nutritional marasmus,FALSE,,,pre,29740003,Nutritional marasmus (disorder),
+NCT01734408,severe malnutrition,,"izures or progressive neurological disease
+
+          -  Family history of congenital or hereditary immunodeficiency
+
+          -  Severe malnutrition or dysgenopathy
+
+          -  Major congenital de",440370,Nutritional marasmus,FALSE,,,pre,29740003,Nutritional marasmus (disorder),
+NCT01549288,severe malnutrition,,"    will be obtained to look for inborn error of metabolism.
+
+          -  Children with renal, pulmonary, cardiac or hepatic dysfunction
+
+          -  Severe malnutrition (weight for length and heigh",440370,Nutritional marasmus,FALSE,,,pre,29740003,Nutritional marasmus (disorder),
+NCT01399853,severe malnutrition,," history of seizures or progressive neurological disease
+
+          -  Family history of congenital or hereditary immunodeficiency
+
+          -  Severe malnutrition or dysgenopathy
+
+          -  Major",440370,Nutritional marasmus,FALSE,,,pre,29740003,Nutritional marasmus (disorder),
+NCT03170401,severe malnutrition,,"t for at least 1 week
+
+        Exclusion Criteria:
+
+          -  Significant chronic organ failure,
+
+          -  severe malnutrition pre-existing prior to ICU admission
+
+          -  not expected to ",440370,Nutritional marasmus,TRUE,,,pre,29740003,Nutritional marasmus (disorder),
+NCT01115439,severe malnutrition,,"(WHO)
+
+          -  Mixed or mono-infection with another Plasmodium species detected by microscopy
+
+          -  Presence of severe malnutrition (defined as a child whose growth standard is below -3
+ ",440370,Nutritional marasmus,TRUE,,,pre,29740003,Nutritional marasmus (disorder),
+NCT04012333,severe malnutrition,,"h nutritional
+             risk:
+
+               1. Low (≤25) or High BMI (≥35)
+
+               2. Moderate to severe malnutrition (as defined by local assessments). We will
+                  document",440370,Nutritional marasmus,TRUE,,,pre,29740003,Nutritional marasmus (disorder),
+NCT01399723,severe malnutrition,,"vere pneumonia
+
+          -  Clinical or laboratory diagnosis of meningitis
+
+          -  Clinical diagnosis of severe malnutrition (marasmus/kwashiorkor)
+
+          -  Clinical or laboratory diagnosi",440370,Nutritional marasmus,TRUE,,,pre,29740003,Nutritional marasmus (disorder),
+NCT03427307,severe malnutrition,,"with severe infections, severe heart disease and liver disease, malignancy,
+             autoimmune disorders, severe malnutrition, or clinical conditions requiring oral
+             nutrition supplem",440370,Nutritional marasmus,TRUE,,,pre,29740003,Nutritional marasmus (disorder),
+NCT00326677,depression,,"Inclusion Criteria:
+
+          -  Age 50 or greater
+
+          -  Center for Epidemiological Studies of Depression Scale (CES-D) score of 11 or higher
+
+          -  Folstein Mini-Mental State score of",440383,Depressive disorder,FALSE,,,,35489007,Depressive disorder (disorder),
+NCT00352196,depression,,"
+             medical condition, substance-induced psychotic disorder,psychotic disorder not
+             otherwise specified, major depression with psychotic features, or bipolar disorder.
+
+         ",440383,Depressive disorder,FALSE,severe,major,,370143000,Major depressive disorder (disorder),
+NCT02395263,depression,,"(suicide assessment) of the HAMD.
+
+          -  The subject has a current DSM-Ⅳ-TR axisⅠpsychiatric diagnosis other than depression.
+
+          -  When the MADRS score of baseline visit compares with ",440383,Depressive disorder,FALSE,,,,35489007,Depressive disorder (disorder),
+NCT00576355,depressed,," bipolar spectrum disorder: type I, type II, or NOS
+
+          -  Currently meets DSM-IV criteria for a depressed, manic, hypomanic, or mixed episode
+
+          -  Youth assent/parental consent to out",440383,Depressive disorder,FALSE,,,,35489007,Depressive disorder (disorder),
+NCT02100982,depression,," diabetes, heart
+             disease, arthritis, asthma, COPD
+
+          -  positive screen for symptoms of depression and/or anxiety
+
+        Exclusion Criteria:
+
+          -  non-English speakers
+
+",440383,Depressive disorder,FALSE,,,,35489007,Depressive disorder (disorder),
+NCT04010149,depression,,"-report (e.g., anxiety disorder,
+             ADHD, Parkinson's disease, etc.)
+
+          2. History of diagnosed severe depression (diagnosed pre-injury)
+
+          3. History of epilepsy (diagnosed ",440383,Depressive disorder,TRUE,,,,310497006,Severe depression (disorder),
+NCT00000444,depression,,"onality
+             disorder.
+
+          -  Unable to participate in protocol due to functional deficits or severe depression.
+
+          -  Suicidal or homicidal ideation.
+
+          -  Current use ",440383,Depressive disorder,TRUE,,,,310497006,Severe depression (disorder),
+NCT01329913,depression,," major neurological disorder, or uncontrolled
+             clinically significant psychiatric disorder (for example, depression).
+
+          -  Estimated creatinine clearance of ≤70 mL/min.
+
+         ",440383,Depressive disorder,TRUE,,,,35489007,Depressive disorder (disorder),
+NCT01128816,depression,,"it unlikely that
+             the patient will comply with the study procedures (e.g. alcohol abuse, lack of
+             permanent residence, severe depression, disorientation, distant location, or h",440383,Depressive disorder,TRUE,,,,310497006,Severe depression (disorder),
+NCT00302367,depression,,"Right handed.
+
+        Exclusion Criteria:
+
+          1. Diagnosis of any psychotic disorder, bipolar disorder, severe depression, severe
+             anxiety, or Autism. Subjects with mild mood, oppo",440383,Depressive disorder,TRUE,,,pre,310497006,Severe depression (disorder),
+NCT03893097,anxiety disorder,,"ory of, or ongoing, epilepsy or psychiatric illness (I.e. recent history of
+             depression, generalized anxiety disorder; history of psychosis, schizophrenia or other
+             major psych",442077,Anxiety disorder,FALSE,,,,21897009,Generalized anxiety disorder (disorder),
+NCT01237587,anxiety disorder,,"(DSM-IV)
+             Axis I condition, currently or within the past year, except major depressive disorder
+             (MDD) and/or generalized anxiety disorder (GAD), adjustment disorder or specifi",442077,Anxiety disorder,FALSE,,,,21897009,Generalized anxiety disorder (disorder),
+NCT03406845,anxiety disorder,,"is, with depression (Patient Health
+             Questionnaire (PHQ-9) score ≥6) and/or anxiety (General Anxiety Disorder-7 (GAD- 7)
+             score ≥6).
+
+          -  Normal cognition or Mild Cogn",442077,Anxiety disorder,FALSE,,,,21897009,Generalized anxiety disorder (disorder),
+NCT00277654,anxiety disorder,," Fourth Edition (DSM-IV) criteria.
+
+          3. Subjects must have lifetime panic disorder or generalized anxiety disorder (GAD) as
+             defined by DSM-IV criteria (except clause ""does not oc",442077,Anxiety disorder,FALSE,,,,21897009,Generalized anxiety disorder (disorder),
+NCT01426997,anxiety disorder,,"MMSE)unless otherwise approved by
+             principle investigator
+
+          -  meets criteria for schizophrenia (Given overlap of generalized anxiety disorder (GAD)
+             with major depres",442077,Anxiety disorder,FALSE,,,,21897009,Generalized anxiety disorder (disorder),
+NCT01966705,anxiety disorder,,"     -  A primary diagnosis of severe health anxiety (somatic symptom disorder or illness
+             anxiety disorder) according to the Diagnostic and Statistical Manual of Mental
+             Disor",442077,Anxiety disorder,TRUE,,,,16265701000119100,Illness anxiety disorder (disorder),
+NCT04086342,anxiety disorder,,"ter A or B);
+
+          4. Current moderate or severe major depressive episode, panic disorder, generalized
+             anxiety disorder, or post-traumatic stress disorder (PTSD). Traits associated w",442077,Anxiety disorder,TRUE,,,,21897009,Generalized anxiety disorder (disorder),
+NCT03478384,anxiety disorder,,"vere, life-threatening, or prognostic unfavorable comorbidities
+
+          9. Pregnancy, lactation
+
+         10. Indication of a severe depression/anxiety disorder at baseline (PHQ 9 Score ≥15 and/or
+",442077,Anxiety disorder,TRUE,,,,197480006,Anxiety disorder (disorder),
+NCT00550667,anxiety disorder,,", organic
+             psychosis, schizotypal personality disorder, bipolar affective disorder, severe
+             anxiety disorder(such as OCD, ASD or PTSD) and mental retardation.
+
+          -  In ",442077,Anxiety disorder,TRUE,,,post,197480006,Anxiety disorder (disorder),
+NCT00458445,anxiety disorder,,"          (PTSD), psychosis, bipolar illness, severe obsessive compulsive disorder, severe
+             depressive or severe anxiety disorder or other symptomatic manifestations that, in the
+         ",442077,Anxiety disorder,TRUE,,,post,197480006,Anxiety disorder (disorder),
+NCT02074644,lower urinary tract symptoms,,"PSA
+
+          -  Use of a marketed alpha-blocker for LUTS/BPH in the previous 6 months
+
+          -  Severe lower urinary tract symptoms at screening and baseline defined by all the
+             foll",443350,Lower urinary tract symptoms,FALSE,,,pre,763101000000106,Severe lower urinary tract symptoms,
+NCT03576001,lower urinary tract symptoms,,"ls with a contraindication for androgen use:
+
+               -  History of prostate or breast cancer
+
+               -  Severe lower urinary tract symptoms (IPSS score of > 19)
+
+               -  Pros",443350,Lower urinary tract symptoms,FALSE,,,pre,763101000000106,Severe lower urinary tract symptoms,
+NCT00827242,lower urinary tract symptoms,,"ars of age or older with Benign Prostatic Hyperplasia (BPH) also referred to
+             as BPH-LUTS [lower urinary tract symptoms] based on the disease diagnostic criteria at
+             the start ",443350,Lower urinary tract symptoms,FALSE,,,,307541003,Lower urinary tract symptoms (finding),
+NCT01738464,lower urinary tract symptoms,,"tis/painful bladder syndrome (IC/PBS), chronic prostatitis/chronic
+             pelvic pain syndrome (CP/CPPS), Lower Urinary Tract Symptoms, Overactive Bladder, or
+             Major Depression.
+
+   ",443350,Lower urinary tract symptoms,FALSE,,,,307541003,Lower urinary tract symptoms (finding),
+NCT00239161,lower urinary tract symptoms,,"ys) of costovertebral angle pain or tenderness with or
+             without fever, and with or without lower urinary tract symptoms (dysuria, frequency,
+             urgency). Diabetic women without l",443350,Lower urinary tract symptoms,FALSE,,,,307541003,Lower urinary tract symptoms (finding),
+NCT02135341,lower urinary tract symptoms,,"          consent form
+
+        Exclusion Criteria:
+
+          -  Use of antimuscarinic agent and effective in treatment of lower urinary tract symptoms
+
+          -  Patients with severe cardiopulmon",443350,Lower urinary tract symptoms,TRUE,,,,307541003,Lower urinary tract symptoms (finding),
+NCT01748370,lower urinary tract symptoms,,"pable prostate nodule or induration
+
+          -  Hematocrit >50%
+
+          -  Untreated severe obstructive sleep apnea
+
+          -  Severe lower urinary tract symptoms
+
+          -  Uncontrolled or",443350,Lower urinary tract symptoms,TRUE,,,pre,763101000000106,Severe lower urinary tract symptoms,
+NCT01505075,lower urinary tract symptoms,,"ibility of gold seeds on electronic portal imaging)
+
+          -  large prostate (> 90cm3) on imaging
+
+          -  severe lower urinary tract symptoms (International Prostate Symptom Score >19 or
+   ",443350,Lower urinary tract symptoms,TRUE,,,pre,763101000000106,Severe lower urinary tract symptoms,
+NCT04032067,lower urinary tract symptoms,,"erplasia
+
+               1. A volume of prostate gland (TRUS) > 30 cc
+
+               2. Moderate to severe lower urinary tract symptoms with IPSS ≥ 13
+
+               3. 5-15 mL/sec of maximum flow r",443350,Lower urinary tract symptoms,TRUE,,,pre,763101000000106,Severe lower urinary tract symptoms,
+NCT01657409,lower urinary tract symptoms,,"e hospital.
+
+        Exclusion Criteria:
+
+          -  Use of antimuscarinic agent and effective in treatment of lower urinary tract symptoms
+
+          -  Patients with severe cardiopulmonary disease",443350,Lower urinary tract symptoms,TRUE,,,,307541003,Lower urinary tract symptoms (finding),
+NCT01881516,cognitive dysfunction,,"SCLC;
+
+          -  ECOG 3~4;
+
+          -  Pregnant woman;
+
+          -  >65 or <18 years old;
+
+          -  Patients with evidence of any cognitive dysfunction that would limit their abilities
+     ",443432,Impaired cognition,FALSE,,,,386806002,Impaired cognition (finding),
+NCT02265848,cognitive impairment,,"         3. Subject pain scores >5 on NPRS
+
+        Exclusion Criteria:
+
+          1. Currently diagnosed with cognitive impairment, or exhibits any characteristic, that
+             would limit study",443432,Impaired cognition,FALSE,,,,386806002,Impaired cognition (finding),
+NCT02051608,cognitive deficit,,"       -  History or presence of systemic autoimmune disorders potentially causing progressive
+             neurologic disease with associated cognitive deficits
+
+          -  History of schizophrenia",443432,Impaired cognition,FALSE,,,,386806002,Impaired cognition (finding),
+NCT04077541,cognitive dysfunction,,"ne and access to the Internet
+
+        Exclusion Criteria:
+
+          -  Discharged within 24 hours
+
+          -  Cognitive dysfunction and unable to provide formal consent
+
+          -  Severe brain ",443432,Impaired cognition,FALSE,,,,386806002,Impaired cognition (finding),
+NCT01301040,cognitive dysfunction,,"ancer diagnosis of the patients to be fit enough to complete
+                  the questionnaires
+
+               -  to be French speaking
+
+               -  to be free of any cognitive dysfunction.
+
+",443432,Impaired cognition,FALSE,,,,386806002,Impaired cognition (finding),
+NCT00079807,cognitive impairment,,"cologic treatment for 12 weeks prior to
+             enrollment
+
+        Exclusion Criteria:
+
+          -  Any significant cognitive impairment or psychosis
+
+          -  Pregnancy or anticipated preg",443432,Impaired cognition,TRUE,,,,386806002,Impaired cognition (finding),
+NCT03720821,cognitive impairment,,"          -  Lack of email/lack of basic computer skills
+
+          -  Diagnosed Alzheimer's or documented severe cognitive impairment
+
+          -  Severely impaired vision or color blindness
+
+      ",443432,Impaired cognition,TRUE,,,pre,702956004,Severe cognitive impairment (finding),
+NCT00937001,cognitive deficit,,"nown brain lesions, traumatic brain
+             injury, cerebrovascular accidents with resultant moderate to severe cognitive deficits
+             or ADL dependency, Parkinson's disease, Huntington'",443432,Impaired cognition,TRUE,severe,severe,pre,702956004,Severe cognitive impairment (finding),
+NCT00283881,cognitive deficit,,"erebellum or brainstem,
+
+          -  have a history of alcohol or drug abuse or severe language disturbances or serious
+             cognitive deficits,
+
+          -  have uncontrolled medical proble",443432,Impaired cognition,TRUE,severe,serious,post,386806002,Impaired cognition (finding),
+NCT03393351,cognitive impairment,,"ears
+
+          -  German-speaking
+
+        Exclusion Criteria for participating patients:
+
+          -  severe cognitive impairment
+
+        Inclusion Criteria for participating health care professio",443432,Impaired cognition,TRUE,,,pre,702956004,Severe cognitive impairment (finding),
+NCT03178006,acute disease,,"ween 18-24.9 kg / m2 without diabetes or altered glucose tolerance
+
+        Exclusion Criteria:
+
+          -  Acute disease
+
+          -  Chronic pulmonary, cardiovascular, haematological, gastrointes",443883,Acute disease,FALSE,,,,2704003,Acute disease (disorder),
+NCT03701438,acute disease,,"ccine including egg and chicken
+             protein, or history of hypersensitivity to a previous dose of an influenza vaccine
+
+          -  Acute disease and/or fever at the time of baseline blood d",443883,Acute disease,FALSE,,,,2704003,Acute disease (disorder),
+NCT01106092,acute disease,," -  collapse or shock-like state within 48 hours of vaccination,
+
+               -  convulsions with or without fever, occurring within 3 days of vaccination.
+
+          -  Acute disease and/or fever ",443883,Acute disease,FALSE,,,,2704003,Acute disease (disorder),
+NCT00001464,acute disease,,"NCLUSION CRITERIA:
+
+        History - good overall health without history of recent (within 3 months) acute disease;
+
+        Physical examination within normal limits;
+
+        Laboratory evaluation;",443883,Acute disease,FALSE,,,,2704003,Acute disease (disorder),
+NCT02838914,acute disease,,"up tests and evaluation procedures.
+
+          4. Aged 18-80 years.
+
+        Exclusion Criteria:
+
+          1. With acute diseases, such as acute phase after myocardial infarction (within 3
+          ",443883,Acute disease,FALSE,,,,2704003,Acute disease (disorder),
+NCT02888418,acute disease,,"r or kidney disease, cardiovascular disease, severe
+             hypertension, diabetes, cancer, all kinds of infectious disease and acute disease or
+             in acute attack period of chronic dis",443883,Acute disease,TRUE,,,,2704003,Acute disease (disorder),
+NCT00287469,acute disease,,"
+          -  Major congenital defects or serious chronic illness.
+
+          -  History of any neurologic disorders or seizures.
+
+          -  Acute disease at the time of enrollment. Acute disease w",443883,Acute disease,TRUE,,,,2704003,Acute disease (disorder),
+NCT02981836,acute disease,,"Severe malnutrition, congenital malformation, developmental disorders, or serious
+             chronic diseases;
+
+          -  Acute disease or acute stage of chronic disease within 7 days prior to st",443883,Acute disease,TRUE,,,,2704003,Acute disease (disorder),
+NCT01218308,acute disease,,"ine; or a history of severe adverse
+             reaction to a previous influenza vaccine.
+
+          -  Fever at the time of enrolment.
+
+          -  Acute disease at the time of enrolment.
+
+        ",443883,Acute disease,TRUE,,,,2704003,Acute disease (disorder),
+NCT02009748,acute disease,,"min/1.73m²
+
+          -  Any disease with an estimated life expectancy below 1 year
+
+          -  Any clinically significant acute disease requiring drug treatment
+
+          -  Anticipated chemothera",443883,Acute disease,TRUE,,,,2704003,Acute disease (disorder),
+NCT03679000,genetic disease,,"        -  Congenital azoospermia
+
+               -  Ejaculation dysfunction
+
+               -  Family history of genetic diseases
+
+          4. Acquired diseases
+
+               -  Genitourinary infe",443916,Hereditary disease,FALSE,,,,782964007,Genetic disease (disorder),
+NCT02917863,genetic disease,,"    -  Patients with celiac disease, type I diabetes or other known autoimmune diseases
+
+          -  Patients with genetic diseases or syndromes, such as Down, Williams-Beuren, Turner
+
+          -  A",443916,Hereditary disease,FALSE,,,,782964007,Genetic disease (disorder),
+NCT01703728,genetic disease,," to the use of gonadotropins or current pregnancy diagnosed by the
+             clinician.
+
+          -  Recurrent miscarriages, known genetic disease of one of the partners or indication of
+         ",443916,Hereditary disease,FALSE,,,,782964007,Genetic disease (disorder),
+NCT02975986,genetic disease,," SPECT/CT, pregnancy, breastfeeding, chronic renal disease (eGFR <
+             60 ml/min/1.73m2), proteinuria, genetic diseases of the kidney, inborn defects of
+             lipid metabolism, alcohol",443916,Hereditary disease,FALSE,,,,782964007,Genetic disease (disorder),
+NCT01925196,hereditary disease,,"tion, such as structural brain or spinal cord disease, metabolic
+             diseases, paraneoplastic syndromes, hereditary diseases, infectious diseases,
+             peripheral neuropathy or radicu",443916,Hereditary disease,FALSE,,,,32895009,Hereditary disease (disorder),
+NCT00635258,genetic disease,,"r hepatitis B and C, human
+             immunodeficiency viruses I and II, syphylis, and vaginal infection), genetic disease,
+             severe endometriosis or pelvic inflamatory disease
+
+         ",443916,Hereditary disease,TRUE,,,,782964007,Genetic disease (disorder),
+NCT00646893,genetic disease,,"nancy;
+
+          -  Prior severe OHSS;
+
+          -  TESA and TESE patients;
+
+          -  Patients carriers of chromosomal or genetic diseases.
+
+          -  Egg donation cycles.
+
+          -  Froze",443916,Hereditary disease,TRUE,,,,782964007,Genetic disease (disorder),
+NCT01050075,inherited disease,,"nced any peripheral neuropathy prior to chemotherapy
+
+          -  Patients who have the potential for serious bleeding due to inherited diseases such as
+             hemophilia
+
+          -  Patients",443916,Hereditary disease,TRUE,,,,32895009,Hereditary disease (disorder),
+NCT00841295,genetic disease,,"lusion Criteria:
+
+          -  Severe associated disorder, with a probable short-term death,
+
+          -  Identified genetic disease,
+
+          -  Polymalformative syndrome, or severe malformation (",443916,Hereditary disease,TRUE,,,,782964007,Genetic disease (disorder),
+NCT01469273,genetic disease,,"    -  Severe co-morbidities diseases of the:
+
+               -  Heart
+
+               -  Liver
+
+               -  Kidney
+
+          -  Genetic disease
+
+          -  Other serious associated diseases,",443916,Hereditary disease,TRUE,,,,782964007,Genetic disease (disorder),
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
