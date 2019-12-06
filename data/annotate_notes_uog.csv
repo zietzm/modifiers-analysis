@@ -24,14 +24,14 @@ NCT03404232,scoliosis,scoliosis,"pine
           -  Spondylolisthesis",72418,Scoliosis deformity of spine,FALSE,unmarked,,,298382003,Scoliosis deformity of spine (disorder),
 NCT01467882,scoliosis,severe scoliosis," or other study endpoints (e.g. chronic steroid use [except mild topical steroids],
              renal failure, diabetes, moderate to severe scoliosis, previously treated intracranial
-             tum",72418,Scoliosis deformity of spine,TRUE,severe,severe,post,37394658,Severe sepsis,
+             tum",72418,Scoliosis deformity of spine,TRUE,severe,severe,post,298382003,Scoliosis deformity of spine (disorder),
 NCT03581084,scoliosis,severe scoliosis,"tis, vocal cord dysfunction
              (that is the sole cause of respiratory symptoms and at the PI's discretion), severe
-             scoliosis or chest wall deformities that affect lung function,",72418,Scoliosis deformity of spine,TRUE,severe,severe,post,37394658,Severe sepsis,
+             scoliosis or chest wall deformities that affect lung function,",72418,Scoliosis deformity of spine,TRUE,severe,severe,post,298382003,Scoliosis deformity of spine (disorder),
 NCT01926275,scoliosis,severe kyphoscoliosis,"nced
              bronchiectases, active tuberculosis, post tuberculosis syndrome, pneumonia, severe
              kyphoscoliosis, tracheostoma, neuromuscular diseases, or any other disorder, which
-   ",72418,Scoliosis deformity of spine,TRUE,severe,severe,post,443531,Kyphoscoliosis deformity of spine (disorder),
+   ",72418,Scoliosis deformity of spine,TRUE,severe,severe,post,405773007,Kyphoscoliosis deformity of spine (disorder),
 NCT01784094,scoliosis,scoliosis,":
 
           -  previous severe back or lower extremity injury or surgery
@@ -187,7 +187,7 @@ NCT00422981,cleft palate,cleft palate,"harynx, except for surgical correction of
              nose"" at least 2 years previously, or surgical repair of cleft palate when <30 years
              of age.
 
-        ",135923,Cleft palate,FALSE,N/A,,,N/A,N/A,
+        ",135923,Cleft palate,FALSE,N/A,,,87979003,Cleft palate (disorder),
 NCT04023825,cleft palate,cleft palate,"-  children between 5 months and 12 years old
 
           -  weight >5kg
@@ -196,7 +196,7 @@ NCT04023825,cleft palate,cleft palate,"-  children between 5 months and 12 years
 
         Exclusion Criteria:
 
-  ",135923,Cleft palate,FALSE,N/A,,,N/A,N/A,
+  ",135923,Cleft palate,FALSE,N/A,,,87979003,Cleft palate (disorder),
 NCT02435407,cleft palate,cleft palate,"ly significant)
 
         Exclusion Criteria:
@@ -270,7 +270,7 @@ NCT01140997,hypothyroidism,hypothyroidism,"rocess, history of
 
           -  History of hypothyroidism or current treatment for thyroid disease.
 
-          ",140673,Hypothyroidism,TRUE,,,,,,
+          ",140673,Hypothyroidism,TRUE,,,,40930008,Hypothyroidism (disorder),
 NCT03379012,hypothyroidism,hypothyroidism,"er; 5. Normal PSA level
 
         Exclusion Criteria:
@@ -499,7 +499,7 @@ NCT03865615,high blood pressure,uncontrolled high blood pressure,"ory, and/or ph
           -  Severely low blood (< 90/50) pressure or uncontrolled high blood pressure (>160/100).
 
           -  S",316866,Hypertensive disorder,FALSE,,,,38341003,"Hypertensive disorder, systemic arterial (disorder)",
-NCT00003928,hypertension,uncontrolled high blood pressure,"ine no greater than 1.5 mg/dL OR
+NCT00003928,hypertension,uncontrolled hypertension,"ine no greater than 1.5 mg/dL OR
 
           -  Creatinine clearance at least 60 mL/min
 
