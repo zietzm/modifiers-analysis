@@ -300,7 +300,6 @@ parent_concept_id	parent_concept_name	parent_concept_code	concept_synonym_name
 4288370	Severe visual impairment	397541004	Severe visual impairment (disorder)
 4110815	Sensorineural hearing loss, bilateral	194424005	Sensorineural hearing loss, bilateral
 4110815	Sensorineural hearing loss, bilateral	194424005	Sensorineural hearing loss, bilateral (disorder)
-NA	NA	NA	NA
 4180159	Hereditary disorder of immune system	363138005	Hereditary disorder of immune system (disorder)
 4180159	Hereditary disorder of immune system	363138005	Hereditary disorder of immune system
 4263109	Congenital immunodeficiency disease	36138009	Congenital immunodeficiency disease (disorder)
@@ -1454,96 +1453,6 @@ NA	NA	NA	NA
 4202797	Drug therapy finding	309298003	Drug therapy observations
 4202797	Drug therapy finding	309298003	Drug therapy finding (finding)
 4202797	Drug therapy finding	309298003	Drug therapy finding
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
 440389	Mental retardation	91138005	MR - Mental retardation
 440389	Mental retardation	91138005	Mental retardation
 440389	Mental retardation	91138005	Mental retardation (disorder)
@@ -1551,16 +1460,6 @@ NA	NA	NA	NA
 40277917	Intellectual disability	110359009	Intellectual developmental disorder
 40277917	Intellectual disability	110359009	Mental retardation
 40277917	Intellectual disability	110359009	Intellectual disability (disorder)
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
 4100976	Severe combined immunodeficiency with low T- and B-cell numbers	190997006	Severe combined immunodeficiency with low T- and B-cell numbers
 4100976	Severe combined immunodeficiency with low T- and B-cell numbers	190997006	Severe combined immunodeficiency with low T- and B-cell numbers (disorder)
 4179989	Autosomal recessive SCID	362993009	Autosomal recessive severe combined immunodeficiency disease (disorder)
@@ -1571,8 +1470,6 @@ NA	NA	NA	NA
 37396105	Charcot-Marie-Tooth disease type 4	715795005	Autosomal recessive demyelinating Charcot-Marie-Tooth
 4100976	Severe combined immunodeficiency with low T- and B-cell numbers	190997006	Severe combined immunodeficiency with low T- and B-cell numbers
 4100976	Severe combined immunodeficiency with low T- and B-cell numbers	190997006	Severe combined immunodeficiency with low T- and B-cell numbers (disorder)
-NA	NA	NA	NA
-NA	NA	NA	NA
 4029498	Seizure disorder	128613002	Seizure disorder
 4029498	Seizure disorder	128613002	Seizure disorder (disorder)
 40277917	Intellectual disability	110359009	Intellectual disability
@@ -1745,20 +1642,10 @@ NA	NA	NA	NA
 4145356	Severe persistent asthma	426656000	Severe persistent asthma (disorder)
 4086506	Frailty	248279007	Frailty (finding)
 4086506	Frailty	248279007	Frailty
-NA	NA	NA	NA
 435243	Alcohol dependence	66590003	Alcohol dependence
 435243	Alcohol dependence	66590003	Alcohol dependence (disorder)
 435243	Alcohol dependence	66590003	Chronic alcoholism
 435243	Alcohol dependence	66590003	Alcohol dependence syndrome
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
-NA	NA	NA	NA
 4046079	Distal spinal muscular atrophy	230247001	Distal spinal muscular atrophy
 4046079	Distal spinal muscular atrophy	230247001	Distal spinal muscular atrophy (disorder)
 4312226	Autosomal recessive hereditary disorder	85995004	Autosomal recessive hereditary disorder (disorder)
@@ -2837,7 +2724,6 @@ NA	NA	NA	NA
 35626010	Midline deviation of maxillary tooth position	769140004	Midline deviation of maxillary tooth position
 35626010	Midline deviation of maxillary tooth position	769140004	Midline deviation of maxillary tooth position (disorder)
 35626010	Midline deviation of maxillary tooth position	769140004	Midline deviation of maxillary tooth position
-NA	NA	NA	NA
 432284	Single major depressive episode	268620009	Single major depressive episode
 432284	Single major depressive episode	268620009	Single major depressive episode (disorder)
 440383	Depressive disorder	35489007	Depressive episode

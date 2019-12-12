@@ -79,7 +79,6 @@ modified_concept_id	modified_concept_name	modified_concept_code	parent_concept_i
 44806788	Severe visual impairment, binocular	813871000000108	4288370	Severe visual impairment	397541004
 44806789	Severe visual impairment, monocular	813881000000105	4288370	Severe visual impairment	397541004
 44810468	Bilateral severe sensorineural hearing loss	898061000000101	4110815	Sensorineural hearing loss, bilateral	194424005
-44810571	Severe cognitive impairment	888311000000101	NA	NA	NA
 29783	Severe combined immunodeficiency disease	31323000	4180159	Hereditary disorder of immune system	363138005
 29783	Severe combined immunodeficiency disease	31323000	4263109	Congenital immunodeficiency disease	36138009
 29783	Severe combined immunodeficiency disease	31323000	40483560	Combined immunodeficiency disease	442459007
@@ -417,114 +416,12 @@ modified_concept_id	modified_concept_name	modified_concept_code	parent_concept_i
 4345565	Severe scapuloperoneal muscular dystrophy with cardiomyopathy	240077004	321319	Cardiomyopathy	85898001
 4345565	Severe scapuloperoneal muscular dystrophy with cardiomyopathy	240077004	4030434	Scapuloperoneal muscular dystrophy	129620000
 4246981	No significant drug interactions	408358005	4202797	Drug therapy finding	309298003
-40438556	Addisonian crisis	237757001	NA	NA	NA
-40432390	X-linked severe combined immunodeficiency	234569003	NA	NA	NA
-40426692	[X]Evidence of alcohol involvement determined by level of intoxication, severe alcohol intoxication	223347009	NA	NA	NA
-40426693	[X]Evidence of alcohol involvement determined by level of intoxication, very severe alcohol intoxication	223348004	NA	NA	NA
-40404993	White asphyxia	206276007	NA	NA	NA
-40401443	Infantile malignant osteopetrosis	205502002	NA	NA	NA
-40389580	[X]Unspecified severe protein-energy malnutrition	191078000	NA	NA	NA
-40398219	Painful menstruation	198404001	NA	NA	NA
-40390883	Congenital agranulocytosis NEC	191342002	NA	NA	NA
-40389152	Morbid obesity	190967003	NA	NA	NA
-40389237	[X]Unspecified mental retardation, significant impairment of behaviour requiring attention or treatment	192559006	NA	NA	NA
-40390118	Metachromatic leukodystrophy	192784006	NA	NA	NA
-40398180	[X]Severe vaginal dysplasia, not elsewhere classified	198370008	NA	NA	NA
-40398208	[X]Severe vulvar dysplasia, not elsewhere classified	198395009	NA	NA	NA
-40389182	Severe combined immunodeficiency	190994004	NA	NA	NA
-40389198	Severe combined immunodeficiency with short-limbed dwarfism	191007006	NA	NA	NA
-40389210	[X]Mild mental retardation, significant impairment of behaviour requiring attention or treatment	192534002	NA	NA	NA
-40389215	[X]Moderate mental retardation, significant impairment of behaviour requiring attention or treatment	192539007	NA	NA	NA
-40389219	Severe mental retardation, IQ in range 20-34	192542001	NA	NA	NA
-40389220	[X]Severe mental retardation with the statement of no, or minimal, impairment of behavior	192543006	NA	NA	NA
-40389221	[X]Severe mental retardation, significant impairment of behaviour requiring attention or treatment	192544000	NA	NA	NA
-40389222	[X]Severe mental retardation, other impairments of behavior	192545004	NA	NA	NA
-40389223	[X]Severe mental retardation without mention of impairment of behaviour	192546003	NA	NA	NA
-40389226	[X]Profound mental retardation, significant impairment of behaviour requiring attention or treatment	192549005	NA	NA	NA
-40389232	[X]Other mental retardation, significant impairment of behaviour requiring attention or treatment	192554001	NA	NA	NA
-40387708	Marasmic kwashiorkor	190596005	NA	NA	NA
-40387710	[X]Unspecified severe protein-energy malnutrition	190598006	NA	NA	NA
-40394323	PET - Severe pre-eclamptic toxaemia	198981000	NA	NA	NA
-40392486	[X]Severe vaginal dysplasia, not elsewhere classified	198601000	NA	NA	NA
-40392487	[X]Severe vulvar dysplasia, not elsewhere classified	198602007	NA	NA	NA
-40378464	Unborn child at risk from physical or mental abnormalities as to be seriously handicapped	185024009	NA	NA	NA
-40398152	[X]Severe cervical dysplasia, not elsewhere classified	198344007	NA	NA	NA
-40388783	[X] Mental and behavioral disorders associated with the puerperium: [severe, not elsewhere classified] or [puerperal psychosis NOS]	192477004	NA	NA	NA
-40380307	[X]Other severe and complicated plasmodium falciparum malaria	187503005	NA	NA	NA
-40399170	[X]Severe cervical dysplasia, not elsewhere classified	198600004	NA	NA	NA
-40388271	[X]Severe depressive episode without psychotic symptoms	192369004	NA	NA	NA
-40388272	[X] Single episode of psychotic depression	192370003	NA	NA	NA
-40370158	Ozaena	284185003	NA	NA	NA
-40388260	[X]Bipolar affective disorder, current episode severe depression without psychotic symptoms	192359005	NA	NA	NA
-40388263	Bipolar affective disorder, currently depressed, severe, with psychosis	192361001	NA	NA	NA
-40386124	Better eye: severe visual impairment, Lesser eye: near total visual impairment	193715009	NA	NA	NA
-40395887	Status asthmaticus NOS	195980003	NA	NA	NA
-40395907	Severe chronic obstructive pulmonary disease	195998004	NA	NA	NA
-40387315	Addisonian crisis	190522002	NA	NA	NA
-40387319	Addisonian crisis	190526004	NA	NA	NA
-40355721	Severe hyperemesis gravidarum	270539008	NA	NA	NA
-40351326	Congenital neutropenia	267541006	NA	NA	NA
-40388280	[X]Depression without psychotic symptoms: [recurrent: [major] or [manic-depressive psychosis, depressed type] or [vital] or [current severe episode]] or [endogenous]	192377000	NA	NA	NA
-40388281	[X]Recurrent depressive disorder, current episode severe with psychotic symptoms	192378005	NA	NA	NA
-40388325	[X]Other reactions to severe stress	192417008	NA	NA	NA
-40388326	[X]Reaction to severe stress, unspecified	192418003	NA	NA	NA
-40371867	Severe anxiety (panic)	286544004	NA	NA	NA
-40335956	CIN III - severe dyskaryosis	168405008	NA	NA	NA
-40353442	[EDTA] Severe nephrotic syndrome with focal sclerosis (paediatric patients only) associated with renal failure	274552005	NA	NA	NA
-40356716	[X]Severe depressive episode without psychotic symptoms	268702009	NA	NA	NA
-40356718	[X]Severe depressive episode with psychotic symptoms	268704005	NA	NA	NA
-40356722	[X]Recurrent depressive disorder, current episode severe without psychotic symptoms	268708008	NA	NA	NA
-40356723	[X]Recurrent depressive disorder, current episode severe with psychotic symptoms	268709000	NA	NA	NA
-40356742	[X]Severe mental and behavioral disorders associated with the puerperium, not elsewhere classified	268726006	NA	NA	NA
-40351261	Corticoadrenal insufficiency	267483004	NA	NA	NA
-40351274	Dietary deficiency	267495004	NA	NA	NA
-40337632	Recurrent severe hypos	170767002	NA	NA	NA
-40361380	Severe mental retardation, IQ in range 20-34	276235008	NA	NA	NA
-40322977	Severe birth asphyxia, APGAR 0-3	157104000	NA	NA	NA
-40322279	Severe depression	154967000	NA	NA	NA
-40321173	Addison's disease	154707007	NA	NA	NA
-40321198	Kwashiokor	154730001	NA	NA	NA
-40318659	Severe proteinuric hypertension of pregnancy	156110008	NA	NA	NA
-40318665	Severe hyperemesis gravidarum	156115003	NA	NA	NA
-40322290	Severe mental retardation, IQ in range 20-34	154977003	NA	NA	NA
-40316554	Severe chronic obstructive pulmonary disease	155584009	NA	NA	NA
-40313874	CIN III - severe dyskaryosis	145597000	NA	NA	NA
-40313875	Cervical smear - severe dyskaryosis ? invasive carcinoma	145598005	NA	NA	NA
-40313888	Cervical smear - severe inflammation	145609003	NA	NA	NA
-40318188	Dysmenorrhoea	156030009	NA	NA	NA
-40316546	Status asthmaticus	155577001	NA	NA	NA
-40303988	O/E - significantly deaf	141259005	NA	NA	NA
-40306231	Symptom severe	139737008	NA	NA	NA
-40306232	Symptom very severe	139738003	NA	NA	NA
-40300664	Severely abnormal behavior	142722008	NA	NA	NA
-4101159	Other severe protein-calorie malnutrition (weight for age less than 60% of standard)	190600000	NA	NA	NA
-4098907	Carcinoma in situ of esophagus NOS	189217007	NA	NA	NA
-4104389	Better eye: severe visual impairment, Lesser eye: low vision unspecified	193724000	NA	NA	NA
-4104393	Lesser eye: severe visual impairment, Better eye: unspecified	193747004	NA	NA	NA
-4100376	Unspecified bipolar affective disorder, severe, without mention of psychosis	191650002	NA	NA	NA
-4144104	Status asthmaticus NOS	266363006	NA	NA	NA
-4102668	Unspecified bipolar affective disorder, severe, with psychosis	191651003	NA	NA	NA
-4109117	Better eye: severe visual impairment, Lesser eye: blind, unspecified	193713002	NA	NA	NA
-4062547	Severe pre-eclampsia NOS	198987001	NA	NA	NA
-4058534	Severe pre-eclampsia unspecified	198982007	NA	NA	NA
 432898	Severe intellectual disability	40700009	440389	Mental retardation	91138005
 432898	Severe intellectual disability	40700009	40277917	Intellectual disability	110359009
-40633330	Stress ulcer of stomach	77282005	NA	NA	NA
-439257	Bipolar affective disorder, currently manic, severe, without mention of psychosis	191622002	NA	NA	NA
-439258	Recurrent manic episodes, severe without mention of psychosis	191594001	NA	NA	NA
-439263	Single manic episode, severe without mention of psychosis	191585007	NA	NA	NA
-194201	Liver minor laceration without mention of open wound into cavity	210166002	NA	NA	NA
-40631992	Junctional epidermolysis bullosa	76905008	NA	NA	NA
-439244	Bipolar affective disorder, currently depressed, severe, without mention of psychosis	191631002	NA	NA	NA
-439247	Mixed bipolar affective disorder, severe, without mention of psychosis	191640003	NA	NA	NA
-439252	Recurrent major depressive episodes, severe, without mention of psychosis	191612008	NA	NA	NA
-40612883	Infantile malignant osteopetrosis	63941000	NA	NA	NA
 35622255	Severe combined immunodeficiency due to CTPS1 deficiency	763623001	4100976	Severe combined immunodeficiency with low T- and B-cell numbers	190997006
 35622255	Severe combined immunodeficiency due to CTPS1 deficiency	763623001	4179989	Autosomal recessive SCID	362993009
 35622830	SURF1-related Charcot-Marie-Tooth disease type 4	765047006	37396105	Charcot-Marie-Tooth disease type 4	715795005
 35622943	Severe combined immunodeficiency due to complete RAG1 and/or RAG2 deficiency	765188009	4100976	Severe combined immunodeficiency with low T- and B-cell numbers	190997006
-40560611	Removed from severe mental illness register	390685005	NA	NA	NA
-40560612	On severe mental illness register	390686006	NA	NA	NA
 35625463	PURA syndrome	768473009	4029498	Seizure disorder	128613002
 35625463	PURA syndrome	768473009	40277917	Intellectual disability	110359009
 35625535	5q31.3 microdeletion syndrome	768555009	4029498	Seizure disorder	128613002
@@ -569,17 +466,7 @@ modified_concept_id	modified_concept_name	modified_concept_code	parent_concept_i
 45768965	Uncomplicated severe persistent asthma	707513007	45768910	Uncomplicated asthma	707444001
 45768965	Uncomplicated severe persistent asthma	707513007	4145356	Severe persistent asthma	426656000
 45770280	Severe frailty	925861000000102	4086506	Frailty	248279007
-40541325	Metachromatic leukodystrophy	3621006	NA	NA	NA
 45773633	Severe alcohol dependence	928151000000102	435243	Alcohol dependence	66590003
-40565450	On severe mental illness register	389952009	NA	NA	NA
-40547675	Dysmenorrhoea	367433008	NA	NA	NA
-40565487	Morbid obesity	389986000	NA	NA	NA
-40544275	Status asthmaticus	36979006	NA	NA	NA
-40534112	Infantile malignant osteopetrosis	360504006	NA	NA	NA
-40500115	Dysmenorrhea	29837005	NA	NA	NA
-40515654	Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight)	30773007	NA	NA	NA
-40503785	Patient suffering from severe ment impairment under MHA 1983	303003002	NA	NA	NA
-40454931	Vulval intraepithelial neoplasia grade 3	252992002	NA	NA	NA
 46273014	Spinal muscular atrophy with respiratory distress type 1	711483003	4046079	Distal spinal muscular atrophy	230247001
 46273014	Spinal muscular atrophy with respiratory distress type 1	711483003	4312226	Autosomal recessive hereditary disorder	85995004
 46269944	Severe sepsis with acute organ dysfunction due to Chromobacterium	1092571000119109	4031168	Sepsis-associated organ dysfunction	238151006
@@ -937,7 +824,6 @@ modified_concept_id	modified_concept_name	modified_concept_code	parent_concept_i
 35624312	Severe early-onset axonal neuropathy due to mitofusin 2 deficiency	766977007	4312226	Autosomal recessive hereditary disorder	85995004
 35625988	Severe midline deviation of maxillary tooth position to left	769114005	35626010	Midline deviation of maxillary tooth position	769140004
 35626013	Severe midline deviation of maxillary tooth position to right	769143002	35626010	Midline deviation of maxillary tooth position	769140004
-439260	Single major depressive episode, severe, without mention of psychosis	191603006	NA	NA	NA
 44805544	Single major depressive episode, severe	764631000000108	432284	Single major depressive episode	268620009
 44794370	[X]Severe depressive episode without psychotic symptoms	397701000000102	440383	Depressive disorder	35489007
 44794371	[X]Severe depressive episode with psychotic symptoms	397711000000100	440383	Depressive disorder	35489007
