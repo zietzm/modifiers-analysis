@@ -5,18 +5,8 @@ import os
 from collections import Counter
 import matplotlib.pyplot as plt
 % matplotlib inline
-
 from gensim.models import Word2Vec
 import nltk
-
-# from sklearn.preprocessing import MultiLabelBinarizer
-# from sklearn.feature_extraction.text import CountVectorizer
-# from sklearn.linear_model import LogisticRegression
-# from xgboost import XGBClassifier
-# from sklearn.model_selection import StratifiedKFold
-# from sklearn.model_selection import GridSearchCV
-
-from sklearn.metrics import roc_curve, roc_auc_score
 
 
 def clean_string_list(input_list, list_output = False, chars_to_ignore = None, min_char_count = None) :
@@ -41,12 +31,8 @@ def clean_string_list(input_list, list_output = False, chars_to_ignore = None, m
 def get_dataframes_from_csv() :
     # Dump extracted_parents.csv into pandas DataFrame
     extracted = pd.read_csv('extracted_parents.csv', sep = ',')
-    # Check for missing criteria strings in df
-    # print('Number of empty criteria strings in extracted dataset: {}'.format(extracted['criteria_string'].isnull().sum()))
     # Remove missing criteria strings in df
     extracted = extracted.dropna(how = 'any')
-    # Confirm missing criteria are removed in df
-    # print('Empty criteria strings removed: {}'.format(extracted['criteria_string'].isnull().sum() == 0))
     # Drop duplicates
     extracted = extracted.drop_duplicates()
     # Reset index after drop
@@ -65,15 +51,11 @@ def get_dataframes_from_csv() :
     extracted = extracted.drop(indices)
     extracted = extracted.reset_index(drop = True)
     confirmation_bool = (extracted.shape[0] == (292320 - 62395))
-    # print('All rows with missing relevant matched_string value are dropped: {}'.format(confirmation_bool))
 
     # NORMALIZE WHITESPACE AND LOWER ALL CASES IN CRITERIA STRING
     cleaned_criteria = clean_string_list(list(extracted['criteria_string']))
     extracted.drop('criteria_string', axis = 1, inplace = True)
     extracted['criteria_string'] = cleaned_criteria
-
-    # EXPORT EXTRACTED DF TO .CSV FILE
-    # extracted.to_csv('cleaned_extracted_parents.csv', encoding = 'utf-8', index = False)
 
     # SET FILE PATHS
     FILE_ROOT_PATH = 'computed/'
@@ -185,12 +167,106 @@ def get_closest_string(query, sentence, model, return_index = 0) :
             max_sim = simularity
             most_similar = word
             
-    if return_index == 0 : return most_similar
-    else : return sentence.index(word)
+    if return_index == 0 :
+        return most_similar
+    else :
+        return sentence.index(word)
     
-# get_closest_string('hemorr', train_criteria[89], model = model, return_index = 1)
+    
+# INPUT:
+# pandas.DataFrame WITH COLUMNS'criteria_string', 'matched_string', 'parent_concept_id'
 
-def check_modifiers(df, window = 3, severity_modifiers = None) :
+# OUTPUT:
+# return_ids: LIST OF OMOP CDM CODES ASSOCIATED WITH DESCENDANTS TO GIVEN parent_concept_id
+# return_names: LIST OF DESCENDANTS TO GIVEN parent_concept_id
+# matches: LIST OF BEST STRING MATCHES TO manual_string GIVEN matched_string
+# match_indices: LIST OF FIRST INDEX OF MATCHED STRING IN CLEANED criteria_string
+
+def get_indices_and_potetial_synonyms(df, window = 0, back = False, threshold = 10) :
+    
+    return_ids = []
+    return_names = []
+    matches = []
+    match_indices = []
+    closest_descendents = []
+    model = None
+    
+    required_columns = set(['criteria_string', 'matched_string', 'parent_concept_id'])
+    
+    if required_columns.issubset(set(df.columns)) :
+
+        detected_string = []
+    
+        for i, query in enumerate(list(df['criteria_string'])) :
+            
+            chars_to_ignore = [',', '.', ':', ';', '(', ')', '[', ']', '#', '%', '<', '>', '/', '"', '*', '-', '―']
+            query = query.split(' ')
+            query = clean_string_list(query, chars_to_ignore = chars_to_ignore)
+            
+            parent_concept_id = list(df['parent_concept_id'])[i]
+            match_candidates = get_descendents_df(parent_concept_id)
+            candidate_ids = set(match_candidates['descendant_concept_id'])
+            candidate_names = set(match_candidates['descendant_synonym_name'])
+            return_names.append(candidate_names)
+            return_ids.append(candidate_ids)    
+
+            candidate_words = list(df['matched_string'])[i].split(' ')
+            match = [x for x in query if candidate_words[0] in x]
+            match_index = 100
+            if match and len(candidate_words) == 1 :
+                matches.append(match[0])
+                match_index = query.index(match[0])
+                match_indices.append(match_index)
+            elif match and len(candidate_words) > 1 :
+                match_index = query.index(match[0])
+                match_indices.append(match_index)
+                matches.append(' '.join(query[match_index:match_index+len(candidate_words)]))
+            elif len(candidate_words) > 1 :
+                match = [x for x in query if candidate_words[1] in x]
+                match_index = query.index(match[0])
+                matches.append(match[0])
+                match_indices.append(match_index)
+            else :
+                match_index = get_index_of_closest(candidate_words[0], query)
+                if match_index is None :
+                    print('Term {} was not found in criteria string.'.format(' '.join(candidate_words)))
+                elif match_index > threshold :
+                    match_index = get_closest_string(matched_modifier, s, model = model, return_index = 1)
+                    match_indices.append(match_index)
+                else :
+                    if len(candidate_words) == 1 :
+                        match_indices.append(match_index)
+                        match = query[match_index]
+                        matches.append(match)
+                    else :
+                        match_indices.append(match_index)
+                        match = ' '.join(query[match_index:match_index+len(candidate_words)])
+                        matches.append(match)
+                        
+            if window == 0 :
+                search_string = match[0]
+            elif match_index - window > 0 and match_index + window < len(query) and back == True :
+                search_string = query[match_index - window : match_index + window]
+            elif match_index - window > 0 :
+                search_string = query[match_index - window : match_index]
+            elif back == True :
+                search_string = query[match_index : match_index + window]
+            else :
+                search_string = match[0]
+            
+            closest_descendent = get_closest_in_list(search_string, list(match_candidates['descendant_synonym_name']))
+            closest_descendents.append(closest_descendent)          
+            
+    
+    return matches, match_indices, closest_descendents
+
+
+def check_modifiers(df, window = 3, severity_modifiers = None, threshold = 100) :
+    
+    matches, match_indices, closest_descendents = get_indices_and_potetial_synonyms(df,
+                                                                                    window = 0,
+                                                                                    back = True,
+                                                                                    threshold = threshold)
     required_columns = set(['criteria_string', 'matched_string', 'parent_concept_name'])
     
     if required_columns.issubset(set(df.columns)) :
@@ -252,17 +328,26 @@ def check_modifiers(df, window = 3, severity_modifiers = None) :
                 modified.append(0)
                 detected_string.append('')
                 
+        temp = []
+        for x in df['severity_modifier'] :
+            if x != 'unmarked' :
+                temp.append(1)
+            else :
+                temp.append(0)
+                
+        df['truth_label'] = temp
+                
         if 'modified' in df.columns : df.drop('modified', axis = 1)
-        df['modified'] = modified
-        df['detected_string'] = detected_string
+        df['MODIFIED_GUESS'] = modified
+        df['CONCEPT_GUESS'] = matches
+        df['DESCENDANT_GUESS'] = closest_descendents
+                
         return df
 
     
     else :
         print('Check if input DataFrame columns contain {}'.format(required_columns))
         return None
-
-# FUNCTIONS TO QUERY AND NAVIGATE DATAFRAMES
 
 def get_parent_concept_id(parent) :
     if parent in list(hr['parent_concept_name']) :
@@ -303,148 +388,6 @@ def get_index_of_closest(search, search_space) :
 def get_closest_in_list(search, search_space) :
     return search_space[get_index_of_closest(search, search_space)]
 
-# INPUT:
-# pandas.DataFrame WITH COLUMNS'criteria_string', 'matched_string', 'parent_concept_id'
-
-# OUTPUT:
-# return_ids: LIST OF OMOP CDM CODES ASSOCIATED WITH DESCENDANTS TO GIVEN parent_concept_id
-# return_names: LIST OF DESCENDANTS TO GIVEN parent_concept_id
-# matches: LIST OF BEST STRING MATCHES TO manual_string GIVEN matched_string
-# match_indices: LIST OF FIRST INDEX OF MATCHED STRING IN CLEANED criteria_string
-
-def get_indices_and_potetial_synonyms(df, window = 0, back = False) :
-    
-    return_ids = []
-    return_names = []
-    matches = []
-    match_indices = []
-    closest_descendents = []
-    
-    required_columns = set(['criteria_string', 'matched_string', 'parent_concept_id'])
-    
-    if required_columns.issubset(set(df.columns)) :
-
-        detected_string = []
-    
-        for i, query in enumerate(list(df['criteria_string'])) :
-            
-            chars_to_ignore = [',', '.', ':', ';', '(', ')', '[', ']', '#', '%', '<', '>', '/', '"', '*', '-', '―']
-            query = query.split(' ')
-            query = clean_string_list(query, chars_to_ignore = chars_to_ignore)
-            
-            parent_concept_id = list(df['parent_concept_id'])[i]
-            match_candidates = get_descendents_df(parent_concept_id)
-            candidate_ids = set(match_candidates['descendant_concept_id'])
-            candidate_names = set(match_candidates['descendant_synonym_name'])
-            return_names.append(candidate_names)
-            return_ids.append(candidate_ids)    
-
-            candidate_words = list(df['matched_string'])[i].split(' ')
-            match = [x for x in query if candidate_words[0] in x]
-            match_index = 100
-            if match and len(candidate_words) == 1 :
-                matches.append(match[0])
-                match_index = query.index(match[0])
-                match_indices.append(match_index)
-            elif match and len(candidate_words) > 1 :
-                match_index = query.index(match[0])
-                match_indices.append(match_index)
-                matches.append(' '.join(query[match_index:match_index+len(candidate_words)]))
-            elif len(candidate_words) > 1 :
-                match = [x for x in query if candidate_words[1] in x]
-                match_index = query.index(match[0])
-                matches.append(match[0])
-                match_indices.append(match_index)
-            else :
-                match_index = get_index_of_closest(candidate_words[0], query)
-                if match_index is None :
-                    print('Term {} was not found in criteria string.'.format(' '.join(candidate_words)))
-                else :
-                    if len(candidate_words) == 1 :
-                        match_indices.append(match_index)
-                        match = query[match_index]
-                        matches.append(match)
-                    else :
-                        match_indices.append(match_index)
-                        match = ' '.join(query[match_index:match_index+len(candidate_words)])
-                        matches.append(match)
-                        
-            if window == 0 :
-                search_string = match[0]
-            elif match_index - window > 0 and match_index + window < len(query) and back == True :
-                search_string = query[match_index - window : match_index + window]
-            elif match_index - window > 0 :
-                search_string = query[match_index - window : match_index]
-            elif back == True :
-                search_string = query[match_index : match_index + window]
-            else :
-                search_string = match[0]
-            
-#             narrowed_candidates = [x for x in list(match_candidates['descendant_synonym_name']) if match[0] in x] 
-            closest_descendent = get_closest_in_list(search_string, list(match_candidates['descendant_synonym_name']))
-            closest_descendents.append(closest_descendent)          
-            
-    
-    return matches, match_indices, closest_descendents
-
-
-def check_modifiers(df, window = 3, severity_modifiers = None) :
-    required_columns = set(['criteria_string', 'matched_string', 'parent_concept_name'])
-    matches, match_indices, closest_descendents = get_indices_and_potetial_synonyms(df, window = 0, back = True)
-    
-    if required_columns.issubset(set(df.columns)) :
-        
-        modified = []
-        detected_string = []
-    
-        for idx, s in enumerate(list(df['criteria_string'])) :
-            # CLEAN criteria_string
-            chars_to_ignore = [',', '.', ':', ';', '(', ')', '[', ']',
-                               '#', '%', '<', '>', '/', '"', '*', '-', '―']
-            s = s.split(' ')
-            s = clean_string_list(s, list_output = False, chars_to_ignore = chars_to_ignore)
-
-            if severity_modifiers == None : severity_modifiers = set(['severe', 'significant', 'serious'])
-            else :
-                severity_modifiers = list(severity_modifiers)
-                severity_modifiers = set([str(x).lower() for x in severity_modifiers])
-
-            # CHECK IF PREDEFINED SEVERITY MODIFIERS ARE IN criteria_string
-            matched_modifier_set = severity_modifiers.intersection(set(s))
-            if len(matched_modifier_set) >= 1:
-                matched_modifier = list(matched_modifier_set)[0]
-                concept_string = list(df['parent_concept_name'])[idx].split(' ')[0]
-                modifier_index = s.index(matched_modifier)
-                if concept_string in s :
-                    concept_index = s.index(concept_string)
-                    index_distance = abs(concept_index - modifier_index)
-                    if index_distance < window :
-                        modified.append(1)
-                    else : modified.append(0)
-                else :
-                    modified.append(0)
-            else :
-                modified.append(0)
-
-        temp = []
-        for x in df['severity_modifier'] :
-            if x != 'unmarked' :
-                temp.append(1)
-            else :
-                temp.append(0)
-                
-        df['truth_label'] = temp
-                
-        if 'modified' in df.columns : df.drop('modified', axis = 1)
-        df['MODIFIED_GUESS'] = modified
-        df['CONCEPT_GUESS'] = matches
-        df['DESCENDANT_GUESS'] = closest_descendents
-        
-        return df
-    
-    else :
-        print('Check if input DataFrame columns contain {}'.format(required_columns))
-        return None
     
 def main() :
     
