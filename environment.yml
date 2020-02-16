@@ -11,7 +11,6 @@ dependencies:
   - conda-forge::notebook=6.0.3
   - conda-forge::numpy=1.18.1
   - conda-forge::pandas=1.0.1
-  - conda-forge::pyemd=0.5.1
   - conda-forge::python=3.7.6
   - conda-forge::requests=2.22.0
   - conda-forge::scikit-learn=0.22.1
